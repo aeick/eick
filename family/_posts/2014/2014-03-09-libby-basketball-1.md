@@ -8,6 +8,7 @@ tags:
 - basketball
 published: true
 share: true
+featured_image: "/assets/images/2014/2014-02-15/320/2014-02-15-libby-basketball-2014-02-15-at-19-17-47.jpg"
 ---
 Libby playing basketball. Libby was really good at playing defense but really didn't like offense. Her team tried to put in a complex switching defensive scheme, but she didn't understand that. She got fouled once and had to take a foul shot. She didn't like that at all.
 
