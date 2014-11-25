@@ -15,7 +15,6 @@ featured_image: "/assets/images/2014/2014-04-12/1280/soccer-peeps-game-2-2014-04
 ---
 ![Soccer Peeps Game 2](/assets/images/2014/2014-04-12/1280/soccer-peeps-game-2-2014-04-12-14-32-02.jpg "Soccer Peeps Game 2")
 ![Soccer Peeps Game 2](/assets/images/2014/2014-04-12/1280/soccer-peeps-game-2-2014-04-12-14-34-57.jpg "Soccer Peeps Game 2")
-![Soccer Peeps Game 2](/assets/images/2014/2014-04-12/1280/soccer-peeps-game-2-2014-04-12-14-34-57.jpg "Soccer Peeps Game 2")
 ![Soccer Peeps Game 2](/assets/images/2014/2014-04-12/1280/soccer-peeps-game-2-2014-04-12-15-01-51.jpg "Soccer Peeps Game 2")
 ![Soccer Peeps Game 2](/assets/images/2014/2014-04-12/1280/soccer-peeps-game-2-2014-04-12-15-04-24.jpg "Soccer Peeps Game 2")
 ![Soccer Peeps Game 2](/assets/images/2014/2014-04-12/1280/soccer-peeps-game-2-2014-04-12-15-11-28.jpg "Soccer Peeps Game 2")
