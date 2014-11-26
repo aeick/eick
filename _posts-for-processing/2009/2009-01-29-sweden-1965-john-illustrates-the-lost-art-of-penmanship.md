@@ -3,8 +3,6 @@ layout: post
 title: Sweden 1965, John illustrates "The Lost Art of Penmanship"
 date: 2009-01-29
 published: true
-meta: {}
-
 tags:
 - family
 type: post
@@ -15,18 +13,9 @@ keywords:
 - picture
 status: publish
 ---
-
-
-
-
-
-
 One of the pictures dad took in Sweden in 1965 while on sabbatical was used to illustrate a story on FOX 6 Milwaukee.  I wonder who the author even found the picture!  John was three years old in this picture.  I wonder if they were  learning to write in English or Swedish!
 
-
-
-[![](http://media.eick.us/2011/05/3234080496_6701a44959_o.png)](http://www.myfoxmilwaukee.com/myfox/pages/News/Detail?contentId=8314613&version=1&locale=EN-US&layoutCode=TSTY&pageId=3.1.1)
-
+![](http://media.eick.us/2011/05/3234080496_6701a44959_o.png)](http://www.myfoxmilwaukee.com/myfox/pages/News/Detail?contentId=8314613&version=1&locale=EN-US&layoutCode=TSTY&pageId=3.1.1)
 
 
 While browsing through the pictures from that year, I found a few more good ones....
