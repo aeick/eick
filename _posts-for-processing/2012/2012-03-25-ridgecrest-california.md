@@ -12,12 +12,12 @@ keywords:
 A few iPhone pictures from my travels over the last month from California
 
 
-![](/assets/images/2012/2012-03-25/Ridgecrest-2.jpg "iPhone snap" )
+![iPhone snap](/assets/images/2012/2012-03-25/Ridgecrest-2.jpg)
 
 
 
 
 
 
-![](/assets/images/2012/2012-03-25/Ridgecrest-1.jpg "iPhone snap" )
+![iPhone snap](/assets/images/2012/2012-03-25/Ridgecrest-1.jpg)
 

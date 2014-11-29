@@ -10,13 +10,13 @@ keywords:
 ---
 Statues along Whitehall (Avenue?  Street?  Way?  Not sure what the name of the street is)
 
-![](/assets/images/2012/2012-02-12/London-56.jpg "statues" )
+![statues](/assets/images/2012/2012-02-12/London-56.jpg)
 
 
-![](/assets/images/2012/2012-02-12/London-57.jpg "Monty" )
+![Monty](/assets/images/2012/2012-02-12/London-57.jpg)
 
 
-![](/assets/images/2012/2012-02-12/London-58.jpg "Field Marshall Alan Brooke" )
+![Field Marshall Alan Brooke](/assets/images/2012/2012-02-12/London-58.jpg)
 
 
 I think this was Teddy Roosevelt, but I'm not really sure.

@@ -10,26 +10,26 @@ keywords:
 ---
 London
 
-![](/assets/images/2012/2012-02-12/London-44.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-44.jpg)
 
 
 Just can't take a bad picture of the detail on the clock face.  The trouble is getting a good perspective.
 
-![](/assets/images/2012/2012-02-12/London-45.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-45.jpg)
 
 
-![](/assets/images/2012/2012-02-12/London-46.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-46.jpg)
 
 
 More detail of westminster abbey
 
-![](/assets/images/2012/2012-02-12/London-55.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-55.jpg)
 
 
 Abbey from the conference room (iPhone photo)
 
-![](/assets/images/2012/2012-02-12/London-47.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-47.jpg)
 
 
-![](/assets/images/2012/2012-02-12/London-49.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-49.jpg)
 

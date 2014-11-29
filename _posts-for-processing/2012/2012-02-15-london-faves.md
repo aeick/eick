@@ -10,23 +10,23 @@ keywords:
 ---
 London
 
-![](/assets/images/2012/2012-02-12/London-64.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-64.jpg)
 
 
 Silhouette statue.  I walking right by this, and the picture had to be pointed out to me -- and it's my favorite shot of the trip.
 
-![](/assets/images/2012/2012-02-12/London-31.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-31.jpg)
 
 
 Boardwalk leading down to the Thames.  Quite an overcast day.
 
-![](/assets/images/2012/2012-02-12/London-44.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-44.jpg)
 
 
-![](/assets/images/2012/2012-02-12/London-47.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-47.jpg)
 
 
-![](/assets/images/2012/2012-02-12/London-15.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-15.jpg)
 
 
 Lord Nelson (of Nelson's column fame) -- This is how you do a war memorial, no need for minimalism.

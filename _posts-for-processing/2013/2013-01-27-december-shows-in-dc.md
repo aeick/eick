@@ -8,20 +8,20 @@ keywords:
 ---
 Christmas time in DC.
 
-![](/assets/images/2012/2012-12-24/December-Shows2012-12-23at16-06-42.jpg "Christmas shows in Washington DC" )
+![Christmas shows in Washington DC](/assets/images/2012/2012-12-24/December-Shows2012-12-23at16-06-42.jpg)
 
-![](/assets/images/2012/2012-12-24/December-Shows2012-12-23at16-05-20.jpg "Christmas shows in Washington DC" )
+![Christmas shows in Washington DC](/assets/images/2012/2012-12-24/December-Shows2012-12-23at16-05-20.jpg)
 
-![](/assets/images/2012/2012-12-24/December-Shows2012-12-23at16-00-20.jpg "Christmas shows in Washington DC" )
+![Christmas shows in Washington DC](/assets/images/2012/2012-12-24/December-Shows2012-12-23at16-00-20.jpg)
 
-![](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-59-25.jpg "Christmas shows in Washington DC" )
+![Christmas shows in Washington DC](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-59-25.jpg)
 
-![](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-57-00.jpg "Christmas shows in Washington DC" )
+![Christmas shows in Washington DC](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-57-00.jpg)
 
-![](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-49-49.jpg "Christmas shows in Washington DC" )
+![Christmas shows in Washington DC](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-49-49.jpg)
 
-![](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-29-17.jpg "Christmas shows in Washington DC" )
+![Christmas shows in Washington DC](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-29-17.jpg)
 
-![](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-27-33.jpg "Christmas shows in Washington DC" )
+![Christmas shows in Washington DC](/assets/images/2012/2012-12-24/December-Shows2012-12-23at15-27-33.jpg)
 
-![](/assets/images/2012/2012-12-24/December-Shows2012-12-22at17-25-51.jpg "Christmas shows in Washington DC" )
+![Christmas shows in Washington DC](/assets/images/2012/2012-12-24/December-Shows2012-12-22at17-25-51.jpg)

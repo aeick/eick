@@ -9,22 +9,22 @@ keywords:
 ---
 Who knew that you could just walk up to Parliament and get a tour?  I wonder if we can go and tour the Capitol?
 
-![](/assets/images/2012/2012-02-12/London-50.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-50.jpg)
 
 
 Woodwork in the ceiling.
 
-![](/assets/images/2012/2012-02-12/London-51.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-51.jpg)
 
 
 Entry way to into the chambers
 
-![](/assets/images/2012/2012-02-12/London-52.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-52.jpg)
 
 
 Deer (I think)
 
-![](/assets/images/2012/2012-02-12/London-53.jpg "London" )
+![London](/assets/images/2012/2012-02-12/London-53.jpg)
 
 
 Entry hall.  They used to hold jousting matches here.

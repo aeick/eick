@@ -10,5 +10,5 @@ thumbsrc: http://media.eick.us/2012/2012-07-22/320x320/ScreenShot2012-06-15at5.j
 ---
 Captcha verification are starting to get really hard to type (where is the PI key on my keyboard?)
 
-![](/assets/images/2012/2012-07-22/ScreenShot2012-06-15at5.jpg "hard captcha" )
+![hard captcha](/assets/images/2012/2012-07-22/ScreenShot2012-06-15at5.jpg)
 
