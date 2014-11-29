@@ -11,8 +11,8 @@ categories:
 ---
 Came across these pictures of the girls taken a few years ago when they were 3-ish - 4-ish...
 
-{% photo /original/2007/2007-12-25/2007-12-25-at-20-10-59.jpg "Pirate Jasmine" %}
+![Pirate Jasmine](/assets/images/2007/2007-12-25/2007-12-25-at-20-10-59.jpg)
 
-{% photo /original/2007/2007-12-25/2007-12-25-at-20-36-38.jpg "Pirate Jasmine looks through the telescope" %}
+![Pirate Jasmine looks through the telescope](/assets/images/2007/2007-12-25/2007-12-25-at-20-36-38.jpg)
 
-{% photo /original/2007/2007-12-25/2007-12-25-at-20-37-53.jpg "Jasmine and Libby look out the ship" %}
+![Jasmine and Libby look out the ship](/assets/images/2007/2007-12-25/2007-12-25-at-20-37-53.jpg)
