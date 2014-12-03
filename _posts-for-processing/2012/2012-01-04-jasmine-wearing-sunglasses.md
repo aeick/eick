@@ -11,5 +11,5 @@ tags:
 ---
 Jasmine models her sunglasses.
 
-{% photo /original/2012/santa-on-national-mall/IMG_3259-2011-12-31at09-34-12.jpg "Jasmine in Sunglasses" %}
+![Jasmine in Sunglasses](/assets/images/2012/santa-on-national-mall/IMG_3259-2011-12-31at09-34-12.jpg)
 

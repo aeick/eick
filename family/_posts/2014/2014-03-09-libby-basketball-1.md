@@ -8,34 +8,34 @@ tags:
 - basketball
 published: true
 share: true
-featured_image: "/assets/images/2014/2014-02-15/320/2014-02-15-libby-basketball-2014-02-15-at-19-17-47.jpg"
+featured_image: "/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-17-47.jpg"
 ---
 Libby playing basketball. Libby was really good at playing defense but really didn't like offense. Her team tried to put in a complex switching defensive scheme, but she didn't understand that. She got fouled once and had to take a foul shot. She didn't like that at all.
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-22-09.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-22-09.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-26-09.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-26-09.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-28-46.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-28-46.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-29-06.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-29-06.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-31-53.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-31-53.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-32-39.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-32-39.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-38-08.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-38-08.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-38-42.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-38-42.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-39-10.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-39-10.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-40-07.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-40-07.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-40-50.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-40-50.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-43-45.jpg "Libby playing Basketball" )
+![Libby playing Basketball](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-43-45.jpg)
 
-![]({{ site.mediaurl }}2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-17-47.jpg "Jasmine watching Libby play" )
+![Jasmine watching Libby play](/assets/images/2014/2014-02-15/2014-02-15-libby-basketball-2014-02-15-at-19-17-47.jpg)
 
 
