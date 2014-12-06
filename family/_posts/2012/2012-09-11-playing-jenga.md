@@ -14,12 +14,12 @@ Jasmine wanted to play Jenga, so Chris built a pretty precarious tower that Jasm
 
 (only iPhone pictures, so not very clear!)
 
-![Playing Jenga with Agony](/assets/images/2012/2012-09-11/2012-09-10at20.39.21.jpg)
+![Playing Jenga with Agony](http://media.eick.us/media/photographs/2012/2012-09-11/2012-09-10at20.39.21.jpg)
 
-![Playing Jenga with Agony](/assets/images/2012/2012-09-11/2012-09-10at20.55.31.jpg)
+![Playing Jenga with Agony](http://media.eick.us/media/photographs/2012/2012-09-11/2012-09-10at20.55.31.jpg)
 
-![Playing Jenga with Agony](/assets/images/2012/2012-09-11/2012-09-10at20.55.32.jpg)
+![Playing Jenga with Agony](http://media.eick.us/media/photographs/2012/2012-09-11/2012-09-10at20.55.32.jpg)
 
-![Playing Jenga with Agony](/assets/images/2012/2012-09-11/2012-09-10at20.55.33.jpg)
+![Playing Jenga with Agony](http://media.eick.us/media/photographs/2012/2012-09-11/2012-09-10at20.55.33.jpg)
 
 

@@ -12,18 +12,18 @@ Rusty, Jasmine, Libby, and Marie Grace
 
 
 
-![Rusty, Jasmine, Libby, and Marie Grace](/assets/images/2012/2012-03-28/Random-iPhone-7.jpg)
+![Rusty, Jasmine, Libby, and Marie Grace](http://media.eick.us/media/photographs/2012/2012-03-28/Random-iPhone-7.jpg)
   
 
 
 
 
-![Rusty, Jasmine, Libby, and Marie Grace](/assets/images/2012/2012-03-28/Random-iPhone-6.jpg)
+![Rusty, Jasmine, Libby, and Marie Grace](http://media.eick.us/media/photographs/2012/2012-03-28/Random-iPhone-6.jpg)
   
 
 
 
 
-![Rusty, Jasmine, Libby, and Marie Grace](/assets/images/2012/2012-03-28/Random-iPhone-5.jpg)
+![Rusty, Jasmine, Libby, and Marie Grace](http://media.eick.us/media/photographs/2012/2012-03-28/Random-iPhone-5.jpg)
   
 

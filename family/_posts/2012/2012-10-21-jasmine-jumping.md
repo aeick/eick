@@ -10,14 +10,14 @@ thumbsrc: http://media.eick.us/2012/2012-10-20/640x640/Studio2012-10-19at19-41-5
 ---
 Jasmine jumping.
 
-![Studio](/assets/images/2012/2012-10-20/Studio2012-10-19at19-44-45-2012-10-19at19-44-45.jpg)
+![Studio](http://media.eick.us/media/photographs/2012/2012-10-20/Studio2012-10-19at19-44-45-2012-10-19at19-44-45.jpg)
 
 
-![Studio](/assets/images/2012/2012-10-20/Studio2012-10-19at19-43-46-2012-10-19at19-43-46.jpg)
+![Studio](http://media.eick.us/media/photographs/2012/2012-10-20/Studio2012-10-19at19-43-46-2012-10-19at19-43-46.jpg)
 
 
-![Studio](/assets/images/2012/2012-10-20/Studio2012-10-19at19-41-55-2012-10-19at19-41-55.jpg)
+![Studio](http://media.eick.us/media/photographs/2012/2012-10-20/Studio2012-10-19at19-41-55-2012-10-19at19-41-55.jpg)
 
 
-![Studio](/assets/images/2012/2012-10-20/Studio2012-10-19at19-41-20-2012-10-19at19-41-20.jpg)
+![Studio](http://media.eick.us/media/photographs/2012/2012-10-20/Studio2012-10-19at19-41-20-2012-10-19at19-41-20.jpg)
 

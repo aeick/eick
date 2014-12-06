@@ -6,6 +6,6 @@ comments: false
 categories: 
 - Libby
 ---
-![Libby reading a book](/assets/images/2012/2012-01-14/2012-01-15-at-20.17.48.jpg)
+![Libby reading a book](http://media.eick.us/media/photographs/2012/2012-01-14/2012-01-15-at-20.17.48.jpg)
 
 

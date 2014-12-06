@@ -15,6 +15,6 @@ Libby still changes her into her nightgown and puts her to bed every night, and 
 
 
 
-![Marie Grace and Julie sleep high above Times Square](/assets/images/2012/2012-04-08-1/2012-04-08at07.16.29.jpg)
+![Marie Grace and Julie sleep high above Times Square](http://media.eick.us/media/photographs/2012/2012-04-08-1/2012-04-08at07.16.29.jpg)
 
 

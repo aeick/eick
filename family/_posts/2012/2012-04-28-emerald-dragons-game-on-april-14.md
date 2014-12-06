@@ -20,74 +20,74 @@ I also put together a web site for me to post pictures of the whole team.  The [
 
 
 
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-39.jpg)
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-39.jpg)
 
 
 
 
 
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-33.jpg)
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-33.jpg)
 
 
 
 
-![Libby](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-19.jpg)
-
-
-
-
-
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-31.jpg)
+![Libby](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-19.jpg)
 
 
 
 
 
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-30.jpg)
-
-
-
-
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-29.jpg)
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-31.jpg)
 
 
 
 
 
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-25.jpg)
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-30.jpg)
+
+
+
+
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-29.jpg)
 
 
 
 
 
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-24.jpg)
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-25.jpg)
+
+
+
+
+
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-24.jpg)
 
 
 
 
 
 
-![Jasmine jockey's for position](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-14.jpg)
+![Jasmine jockey's for position](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-14.jpg)
 
 
 
 
 
-![chasing down the ball](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-12.jpg)
+![chasing down the ball](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-12.jpg)
 
 
 
 
 
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-3.jpg)
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-3.jpg)
 
 
 
 
 
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-2.jpg)
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-2.jpg)
 
 
 
 
-![](/assets/images/2012/2012-04-22/emerald-dragons-2012-04-14-1.jpg)
+![](http://media.eick.us/media/photographs/2012/2012-04-22/emerald-dragons-2012-04-14-1.jpg)

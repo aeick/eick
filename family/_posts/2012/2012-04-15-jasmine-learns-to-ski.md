@@ -13,10 +13,10 @@ Jasmine's first time on skis from 2008.  Now that the weather is finally turning
 
 
 
-![Jasmine skiing in 2008](/assets/images/2012/2012-04-08/jasmine-skiing-2008-001.jpg)
+![Jasmine skiing in 2008](http://media.eick.us/media/photographs/2012/2012-04-08/jasmine-skiing-2008-001.jpg)
 
 
 
 
-![Jasmine skiing in 2008](/assets/images/2012/2012-04-08/20080127-20080127-IMG_1993-.jpg)
+![Jasmine skiing in 2008](http://media.eick.us/media/photographs/2012/2012-04-08/20080127-20080127-IMG_1993-.jpg)
 

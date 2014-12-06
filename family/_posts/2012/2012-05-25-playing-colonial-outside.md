@@ -15,12 +15,12 @@ After school Libby wanted to play Colonial in her new dress (I really like periw
 
 
 
-![Libby looking glum](/assets/images/2012/2012-05-25/2012-05-24at17.36.27.jpg)
+![Libby looking glum](http://media.eick.us/media/photographs/2012/2012-05-25/2012-05-24at17.36.27.jpg)
 
 
 
 
-![Libby and Jasmine](/assets/images/2012/2012-05-25/2012-05-24at17.29.40.jpg)
+![Libby and Jasmine](http://media.eick.us/media/photographs/2012/2012-05-25/2012-05-24at17.29.40.jpg)
 
 
 
@@ -28,5 +28,5 @@ Jasmine looking strange
 
 
 
-![Jasmine looking strange](/assets/images/2012/2012-05-25/2012-05-24at17.28.37.jpg)
+![Jasmine looking strange](http://media.eick.us/media/photographs/2012/2012-05-25/2012-05-24at17.28.37.jpg)
 

@@ -11,10 +11,10 @@ Libby in her dress and with Marie Grace.
 
 
 
-![Libby in her dress](/assets/images/2012/2012-05-06-2/libby-communion-13.jpg)
+![Libby in her dress](http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-13.jpg)
 
 
 
 
-![Libby and Marie Grace](/assets/images/2012/2012-05-06-2/libby-communion-14.jpg)
+![Libby and Marie Grace](http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-14.jpg)
 

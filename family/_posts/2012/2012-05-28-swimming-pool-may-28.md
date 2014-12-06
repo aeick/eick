@@ -14,10 +14,10 @@ Jasmine and Libby at the pool.
 
 
 
-![Jasmine](/assets/images/2012/2012-05-28/2012-05-28at18.03.36.jpg)
+![Jasmine](http://media.eick.us/media/photographs/2012/2012-05-28/2012-05-28at18.03.36.jpg)
 
 
 
 
-![Libby](/assets/images/2012/2012-05-28/2012-05-28at18.00.59.jpg)
+![Libby](http://media.eick.us/media/photographs/2012/2012-05-28/2012-05-28at18.00.59.jpg)
 

@@ -14,7 +14,7 @@ slug: treating-the-dolls
 Jasmine and Libby were "playing medical" with American Girl doll Kaya.
 
 
-![Treating the dolls](/assets/images/2013/2013-03-16/Playing-Medical-2013-03-16-at-10-29-45.jpg)
+![Treating the dolls](http://media.eick.us/media/photographs/2013/2013-03-16/Playing-Medical-2013-03-16-at-10-29-45.jpg)
 
 
-![Treating the dolls](/assets/images/2013/2013-03-16/Playing-Medical-2013-03-16-at-10-29-34.jpg)
+![Treating the dolls](http://media.eick.us/media/photographs/2013/2013-03-16/Playing-Medical-2013-03-16-at-10-29-34.jpg)

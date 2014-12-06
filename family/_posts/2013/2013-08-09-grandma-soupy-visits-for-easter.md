@@ -12,4 +12,4 @@ slug: grandma-soupy-visits-for-easter
 ---
 Jasmine and Libby with Lena when she came over for Easter.
 
-![Easter portrait with Lena](/assets/images/2013/2013-03-31/Lena-Portrait-2013-03-31-at-10-47-22.jpg)
+![Easter portrait with Lena](http://media.eick.us/media/photographs/2013/2013-03-31/Lena-Portrait-2013-03-31-at-10-47-22.jpg)

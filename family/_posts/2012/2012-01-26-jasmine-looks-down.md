@@ -6,5 +6,5 @@ comments: false
 categories: 
 - jasmine
 ---
-![Jasmine looking down](/assets/images/2012/2012-01-25/IMG_3284-.jpg)
+![Jasmine looking down](http://media.eick.us/media/photographs/2012/2012-01-25/IMG_3284-.jpg)
 

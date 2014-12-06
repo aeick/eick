@@ -12,7 +12,7 @@ Jasmine
 
 
 
-![Jasmine](/assets/images/2012/2012-03-25/Random-2.jpg)
+![Jasmine](http://media.eick.us/media/photographs/2012/2012-03-25/Random-2.jpg)
 
 
 Libby
@@ -20,4 +20,4 @@ Libby
 
 
 
-![Libby](/assets/images/2012/2012-03-25/Random-1.jpg)
+![Libby](http://media.eick.us/media/photographs/2012/2012-03-25/Random-1.jpg)

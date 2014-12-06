@@ -13,5 +13,5 @@ Libby posing like (what she thinks) a teenage does
 
 
 
-![Libby posing like (what she thinks) a teenage does](/assets/images/2012/2012-05-14/2012-05-13at16.27.33.jpg)
+![Libby posing like (what she thinks) a teenage does](http://media.eick.us/media/photographs/2012/2012-05-14/2012-05-13at16.27.33.jpg)
 

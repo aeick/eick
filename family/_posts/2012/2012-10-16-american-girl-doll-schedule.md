@@ -14,8 +14,8 @@ I thought she'd get tired of it (Jasmine did), but 10 or so months later, she st
 
 After they are changed, she lines them up on the couch while she goes to school...
 
-![American Girl doll schedule](/assets/images/2012/2012-10-15/american-girl-doll-schedule.JPG)
+![American Girl doll schedule](http://media.eick.us/media/photographs/2012/2012-10-15/american-girl-doll-schedule.JPG)
 
 
-![American Girl dolls on the couch](/assets/images/2012/2012-10-15/2012-10-08at09.58.15.jpg)
+![American Girl dolls on the couch](http://media.eick.us/media/photographs/2012/2012-10-15/2012-10-08at09.58.15.jpg)
 

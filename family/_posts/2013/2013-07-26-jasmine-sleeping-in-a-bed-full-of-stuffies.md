@@ -11,6 +11,6 @@ slug: jasmine-sleeping-in-a-bed-full-of-stuffies
 ---
 I'm not even sure where Jasmine sleeps, but she sure seems to
 
-![Stuffed animals on a bed](/assets/images/2013/2013-04-01/2013-04-iPhone-2013-04-01-at-20-06-17.jpg)
+![Stuffed animals on a bed](http://media.eick.us/media/photographs/2013/2013-04-01/2013-04-iPhone-2013-04-01-at-20-06-17.jpg)
 
-![Jasmine sleeping in a busy bed](/assets/images/2013/2013-03-28/2013-03-28-at-07-41-17.jpg)
+![Jasmine sleeping in a busy bed](http://media.eick.us/media/photographs/2013/2013-03-28/2013-03-28-at-07-41-17.jpg)

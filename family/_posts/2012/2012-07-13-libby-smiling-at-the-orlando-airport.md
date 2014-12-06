@@ -10,5 +10,5 @@ thumbsrc: http://media.eick.us/2012/2012-07-13-2/1024x1024/2012-07-07at18.00.27.
 ---
 Libby smiling at the Orlando Airport.
 
-![Libby smiling at the Orlando Airport](/assets/images/2012/2012-07-13-2/2012-07-07at18.00.27.jpg)
+![Libby smiling at the Orlando Airport](http://media.eick.us/media/photographs/2012/2012-07-13-2/2012-07-07at18.00.27.jpg)
 

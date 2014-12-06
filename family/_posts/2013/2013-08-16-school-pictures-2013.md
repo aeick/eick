@@ -12,10 +12,10 @@ slug: school-pictures-2013
 ---
 Libby, grade 3, and Jasmine, grade 4, school pictures.
 
-![2013 School Pictures](/assets/images/2013/2013-04-25/2013-school-pictures-2013-04-25-at-15-05-32.jpg)
+![2013 School Pictures](http://media.eick.us/media/photographs/2013/2013-04-25/2013-school-pictures-2013-04-25-at-15-05-32.jpg)
 
-![2013 School Pictures](/assets/images/2013/2013-04-25/2013-school-pictures-2013-04-25-at-15-06-24.jpg)
+![2013 School Pictures](http://media.eick.us/media/photographs/2013/2013-04-25/2013-school-pictures-2013-04-25-at-15-06-24.jpg)
 
-![2013 School Pictures](/assets/images/2013/2013-04-25/2013-school-pictures-2013-04-25-at-15-03-30.jpg)
+![2013 School Pictures](http://media.eick.us/media/photographs/2013/2013-04-25/2013-school-pictures-2013-04-25-at-15-03-30.jpg)
 
-![2013 School Pictures](/assets/images/2013/2013-04-25/2013-school-pictures-2013-04-25-at-15-04-20.jpg)
+![2013 School Pictures](http://media.eick.us/media/photographs/2013/2013-04-25/2013-school-pictures-2013-04-25-at-15-04-20.jpg)

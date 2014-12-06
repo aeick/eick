@@ -11,4 +11,4 @@ slug: old-tymey-libby
 ---
 Old Tymey Libby.
 
-![Libby in her purple dress before her piano recital](/assets/images/2013/2013-10-27/libby-before-piano-2013-10-27-at-11-21-06.jpg)
+![Libby in her purple dress before her piano recital](http://media.eick.us/media/photographs/2013/2013-10-27/libby-before-piano-2013-10-27-at-11-21-06.jpg)

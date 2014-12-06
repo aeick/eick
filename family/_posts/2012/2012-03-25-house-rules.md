@@ -16,5 +16,5 @@ Jasmine made house rules now that they cleaned the basement.
 
 
 
-![House Rules](/assets/images/2012/2012-03-25/Random-3.jpg)
+![House Rules](http://media.eick.us/media/photographs/2012/2012-03-25/Random-3.jpg)
 

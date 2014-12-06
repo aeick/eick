@@ -13,10 +13,10 @@ The Emerald Dragons soccer game from April 21.  Still not up to the weekend last
  
 I also put together a web site for me to post pictures of the whole team.  The [Web site](http://emerald-dragons.net) will have all the pictures I take from the games that you can view as a slideshow.
 
-![throw in](/assets/images/2012/2012-04-25/e-d-2012-04-21-33.jpg)
+![throw in](http://media.eick.us/media/photographs/2012/2012-04-25/e-d-2012-04-21-33.jpg)
 
-![Jasmine](/assets/images/2012/2012-04-25/e-d-2012-04-21-18.jpg)
+![Jasmine](http://media.eick.us/media/photographs/2012/2012-04-25/e-d-2012-04-21-18.jpg)
 
-![Jasmine runs upfield](/assets/images/2012/2012-04-25/e-d-2012-04-21-11.jpg)
+![Jasmine runs upfield](http://media.eick.us/media/photographs/2012/2012-04-25/e-d-2012-04-21-11.jpg)
 
-![Jasmine anticipates the pass](/assets/images/2012/2012-04-25/e-d-2012-04-21-5.jpg)
+![Jasmine anticipates the pass](http://media.eick.us/media/photographs/2012/2012-04-25/e-d-2012-04-21-5.jpg)

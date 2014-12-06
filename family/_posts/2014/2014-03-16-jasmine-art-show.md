@@ -11,22 +11,22 @@ share: true
 ---
 Jasmine had a collage in the McLean art show.
 
-![Jasmine and her collage](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-12-54-34.jpg)
+![Jasmine and her collage](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-12-54-34.jpg)
 
-![Libby at McLean community center](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-12-59-41.jpg)
+![Libby at McLean community center](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-12-59-41.jpg)
 
-![Libby bites a lemon cookie](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-01-00.jpg)
+![Libby bites a lemon cookie](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-01-00.jpg)
 
-![Jasmine's art show at McLean community center](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-13-42.jpg)
+![Jasmine's art show at McLean community center](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-13-42.jpg)
 
-![Jasmine's art show at McLean community center](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-15-21.jpg)
+![Jasmine's art show at McLean community center](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-15-21.jpg)
 
-![Jasmine's art show at McLean community center](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-16-53.jpg)
+![Jasmine's art show at McLean community center](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-16-53.jpg)
 
-![Jasmine acts surprised](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-17-39.jpg)
+![Jasmine acts surprised](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-17-39.jpg)
 
-![Jasmine takes a picture of Andy](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-17-51.jpg)
+![Jasmine takes a picture of Andy](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-17-51.jpg)
 
-![Jasmine reading in the Library.](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-34-40.jpg)
+![Jasmine reading in the Library.](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-13-34-40.jpg)
 
-![Jasmine's art show at McLean community center](/assets/images/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-12-09-55.jpg)
+![Jasmine's art show at McLean community center](http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-12-09-55.jpg)

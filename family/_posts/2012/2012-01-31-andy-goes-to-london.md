@@ -20,9 +20,9 @@ Here is the blurb from the conference agenda.
 A few pictures from my iPhone. (I have more pictures that I need to upload in a few days!)
 
 Jasmine and Libby video chatting with me at the airport.
-![Waiting at DCA](/assets/images/2012/2012-01-25/IMG_3310-2.jpg)
+![Waiting at DCA](http://media.eick.us/media/photographs/2012/2012-01-25/IMG_3310-2.jpg)
 
 
 The view from the conference window.
-![Out of the conference room window](/assets/images/2012/2012-01-25/IMG_3323-.jpg)
+![Out of the conference room window](http://media.eick.us/media/photographs/2012/2012-01-25/IMG_3323-.jpg)
 

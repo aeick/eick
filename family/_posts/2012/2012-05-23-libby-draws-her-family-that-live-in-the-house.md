@@ -12,4 +12,4 @@ Libby draws her whole family (only the ones who live in her house)
 
 
 
-![Libby draws her whole family](/assets/images/2012/2012-05-23/2012-05-20at17.02.55.jpg)
+![Libby draws her whole family](http://media.eick.us/media/photographs/2012/2012-05-23/2012-05-20at17.02.55.jpg)

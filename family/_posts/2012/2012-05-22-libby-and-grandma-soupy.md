@@ -10,8 +10,8 @@ thumbsrc: http://media.eick.us/2012/2012-05-06-2/1024x1024/libby-communion-16.jp
 ---
 Libby and Grandma Soupy
 
-![Libby and Grandma Soupy 1](/assets/images/2012/2012-05-06-2/libby-communion-16.jpg)
+![Libby and Grandma Soupy 1](http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-16.jpg)
 
 
-![Libby and Grandma Soupy 2](/assets/images/2012/2012-05-06-2/libby-communion-17.jpg)
+![Libby and Grandma Soupy 2](http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-17.jpg)
 

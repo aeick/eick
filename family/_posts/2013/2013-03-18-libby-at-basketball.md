@@ -11,11 +11,11 @@ categories:
 ---
 Libby playing basketball on a very busy weekend going from ballet straigt to basketball.
 
-![Libby resting at Ballet](/assets/images/2013/2013-01-12/Libby-Ballet-Studio-2013-01-12-at-16-41-33.jpg)
+![Libby resting at Ballet](http://media.eick.us/media/photographs/2013/2013-01-12/Libby-Ballet-Studio-2013-01-12-at-16-41-33.jpg)
 
-![Libby playing basketball](/assets/images/2013/2013-01-12/Libby-Basketball-2013-01-12-at-18-14-23.jpg)
+![Libby playing basketball](http://media.eick.us/media/photographs/2013/2013-01-12/Libby-Basketball-2013-01-12-at-18-14-23.jpg)
 
-![Jasmine is bored while watching Libby play](/assets/images/2013/2013-01-12/Libby-Basketball-2013-01-12-at-18-14-42.jpg)
+![Jasmine is bored while watching Libby play](http://media.eick.us/media/photographs/2013/2013-01-12/Libby-Basketball-2013-01-12-at-18-14-42.jpg)
 
-![Libby is very glad to take herself out of the game -- She was so tired!](/assets/images/2013/2013-01-12/Libby-Basketball-2013-01-12-at-18-44-58.jpg)
+![Libby is very glad to take herself out of the game -- She was so tired!](http://media.eick.us/media/photographs/2013/2013-01-12/Libby-Basketball-2013-01-12-at-18-44-58.jpg)
 

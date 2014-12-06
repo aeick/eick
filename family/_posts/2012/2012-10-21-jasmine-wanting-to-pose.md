@@ -10,14 +10,14 @@ thumbsrc: http://media.eick.us/2012/2012-10-20/640x640/Studio2012-10-19at19-37-0
 ---
 Jasmine wanting to pose.
 
-![Studio](/assets/images/2012/2012-10-20/Studio2012-10-19at19-37-00-2012-10-19at19-37-00.jpg)
+![Studio](http://media.eick.us/media/photographs/2012/2012-10-20/Studio2012-10-19at19-37-00-2012-10-19at19-37-00.jpg)
 
 
-![Studio](/assets/images/2012/2012-10-20/Studio2012-10-19at19-36-56-2012-10-19at19-36-56.jpg)
+![Studio](http://media.eick.us/media/photographs/2012/2012-10-20/Studio2012-10-19at19-36-56-2012-10-19at19-36-56.jpg)
 
 
-![Studio](/assets/images/2012/2012-10-20/Studio2012-10-19at19-36-45-2012-10-19at19-36-45.jpg)
+![Studio](http://media.eick.us/media/photographs/2012/2012-10-20/Studio2012-10-19at19-36-45-2012-10-19at19-36-45.jpg)
 
 
-![Studio](/assets/images/2012/2012-10-20/Studio2012-10-19at19-36-34-2012-10-19at19-36-34.jpg)
+![Studio](http://media.eick.us/media/photographs/2012/2012-10-20/Studio2012-10-19at19-36-34-2012-10-19at19-36-34.jpg)
 

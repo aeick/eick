@@ -13,5 +13,5 @@ Libby and Jasmine got sketchbooks as souvenir's from Times' Square.  We then wen
 
 
 
-![Libby drawing in NYC](/assets/images/2012/2012-04-07/nyc-libby-drawing.jpg)
+![Libby drawing in NYC](http://media.eick.us/media/photographs/2012/2012-04-07/nyc-libby-drawing.jpg)
 

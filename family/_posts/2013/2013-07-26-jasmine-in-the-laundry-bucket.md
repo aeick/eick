@@ -11,4 +11,4 @@ slug: jasmine-in-the-laundry-bucket
 ---
 Jasmine in the laundry basket(She is probably 2 or 3).  She just couldn't wait to get her blankie out of the washing machine.
 
-![Jasmine in the laundry basket](/assets/images/2005/2005-05-15/2005-05-15-at-15-32-56.jpg)
+![Jasmine in the laundry basket](http://media.eick.us/media/photographs/2005/2005-05-15/2005-05-15-at-15-32-56.jpg)

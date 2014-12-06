@@ -13,15 +13,15 @@ Jasmine and Libby take more pictures.
 
 Libby showing her jazz hands.
 
-![Libby in studio](/assets/images/2012/2012-12-21/Studio2012-12-16at17-39-13.jpg)
+![Libby in studio](http://media.eick.us/media/photographs/2012/2012-12-21/Studio2012-12-16at17-39-13.jpg)
 
 
 Libby showing a ballet move.
 
-![Libby in studio](/assets/images/2012/2012-12-21/Studio2012-12-16at17-38-36.jpg)
+![Libby in studio](http://media.eick.us/media/photographs/2012/2012-12-21/Studio2012-12-16at17-38-36.jpg)
 
 
 Jasmine in her Reindeer Antlers.
 
-![Jasmine in studio](/assets/images/2012/2012-12-21/Studio2012-12-16at17-36-05.jpg)
+![Jasmine in studio](http://media.eick.us/media/photographs/2012/2012-12-21/Studio2012-12-16at17-36-05.jpg)
 

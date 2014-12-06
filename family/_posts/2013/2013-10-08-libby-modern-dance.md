@@ -11,8 +11,8 @@ slug: libby-modern-dance
 ---
 Libby's modern dance -- the danced to ABBA.
 
-![Libby's modern dance recital](/assets/images/2013/2013-06-01/libby-modern-dance-recital-2013-06-01-at-16-00-31.jpg)
+![Libby's modern dance recital](http://media.eick.us/media/photographs/2013/2013-06-01/libby-modern-dance-recital-2013-06-01-at-16-00-31.jpg)
 
-![Libby's modern dance recital](/assets/images/2013/2013-06-01/libby-modern-dance-recital-2013-06-01-at-16-01-02.jpg)
+![Libby's modern dance recital](http://media.eick.us/media/photographs/2013/2013-06-01/libby-modern-dance-recital-2013-06-01-at-16-01-02.jpg)
 
-![Libby's modern dance recital](/assets/images/2013/2013-06-01/libby-modern-dance-recital-2013-06-01-at-17-23-31.jpg)
+![Libby's modern dance recital](http://media.eick.us/media/photographs/2013/2013-06-01/libby-modern-dance-recital-2013-06-01-at-17-23-31.jpg)

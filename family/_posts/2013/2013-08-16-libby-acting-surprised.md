@@ -10,6 +10,6 @@ slug: libby-acting-surprised
 ---
 Libby acting surprised.
 
-![Libby acting surprised](/assets/images/2013/2013-03-24/tether-try-(1).jpg)
+![Libby acting surprised](http://media.eick.us/media/photographs/2013/2013-03-24/tether-try-(1).jpg)
 
-![Libby trying not to get in trouble](/assets/images/2013/2013-03-24/tether-try.jpg)
+![Libby trying not to get in trouble](http://media.eick.us/media/photographs/2013/2013-03-24/tether-try.jpg)

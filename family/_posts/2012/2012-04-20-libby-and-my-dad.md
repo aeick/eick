@@ -13,12 +13,12 @@ Picture of the first time my dad held Libby (which wasn't the first time he met 
 
 
 
-![Harry and Libby](/assets/images/2012/2012-04-08/Dad-holds-libby.jpg)
+![Harry and Libby](http://media.eick.us/media/photographs/2012/2012-04-08/Dad-holds-libby.jpg)
 
 
 Libby as a baby
 
 
 
-![Libby as a baby](/assets/images/2012/2012-04-08/175261198_05b771e60d_o.jpg)
+![Libby as a baby](http://media.eick.us/media/photographs/2012/2012-04-08/175261198_05b771e60d_o.jpg)
 

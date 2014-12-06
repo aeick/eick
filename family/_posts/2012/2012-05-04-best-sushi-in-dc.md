@@ -15,5 +15,5 @@ Unfortunately the office space wasn't as good as the fish.
 
 
 
-![Momo's Sushi](/assets/images/2012/2012-05-04/2012-05-01at17.36.41.jpg)
+![Momo's Sushi](http://media.eick.us/media/photographs/2012/2012-05-04/2012-05-01at17.36.41.jpg)
 

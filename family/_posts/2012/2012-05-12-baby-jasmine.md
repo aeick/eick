@@ -11,5 +11,5 @@ Jasmine from September 26, 2004
 
 
 
-![Jasmine as a baby](/assets/images/2012/2012-05-12/sept-26-2004.jpg)
+![Jasmine as a baby](http://media.eick.us/media/photographs/2012/2012-05-12/sept-26-2004.jpg)
 

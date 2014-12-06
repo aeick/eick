@@ -10,12 +10,12 @@ categories:
 Jasmine draws pictures of dogs
 
 
-![Jasmine draws pictures of dogs](/assets/images/2012/2012-06-02/IMG_0006.jpg)
+![Jasmine draws pictures of dogs](http://media.eick.us/media/photographs/2012/2012-06-02/IMG_0006.jpg)
 
 
 
-![Jasmine draws pictures of dogs](/assets/images/2012/2012-06-02/IMG_0005.jpg)
+![Jasmine draws pictures of dogs](http://media.eick.us/media/photographs/2012/2012-06-02/IMG_0005.jpg)
 
 
 
-![Jasmine draws pictures of dogs](/assets/images/2012/2012-06-02/IMG_0001.jpg)
+![Jasmine draws pictures of dogs](http://media.eick.us/media/photographs/2012/2012-06-02/IMG_0001.jpg)

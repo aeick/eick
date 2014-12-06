@@ -30,6 +30,6 @@ Oh, how about we run up the hill and see what's up
 Wow!  Look at the pot of gold we are rich, very, very rich
 > endblockquote
 
-![Jasmine writes a poem in for school](/assets/images/2012/2012-06-24/jasmine-rainbow.jpg)
+![Jasmine writes a poem in for school](http://media.eick.us/media/photographs/2012/2012-06-24/jasmine-rainbow.jpg)
 
 

@@ -11,5 +11,5 @@ thumbsrc: http://media.eick.us/2012/2012-05-26/1024x1024/2012-05-25at18.06.16.jp
 Quick iPhone picture of Libby reading last night.
 
 
-![Libby over the shoulder](/assets/images/2012/2012-05-26/2012-05-25at18.06.16.jpg)
+![Libby over the shoulder](http://media.eick.us/media/photographs/2012/2012-05-26/2012-05-25at18.06.16.jpg)
 

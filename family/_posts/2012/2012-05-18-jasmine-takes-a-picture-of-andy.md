@@ -12,5 +12,5 @@ Jasmine takes a picture of Andy
 
 
 
-![Jasmine takes a picture of Andy](/assets/images/2012/2012-05-06-2/libby-communion-12.jpg)
+![Jasmine takes a picture of Andy](http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-12.jpg)
 

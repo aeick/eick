@@ -10,5 +10,5 @@ Cherry blossoms from our front yard.
 
 
 
-![Cherry Blossoms](/assets/images/2012/2012-03-28/Random-iPhone-4.jpg)
+![Cherry Blossoms](http://media.eick.us/media/photographs/2012/2012-03-28/Random-iPhone-4.jpg)
 

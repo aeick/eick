@@ -12,5 +12,5 @@ Libby so wants summer to be here that she wanted to play "beach" -- it was actua
 
 
 
-![Libby plays beach](/assets/images/2012/2012-03-31/Random-iPad.jpg)
+![Libby plays beach](http://media.eick.us/media/photographs/2012/2012-03-31/Random-iPad.jpg)
 

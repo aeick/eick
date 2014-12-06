@@ -12,12 +12,12 @@ The girls traveling to Disney, with their American Girl Dolls, of course.
 
 The girls waiting in line at the Baltimore airport.
 
-![Waiting in line at Baltimore airport](/assets/images/2012/2012-07-03/2012-07-03at07.04.07.jpg)
+![Waiting in line at Baltimore airport](http://media.eick.us/media/photographs/2012/2012-07-03/2012-07-03at07.04.07.jpg)
 
 
 Landed in Orlando
 
-![Landed in Orlando](/assets/images/2012/2012-07-03/2012-07-03at07.04.11.jpg)
+![Landed in Orlando](http://media.eick.us/media/photographs/2012/2012-07-03/2012-07-03at07.04.11.jpg)
 
 
 

@@ -12,5 +12,5 @@ Jasmine at girls on the run.
 
 
 
-![Jasmine at girls on the run](/assets/images/2012/2012-05-23/2012-05-20at07.04.59.jpg)
+![Jasmine at girls on the run](http://media.eick.us/media/photographs/2012/2012-05-23/2012-05-20at07.04.59.jpg)
 

@@ -10,5 +10,5 @@ Libby video chatting on facetime...
 
 
 
-![Libby on facetime](/assets/images/2012/2012-03-28/Random-iPhone-14.jpg)
+![Libby on facetime](http://media.eick.us/media/photographs/2012/2012-03-28/Random-iPhone-14.jpg)
   

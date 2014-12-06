@@ -11,4 +11,4 @@ thumbsrc: http://media.eick.us/2012/2012-07-13-1/1024x1024/2012-07-07at15.57.01.
 Libby asleep on the plane home from Disney.
 
 
-![Libby asleep on the plane home from Disney](/assets/images/2012/2012-07-13-1/2012-07-07at15.57.01.jpg)
+![Libby asleep on the plane home from Disney](http://media.eick.us/media/photographs/2012/2012-07-13-1/2012-07-07at15.57.01.jpg)

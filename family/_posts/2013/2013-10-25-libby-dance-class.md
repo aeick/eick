@@ -11,10 +11,10 @@ slug: libby-dance-class
 ---
 Libby's dance class picture.
 
-![Libby Dance Recital](/assets/images/2013/2013-06-28/libby-dance-recital-2013-06-28-at-18-48-09.jpg)
+![Libby Dance Recital](http://media.eick.us/media/photographs/2013/2013-06-28/libby-dance-recital-2013-06-28-at-18-48-09.jpg)
 
-![Libby Dance Recital](/assets/images/2013/2013-06-28/libby-dance-recital-2013-06-28-at-18-49-11.jpg)
+![Libby Dance Recital](http://media.eick.us/media/photographs/2013/2013-06-28/libby-dance-recital-2013-06-28-at-18-49-11.jpg)
 
-![Libby Dance Recital](/assets/images/2013/2013-06-28/libby-dance-recital-2013-06-28-at-18-49-41.jpg)
+![Libby Dance Recital](http://media.eick.us/media/photographs/2013/2013-06-28/libby-dance-recital-2013-06-28-at-18-49-41.jpg)
 
-![Libby Dance Recital](/assets/images/2013/2013-06-28/libby-dance-recital-2013-06-28-at-18-50-06.jpg)
+![Libby Dance Recital](http://media.eick.us/media/photographs/2013/2013-06-28/libby-dance-recital-2013-06-28-at-18-50-06.jpg)

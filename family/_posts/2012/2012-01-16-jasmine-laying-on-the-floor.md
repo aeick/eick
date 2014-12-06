@@ -6,6 +6,6 @@ comments: false
 categories: 
 - Jasmine
 ---
-![Jasmine laying on the floor with her iTouch](/assets/images/2012/2012-01-14/2012-01-14-at-19.44.22.jpg)
+![Jasmine laying on the floor with her iTouch](http://media.eick.us/media/photographs/2012/2012-01-14/2012-01-14-at-19.44.22.jpg)
 
 

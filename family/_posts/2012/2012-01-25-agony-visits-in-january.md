@@ -6,11 +6,11 @@ comments: false
 categories: 
 - agony
 ---
-![Agony in DC](/assets/images/2012/2012-01-25/agony-january-visit--1.jpg)
+![Agony in DC](http://media.eick.us/media/photographs/2012/2012-01-25/agony-january-visit--1.jpg)
 
 
-![Libby looking up the stairs](/assets/images/2012/2012-01-25/agony-january-visit--2.jpg)
+![Libby looking up the stairs](http://media.eick.us/media/photographs/2012/2012-01-25/agony-january-visit--2.jpg)
 
 
-![Jasmine paints a self portrait](/assets/images/2012/2012-01-25/agony-january-visit--3.jpg)
+![Jasmine paints a self portrait](http://media.eick.us/media/photographs/2012/2012-01-25/agony-january-visit--3.jpg)
 

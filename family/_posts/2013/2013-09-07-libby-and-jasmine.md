@@ -11,6 +11,6 @@ slug: libby-and-jasmine
 ---
 Libby and Jasmine mug for the camera.
 
-![Libby in her ballet costume](/assets/images/2013/2013-05-18/2013-05-18-libby-ballet-2013-05-18-at-11-16-56.jpg)
+![Libby in her ballet costume](http://media.eick.us/media/photographs/2013/2013-05-18/2013-05-18-libby-ballet-2013-05-18-at-11-16-56.jpg)
 
-![Libby in her ballet costume](/assets/images/2013/2013-05-18/2013-05-18-libby-ballet-2013-05-18-at-11-18-11.jpg)
+![Libby in her ballet costume](http://media.eick.us/media/photographs/2013/2013-05-18/2013-05-18-libby-ballet-2013-05-18-at-11-18-11.jpg)

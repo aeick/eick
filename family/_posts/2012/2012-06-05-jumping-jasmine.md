@@ -12,9 +12,9 @@ Jasmine jumping
 
 
 
-![Jasmine jumping](/assets/images/2012/2012-06-05-1/jasmine-jumping-12.jpg)
+![Jasmine jumping](http://media.eick.us/media/photographs/2012/2012-06-05-1/jasmine-jumping-12.jpg)
 
 
 
 
-![Jasmine jumping](/assets/images/2012/2012-06-05-1/jasmine-jumping-11.jpg)
+![Jasmine jumping](http://media.eick.us/media/photographs/2012/2012-06-05-1/jasmine-jumping-11.jpg)

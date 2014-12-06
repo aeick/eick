@@ -13,10 +13,10 @@ Old iPhone pictures of Jasmine and Libby around the house...
 
 
 
-![Jasmine](/assets/images/2012/2012-04-19/6945623586_c8085175a5_o.jpg)
+![Jasmine](http://media.eick.us/media/photographs/2012/2012-04-19/6945623586_c8085175a5_o.jpg)
 
 
 
 
-![Libby before school](/assets/images/2012/2012-04-19-2/7091689945_57d0428f40_o.jpg)
+![Libby before school](http://media.eick.us/media/photographs/2012/2012-04-19-2/7091689945_57d0428f40_o.jpg)
 

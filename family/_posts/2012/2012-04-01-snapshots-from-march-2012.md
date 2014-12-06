@@ -15,20 +15,20 @@ Libby looking into the light.
 
 
 
-![Libby looking into the light](/assets/images/2012/2012-03-31/2012-03-31at18.12.39.jpg)
+![Libby looking into the light](http://media.eick.us/media/photographs/2012/2012-03-31/2012-03-31at18.12.39.jpg)
 
 
 Jasmine and her knitting
 
 
 
-![Jasmine and her knitting](/assets/images/2012/2012-03-31/2012-03-31at09.28.58.jpg)
+![Jasmine and her knitting](http://media.eick.us/media/photographs/2012/2012-03-31/2012-03-31at09.28.58.jpg)
 
 
 Rabbit ears before school
 
 
 
-![Rabbit ears before school](/assets/images/2012/2012-03-31/2012-03-26at07.53.17.jpg)
+![Rabbit ears before school](http://media.eick.us/media/photographs/2012/2012-03-31/2012-03-26at07.53.17.jpg)
 
 

@@ -12,20 +12,20 @@ We had many cakes last weekend -- a few snapshots....
 
 
 
-![We had many cakes last weekend](/assets/images/2012/2012-05-06-2/libby-communion-1.jpg)
+![We had many cakes last weekend](http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-1.jpg)
 
 
 
 
-![Look here mister](/assets/images/2012/2012-05-06-2/libby-communion-2.jpg)
+![Look here mister](http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-2.jpg)
 
 
 
 
-![one of the many cakes](/assets/images/2012/2012-05-06-2/libby-communion-3.jpg)
+![one of the many cakes](http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-3.jpg)
 
 
 
 
-![](/assets/images/2012/2012-05-06-2/libby-communion-4.jpg)
+![](http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-4.jpg)
 

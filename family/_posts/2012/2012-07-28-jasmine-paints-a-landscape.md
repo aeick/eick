@@ -9,6 +9,6 @@ thumbsrc: http://media.eick.us/2012/2012-07-27/1024x1024/2012-07-27at18.01.00.jp
 ---
 Jasmine paints a landscape.
 
-![Jasmine paints a landscape](/assets/images/2012/2012-07-27/2012-07-27at18.01.00.jpg)
+![Jasmine paints a landscape](http://media.eick.us/media/photographs/2012/2012-07-27/2012-07-27at18.01.00.jpg)
 
 

@@ -11,11 +11,11 @@ More pool pictures
 
 Jasmine being cold (not really a problem anymore).
 
-![Jasmine being cold](/assets/images/2012/2012-06-23/2012-06-17at19.48.53.jpg)
+![Jasmine being cold](http://media.eick.us/media/photographs/2012/2012-06-23/2012-06-17at19.48.53.jpg)
 
 
 Libby at raft night.
 
-![Libby at raft night](/assets/images/2012/2012-06-23/2012-06-17at19.40.06.jpg)
+![Libby at raft night](http://media.eick.us/media/photographs/2012/2012-06-23/2012-06-17at19.40.06.jpg)
 
 

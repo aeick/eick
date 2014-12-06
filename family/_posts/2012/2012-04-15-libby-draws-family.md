@@ -14,10 +14,10 @@ Libby drawing her family.
 
 
 
-![Libby drawing her family](/assets/images/2012/2012-04-08/IMG_0009.JPG)
+![Libby drawing her family](http://media.eick.us/media/photographs/2012/2012-04-08/IMG_0009.JPG)
 
 
 
 
-![Libby drawing her family](/assets/images/2012/2012-04-08/IMG_0004.JPG)
+![Libby drawing her family](http://media.eick.us/media/photographs/2012/2012-04-08/IMG_0004.JPG)
 

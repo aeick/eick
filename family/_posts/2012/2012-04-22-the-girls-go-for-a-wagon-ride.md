@@ -12,4 +12,4 @@ With a new American Girl doll for each, they put them in the wagon to take them 
 
 
 
-![Girls going for a walk](/assets/images/2012/2012-04-19-1/7091687825_5c348903da_o.jpg)
+![Girls going for a walk](http://media.eick.us/media/photographs/2012/2012-04-19-1/7091687825_5c348903da_o.jpg)

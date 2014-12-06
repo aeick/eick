@@ -8,6 +8,6 @@ categories:
 ---
 Libby making faces
 
-![](/assets/images/2013/2013-05-20/kumon-medals-1.jpg)
+![](http://media.eick.us/media/photographs/2013/2013-05-20/kumon-medals-1.jpg)
 
-![](/assets/images/2013/2013-05-20/kumon-medals-2.jpg)
+![](http://media.eick.us/media/photographs/2013/2013-05-20/kumon-medals-2.jpg)

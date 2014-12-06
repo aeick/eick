@@ -16,34 +16,34 @@ Jasmine looking cold
 
 
 
-![Jasmine looking cold](/assets/images/2012/2012-06-12/2012-06-10at18.54.51.jpg)
+![Jasmine looking cold](http://media.eick.us/media/photographs/2012/2012-06-12/2012-06-10at18.54.51.jpg)
 
 
 Jasmine looking cool
 
 
 
-![Jasmine looking cool](/assets/images/2012/2012-06-12/2012-06-10at18.53.13.jpg)
+![Jasmine looking cool](http://media.eick.us/media/photographs/2012/2012-06-12/2012-06-10at18.53.13.jpg)
 
 
 Jasmine trying to warm up by laying on the rocks in the sun
 
 
 
-![Jasmine trying to warm up](/assets/images/2012/2012-06-12/2012-06-10at15.39.22.jpg)
+![Jasmine trying to warm up](http://media.eick.us/media/photographs/2012/2012-06-12/2012-06-10at15.39.22.jpg)
 
 
 Libby with flowers in her hair
 
 
 
-![Libby with flowers in her hair](/assets/images/2012/2012-06-12/2012-06-10at15.39.16.jpg)
+![Libby with flowers in her hair](http://media.eick.us/media/photographs/2012/2012-06-12/2012-06-10at15.39.16.jpg)
 
 
 Libby in black and white
 
 
 
-![Libby in black and white](/assets/images/2012/2012-06-12/2012-06-09at16.35.43.jpg)
+![Libby in black and white](http://media.eick.us/media/photographs/2012/2012-06-12/2012-06-09at16.35.43.jpg)
 
 

@@ -12,9 +12,9 @@ Jasmine in her soccer uniform
 
 
 
-![Jasmine in her soccer uniform](/assets/images/2012/2012-06-03/05-19-jasmine-uniform12.jpg)
+![Jasmine in her soccer uniform](http://media.eick.us/media/photographs/2012/2012-06-03/05-19-jasmine-uniform12.jpg)
 
 
 
 
-![Jasmine in her soccer uniform](/assets/images/2012/2012-06-03/05-19-jasmine-uniform2.jpg)
+![Jasmine in her soccer uniform](http://media.eick.us/media/photographs/2012/2012-06-03/05-19-jasmine-uniform2.jpg)

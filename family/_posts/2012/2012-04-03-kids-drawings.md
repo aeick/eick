@@ -11,12 +11,12 @@ Jasmine draws a duck, a frog, and a beaver.
 
 
 
-![Jasmine draws a duck, a frog, and a beaver](/assets/images/2012/2012-04-02/IMG_0003.JPG)
+![Jasmine draws a duck, a frog, and a beaver](http://media.eick.us/media/photographs/2012/2012-04-02/IMG_0003.JPG)
 
 
 Libby draws Arnie the Donut
 
 
 
-![Arnie the donut](/assets/images/2012/2012-04-02/arnie-the-donut.JPG)
+![Arnie the donut](http://media.eick.us/media/photographs/2012/2012-04-02/arnie-the-donut.JPG)
 

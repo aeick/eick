@@ -26,5 +26,5 @@ The girls made a schedule for tomorrow since they are very busy on summer vacati
 * 930 PM go to sleep &#9744; *ed. will never make it*
 > endblockquote
 
-![A Very Busy June 25th](/assets/images/2012/2012-06-24-1/2012-06-24at13.39.11.jpg)
+![A Very Busy June 25th](http://media.eick.us/media/photographs/2012/2012-06-24-1/2012-06-24at13.39.11.jpg)
 
