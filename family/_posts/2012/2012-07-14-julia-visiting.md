@@ -3,7 +3,7 @@ layout: post
 title: "Julia visiting"
 date: 2012-07-14 08:10
 comments: false
-categories: 
+tags: 
 - jasmine
 - libby
 - julia

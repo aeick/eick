@@ -4,7 +4,7 @@ title: Disney Rides
 date: 2013-09-27 14:30
 comments: false
 published: true
-categories:
+tags:
 - dinsey
 - princess
 slug: disney-rides

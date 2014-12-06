@@ -4,7 +4,7 @@ title: Soccer Peeps final tournament
 date: 2013-11-15 11:12
 comments: false
 published: true
-categories:
+tags:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-final-tournament

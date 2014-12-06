@@ -3,7 +3,7 @@ layout: post
 title: "Kids Drawings"
 date: 2012-04-03 08:00
 comments: false
-categories: 
+tags: 
 - kids drawings
 thumbsrc: http://media.eick.us/2012/2012-04-02/1024x1024/IMG_0003.JPG
 ---

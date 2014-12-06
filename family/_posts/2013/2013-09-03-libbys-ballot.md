@@ -4,7 +4,7 @@ title: Libby's ballot
 date: 2013-09-03 13:28
 comments: false
 published: true
-categories:
+tags:
 - libby
 - kids-drawing
 slug: libbys-ballot

@@ -4,7 +4,7 @@ title: Balloon doggy for Jasmine
 date: 2013-11-01 12:33
 comments: false
 published: true
-categories:
+tags:
 - balloon
 slug: balloon-doggy-for-jasmine
 ---

@@ -3,9 +3,8 @@ layout: post
 title: "Jasmine learns to ski"
 date: 2012-04-15 17:36
 comments: false
-categories: 
+tags: 
 - jasmine
-tags:
 - ski
 thumbsrc: http://media.eick.us/2012/2012-04-08/1024x1024/jasmine-skiing-2008-001.jpg
 ---

@@ -4,7 +4,7 @@ title: Libby and Jasmine
 date: 2013-09-07 17:35
 comments: false
 published: true
-categories:
+tags:
 - libby
 - jasmine
 slug: libby-and-jasmine

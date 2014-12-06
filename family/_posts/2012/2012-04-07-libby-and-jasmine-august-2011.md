@@ -3,7 +3,7 @@ layout: post
 title: "Libby and Jasmine August 2011"
 date: 2012-04-07 20:24
 comments: false
-categories: 
+tags: 
 - Libby
 - Jasmine
 - iPhone

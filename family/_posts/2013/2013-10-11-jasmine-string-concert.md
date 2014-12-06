@@ -4,7 +4,7 @@ title: Jasmine String Concert
 date: 2013-10-11 13:11
 comments: false
 published: true
-categories:
+tags:
 - jasmine
 slug: jasmine-string-concert
 ---

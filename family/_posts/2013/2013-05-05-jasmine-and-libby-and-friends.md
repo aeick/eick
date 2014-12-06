@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine and Libby and Friends"
 date: 2013-05-05 14:55
 comments: false
-categories: 
+tags: 
 - Jasmine
 - Libby
 ---

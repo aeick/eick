@@ -3,7 +3,7 @@ layout: post
 title: "Restaurant Drawings"
 date: 2012-06-02 13:37
 comments: false
-categories: 
+tags: 
 - kids drawings
 ---
 Jasmine and Libby drawing at some restaurant.

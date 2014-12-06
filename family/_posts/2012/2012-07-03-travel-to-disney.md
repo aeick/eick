@@ -3,7 +3,7 @@ layout: post
 title: "travel to disney"
 date: 2012-07-03 07:06
 comments: false
-categories: 
+tags: 
 - disney
 - airport
 thumbsrc: http://media.eick.us/2012/2012-07-03/1024x1024/2012-07-03at07.04.11.jpg

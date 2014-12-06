@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine and Libby play"
 date: 2012-08-29 22:27
 comments: false
-categories: 
+tags: 
 - jasmine
 - libby
 ---

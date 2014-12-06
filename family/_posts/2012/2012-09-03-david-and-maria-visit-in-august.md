@@ -3,7 +3,7 @@ layout: post
 title: "David and Maria Visit in August"
 date: 2012-09-03 09:47
 comments: false
-categories: 
+tags: 
 - david
 - maria
 - libby

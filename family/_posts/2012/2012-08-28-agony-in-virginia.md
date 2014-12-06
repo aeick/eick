@@ -3,7 +3,7 @@ layout: post
 title: "Agony in Virginia"
 date: 2012-08-28 20:01
 comments: false
-categories: 
+tags: 
 - agony
 ---
 Agony visited us in June (I'm just getting the pictures off the camera...)

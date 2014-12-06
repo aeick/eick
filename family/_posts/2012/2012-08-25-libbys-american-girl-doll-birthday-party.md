@@ -3,7 +3,7 @@ layout: post
 title: "Libby's American Girl doll birthday party"
 date: 2012-08-25 13:57
 comments: false
-categories: 
+tags: 
 - libby
 - birthday
 thumbsrc: http://media.eick.us/2012/2012-08-19-1/640x640/libby-birthday-party--2012-06-03at14-19-42.jpg

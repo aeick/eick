@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine Jumping"
 date: 2012-10-21 13:45
 comments: false
-categories: 
+tags: 
 - jasmine
 - studio
 thumbsrc: http://media.eick.us/2012/2012-10-20/640x640/Studio2012-10-19at19-41-55-2012-10-19at19-41-55.jpg 

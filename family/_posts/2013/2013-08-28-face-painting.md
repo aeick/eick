@@ -4,7 +4,7 @@ title: Face painting
 date: 2013-08-28 16:50
 comments: false
 published: true
-categories:
+tags:
 - jasmine
 - libby
 - face painting

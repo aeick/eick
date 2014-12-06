@@ -4,7 +4,7 @@ title: Emerald Dragons beat the Green Machine
 date: 2013-08-09 09:35
 comments: false
 published: true
-categories:
+tags:
 - jasmine
 - soccer
 - emerald-dragons

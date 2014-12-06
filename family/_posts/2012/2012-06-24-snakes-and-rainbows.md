@@ -3,7 +3,7 @@ layout: post
 title: "snakes and rainbows"
 date: 2012-06-24 13:57
 comments: false
-categories:
+tags:
 - jasmine
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-06-24/1024x1024/jasmine-rainbow.jpg

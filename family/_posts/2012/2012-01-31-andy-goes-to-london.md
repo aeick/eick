@@ -3,7 +3,7 @@ layout: post
 title: "Andy goes to London"
 date: 2012-01-31 17:45
 comments: false
-categories: 
+tags: 
 - work
 - speaking
 tags:

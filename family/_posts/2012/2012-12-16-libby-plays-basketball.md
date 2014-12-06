@@ -3,7 +3,7 @@ layout: post
 title: "Libby plays basketball"
 date: 2012-12-16 12:47
 comments: false
-categories: 
+tags: 
 - Libby
 - basketball
 thumbsrc: http://media.eick.us/2012/2012-12-16/640x640/Libbyplayingbasketball2012-12-15at13-38-32.jpg

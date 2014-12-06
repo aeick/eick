@@ -3,7 +3,7 @@ layout: post
 title: "2012 School Pictures"
 date: 2012-12-10 14:23
 comments: false
-categories: 
+tags: 
 - School Pictures
 ---
 Jasmine, grade 4, Libby, grade 3.

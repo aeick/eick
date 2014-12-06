@@ -3,7 +3,7 @@ layout: post
 title: "Libby at Basketball"
 date: 2013-03-18 20:09
 comments: false
-categories: 
+tags: 
 - Libby
 - Jasmine
 - basketball

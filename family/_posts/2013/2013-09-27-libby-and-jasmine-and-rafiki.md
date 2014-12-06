@@ -4,7 +4,7 @@ title: Libby and Jasmine and Rafiki
 date: 2013-09-27 13:53
 comments: false
 published: true
-categories:
+tags:
 - disney
 slug: libby-and-jasmine-and-rafiki
 ---

@@ -4,7 +4,7 @@ title: School Pictures
 date: 2013-11-15 11:30
 comments: false
 published: true
-categories: 
+tags: 
 - school-pictures 
 slug: school-pictures
 ---

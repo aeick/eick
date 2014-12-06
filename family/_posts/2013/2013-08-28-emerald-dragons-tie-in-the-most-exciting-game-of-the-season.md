@@ -4,7 +4,7 @@ title: Emerald Dragon's tie in the most exciting game of the season!
 date: 2013-08-28 16:41
 comments: false
 published: true
-categories:
+tags:
 - jasmine
 - soccer
 - emerald-dragons

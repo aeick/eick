@@ -3,7 +3,7 @@ layout: post
 title: "Libby draws a girl"
 date: 2012-01-14 16:51
 comments: false
-categories: 
+tags: 
 - family
 - libby
 - kids drawing

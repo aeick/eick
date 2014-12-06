@@ -4,7 +4,7 @@ title: Libby Dance class
 date: 2013-10-25 11:36
 comments: false
 published: true
-categories:
+tags:
 - libby
 - dance
 slug: libby-dance-class

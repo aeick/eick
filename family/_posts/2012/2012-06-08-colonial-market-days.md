@@ -3,7 +3,7 @@ layout: post
 title: "Colonial Market Days"
 date: 2012-06-08 16:44
 comments: false
-categories: 
+tags: 
 - colonial
 thumbsrc: http://media.eick.us/2012/2012-06-08/1024x1024/05-20-market-day-11.jpg
 ---

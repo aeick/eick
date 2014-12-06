@@ -4,7 +4,7 @@ title: Pictures of the girls from Denise's Birthday
 date: 2013-07-30 12:30
 comments: false
 published: true
-categories:
+tags:
 - birthday
 slug: pictures-of-the-girls-from-denises-birthday
 ---

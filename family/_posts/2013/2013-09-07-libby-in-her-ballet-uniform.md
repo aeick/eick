@@ -4,7 +4,7 @@ title: Libby in her Ballet uniform
 date: 2013-09-07 17:21
 comments: false
 published: true
-categories:
+tags:
 - libby
 - ballet
 slug: libby-in-her-ballet-uniform

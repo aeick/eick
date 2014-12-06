@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine in Kids Post"
 date: 2012-07-26 08:03
 comments: false
-categories: 
+tags: 
 - kids post
 - jasmine
 ---

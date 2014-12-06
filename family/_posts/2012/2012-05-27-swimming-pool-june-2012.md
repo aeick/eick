@@ -3,7 +3,7 @@ layout: post
 title: "Swimming Pool June 2012"
 date: 2012-05-27 20:25
 comments: false
-categories: 
+tags: 
 - jasmine
 - libby
 - iPhone

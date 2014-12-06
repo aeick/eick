@@ -4,7 +4,7 @@ title: Jasmine birthweek in Kids Post
 date: 2013-07-26 14:15
 comments: false
 published: true
-categories:
+tags:
 - birthday
 - kids-post
 slug: jasmine-birthweek-in-kids-post

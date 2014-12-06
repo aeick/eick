@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine has seen Iwo Jima memorial"
 date: 2012-05-04 17:22
 comments: false
-categories: 
+tags: 
 - jasmine
 - washington
 - iPhone

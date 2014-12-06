@@ -3,7 +3,7 @@ layout: post
 title: "Plane Ride Home"
 date: 2012-03-30 18:18
 comments: false
-categories: 
+tags: 
 - travel
 - Libby
 - Jasmine

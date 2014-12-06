@@ -3,7 +3,7 @@ layout: post
 title: "Hippy Libby"
 date: 2012-05-12 15:38
 comments: false
-categories: 
+tags: 
 - libby
 ---
 Libby dressed up as a hippy

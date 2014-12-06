@@ -3,7 +3,7 @@ layout: post
 title: "Libby draws family"
 date: 2012-03-25 13:52
 comments: false
-categories: 
+tags: 
 - Libby
 - Kids drawing
 ---

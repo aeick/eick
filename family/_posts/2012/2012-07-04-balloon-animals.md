@@ -3,7 +3,7 @@ layout: post
 title: "balloon animals"
 date: 2012-07-04 08:08
 comments: false
-categories: 
+tags: 
 - balloon animals
 thumbsrc: http://media.eick.us/2012/2012-07-04/1024x1024/2012-07-03at18.36.07.jpg
 ---

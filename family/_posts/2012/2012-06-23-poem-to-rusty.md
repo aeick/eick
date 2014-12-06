@@ -3,7 +3,7 @@ layout: post
 title: "Poem to Rusty"
 date: 2012-06-23 15:53
 comments: false
-categories: 
+tags: 
 - jasmine
 - dog
 - kids drawing

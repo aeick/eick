@@ -4,7 +4,7 @@ title: Libby playing basketball
 date: 2013-07-20 15:12
 comments: false
 published: true
-categories:
+tags:
 - libby
 - basketball
 slug: libby-playing-basketball

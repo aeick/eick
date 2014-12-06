@@ -3,7 +3,7 @@ layout: post
 title: "libby with her book"
 date: 2013-03-17 12:46
 comments: false
-categories: 
+tags: 
 - Libby Eick
 - aedc
 - libby

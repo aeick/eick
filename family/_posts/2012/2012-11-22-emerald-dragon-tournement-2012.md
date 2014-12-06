@@ -3,7 +3,7 @@ layout: post
 title: "Emerald Dragon tournement 2012"
 date: 2012-11-22 13:10
 comments: false
-categories: 
+tags: 
 - jasmine
 - soccer
 - emerald-dragons

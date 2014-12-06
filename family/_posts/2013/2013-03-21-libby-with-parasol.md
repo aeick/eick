@@ -3,7 +3,7 @@ layout: post
 title: "Libby with parasol"
 date: 2013-03-21 16:01
 comments: false
-categories: 
+tags: 
 - libby
 - parasol
 ---

@@ -4,7 +4,7 @@ title: Not Libby Dancing
 date: 2013-10-08 17:02
 comments: false
 published: true
-categories:
+tags:
 - dance
 slug: not-libby-dancing
 ---

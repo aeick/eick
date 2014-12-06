@@ -3,7 +3,7 @@ layout: post
 title: "Piano Recital from two months ago"
 date: 2012-05-10 20:47
 comments: false
-categories:
+tags:
 - jasmine
 - libby
 thumbsrc: http://media.eick.us/2012/2012-05-06/original/piano-recital-6.jpg

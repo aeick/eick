@@ -3,7 +3,7 @@ layout: post
 title: "Disney List"
 date: 2012-07-07 07:47
 comments: false
-categories: 
+tags: 
 - disney
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-07-07/1024x1024/2012-07-06at08.44.00.jpg

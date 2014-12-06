@@ -4,7 +4,7 @@ title: Jasmine Jumping without a tooth
 date: 2013-11-04 14:55
 comments: false
 published: true
-categories:
+tags:
 - jasmine
 slug: jasmine-jumping-without-a-tooth
 ---

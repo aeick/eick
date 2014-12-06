@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine Gotcha Day"
 date: 2013-07-18 14:35
 comments: false
-categories: 
+tags: 
 - jasmine
 - china
 - adoption

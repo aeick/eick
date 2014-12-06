@@ -4,7 +4,7 @@ title: Libby in her hoop skirt
 date: 2013-10-18 14:55
 comments: false
 published: true
-categories:
+tags:
 - libby
 - hoop-skirt
 slug: libby-in-her-hoop-skirt
