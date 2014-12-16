@@ -3,7 +3,7 @@ layout: post
 title: "Libby's 8th birthday"
 date: 2012-08-25 14:22
 comments: false
-tags: 
+keywords: 
 - Libby
 - birthday
 thumbsrc: http://media.eick.us/2012/2012-08-19-1/640x640/libby-birthday--2012-06-04at18-41-04.jpg

@@ -5,7 +5,7 @@ date: 2006-09-13
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -37,5 +37,5 @@ Source: [Mom would rather sue than get new Ipod - Blogging Baby](http://www.blog
 
 
 
-tags: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
+keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
 

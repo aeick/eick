@@ -4,7 +4,7 @@ title: Soccer Peeps First Game
 date: 2013-11-01 11:57
 comments: false
 published: true
-tags:
+keywords:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-first-game

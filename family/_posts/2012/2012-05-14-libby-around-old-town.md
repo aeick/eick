@@ -3,7 +3,7 @@ layout: post
 title: "Libby around old town"
 date: 2012-05-14 19:31
 comments: false
-tags: 
+keywords: 
 - Libby
 - communion
 thumbsrc: http://media.eick.us/2012/2012-05-06-2/original/libby-communion-7.jpg

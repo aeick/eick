@@ -3,7 +3,7 @@ layout: post
 title: "Cross Eyed Baby Jasmine"
 date: 2012-04-20 20:19
 comments: false
-tags: 
+keywords: 
 - jasmine
 thumbsrc: http://media.eick.us/2012/2012-04-08/1024x1024/Random-.jpg
 ---

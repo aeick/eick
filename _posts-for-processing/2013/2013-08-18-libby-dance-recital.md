@@ -6,7 +6,7 @@ comments: false
 categories: 
 - Libby
 - dance
-- video
+tags: video
 ---
 Libby had her dance recital(s) on June 1, 2013.  She had a jazz dance and a ballet recital piece.
 

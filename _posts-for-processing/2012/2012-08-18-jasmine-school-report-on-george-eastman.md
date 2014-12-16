@@ -4,7 +4,7 @@ title: "Jasmine school report on George Eastman"
 date: 2012-08-18 10:00
 comments: false
 categories: 
-- video
+tags: video
 - jasmine
 ---
 This is a report Jasmine did for school in May (2012) on George Eastman.

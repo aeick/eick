@@ -5,12 +5,12 @@ date: 2009-08-22
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
-- video
+tags: video
 status: publish
 ---
 This is when they were both five years old (Libby's birthday was the day before)<br />

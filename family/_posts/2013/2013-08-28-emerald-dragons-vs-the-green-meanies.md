@@ -4,7 +4,7 @@ title: Emerald Dragons vs The Green Meanies
 date: 2013-08-28 17:10
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
 - soccer
 - emerald-dragons

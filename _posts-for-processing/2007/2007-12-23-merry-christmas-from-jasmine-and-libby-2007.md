@@ -5,7 +5,7 @@ date: 2007-12-23
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - christmas card
 - family
 type: post

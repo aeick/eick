@@ -4,7 +4,7 @@ title: "May 5th Practice Recital"
 date: 2012-05-13 17:25
 comments: false
 categories: 
-- video
+tags: video
 - piano
 thumbsrc:  http://media.eick.us/video/2012/05/05-Practice-Recital/2012-05-05-Practice-Recital-960x540.jpg
 ---

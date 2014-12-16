@@ -5,13 +5,13 @@ date: 2009-07-14
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
 - jasmine
-- video
+tags: video
 status: publish
 ---
 Jasmine explains her picture that she draw.  She has the words most correctly, but needed a little help...

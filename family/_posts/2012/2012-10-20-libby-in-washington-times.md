@@ -3,7 +3,7 @@ layout: post
 title: "Libby in Washington Times"
 date: 2012-10-20 18:10
 comments: false
-tags: 
+keywords: 
 - Libby
 thumbsrc: http://media.eick.us/2012/2012-10-15/640x640/washington-times-2012-06-22.jpg
 ---

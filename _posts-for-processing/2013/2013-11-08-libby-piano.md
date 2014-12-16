@@ -6,7 +6,7 @@ comments: false
 categories:
 - piano
 - Libby
-- video
+tags: video
 slug: libby-piano
 published: true
 ---

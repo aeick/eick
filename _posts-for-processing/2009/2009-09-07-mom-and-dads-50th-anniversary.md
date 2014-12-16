@@ -5,12 +5,12 @@ date: 2009-09-07
 published: true
 meta: {}
 
-tags:
+keywords:
 - family
 type: post
 keywords:
 - family
-- video
+tags: video
 status: publish
 ---
 Taken a few years ago at Long Lake in Traverse City, MI.<br />

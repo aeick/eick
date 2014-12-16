@@ -5,11 +5,11 @@ date: 2009-12-20
 published: true
 meta: 
   _edit_last: "2"
-tags: 
+keywords: 
 - family
 - Libby
 - piano
-- video
+tags: video
 type: post
 categories: 
 - family

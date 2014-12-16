@@ -5,7 +5,7 @@ date: 2010-08-22
 published: true
 meta: 
   _edit_last: "1"
-tags: []
+keywords: []
 
 type: post
 categories: 

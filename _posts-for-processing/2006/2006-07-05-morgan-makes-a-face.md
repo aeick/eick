@@ -3,7 +3,7 @@ layout: post
 title: Morgan makes a face
 date: 2006-07-05
 published: true
-tags: 
+keywords: 
 - morgan
 type: post
 categories:

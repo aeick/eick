@@ -5,7 +5,7 @@ date: 2007-09-25
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -50,4 +50,4 @@ Next time I'll go across the river to the Washington memorial (and maybe I'll re
 
  
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [Iwo Jima Memorial](http://technorati.com/tags/Iwo%20Jima%20Memorial)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [Iwo Jima Memorial](http://technorati.com/tags/Iwo%20Jima%20Memorial)</div>

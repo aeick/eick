@@ -3,7 +3,7 @@ layout: post
 title: "Super Soccer Stars"
 date: 2012-09-23 15:16
 comments: false
-tags: 
+keywords: 
 - jasmine
 - emerald-dragons
 - soccer

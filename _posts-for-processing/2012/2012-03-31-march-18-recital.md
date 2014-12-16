@@ -6,7 +6,7 @@ comments: false
 categories: 
 - piano
 - recital
-- video
+tags: video
 ---
 Jasmine and Libby play a recital.  Jasmine "skipped a line" during the duet, and they struggled to get back on synch.  I was really proud that they kept with it  -- the teacher said most kids that age can't get back on track, but they kept with it.
 

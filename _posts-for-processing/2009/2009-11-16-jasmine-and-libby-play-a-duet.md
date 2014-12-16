@@ -5,7 +5,7 @@ date: 2009-11-16
 published: true
 meta: 
   _edit_last: "2"
-tags: 
+keywords: 
 - fami
 - family
 type: post

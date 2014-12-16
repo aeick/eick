@@ -4,7 +4,7 @@ title: Emerald Dragon's beat the Mean Green Fighting Machine
 date: 2013-08-20 12:58
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
 - soccer
 - emerald-dragons

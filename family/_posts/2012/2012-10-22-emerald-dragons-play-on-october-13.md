@@ -3,7 +3,7 @@ layout: post
 title: "Emerald Dragons play on October 13"
 date: 2012-10-22 07:30
 comments: false
-tags: 
+keywords: 
 - jasmine
 - soccer
 - emerald-dragons

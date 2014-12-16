@@ -3,7 +3,7 @@ layout: post
 title: "Princess Breakfest"
 date: 2012-07-08 17:24
 comments: false
-tags: 
+keywords: 
 - disney
 - cinderella
 thumbsrc: 

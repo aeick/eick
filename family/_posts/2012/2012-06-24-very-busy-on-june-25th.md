@@ -3,7 +3,7 @@ layout: post
 title: "Very Busy on June 25th"
 date: 2012-06-24 15:36
 comments: false
-tags:
+keywords:
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-06-24-1/1024x1024/2012-06-24at13.39.11.jpg
 ---

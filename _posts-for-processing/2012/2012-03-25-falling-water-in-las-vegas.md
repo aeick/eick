@@ -6,7 +6,7 @@ comments: false
 keywords:
 - work
 - travel
-- video
+tags: video
 - iPhone
 ---
 <script type="text/javascript" src="http://cdn.sublimevideo.net/js/gpbp4gog.js"></script>

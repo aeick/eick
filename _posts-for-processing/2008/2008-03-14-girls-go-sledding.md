@@ -5,14 +5,14 @@ date: 2008-03-14
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
-- video
+tags: video
 - winter
 type: post
 categories: 
 - family
-- video
+tags: video
 - winter
 status: publish
 ---

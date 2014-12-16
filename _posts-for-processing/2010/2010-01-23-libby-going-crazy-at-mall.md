@@ -5,13 +5,13 @@ date: 2010-01-23
 published: true
 meta: 
   _edit_last: "2"
-tags: 
+keywords: 
 - family
-- video
+tags: video
 type: post
 categories: 
 - family
-- video
+tags: video
 status: publish
 ---
 <div class="posterous_autopost"></div>

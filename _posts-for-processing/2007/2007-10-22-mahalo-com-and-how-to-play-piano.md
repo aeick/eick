@@ -12,7 +12,7 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-tags:
+keywords:
 - family
 type: post
 keywords:

@@ -3,7 +3,7 @@ layout: post
 title: "Libby Ballet practice"
 date: 2012-05-27 11:37
 comments: false
-tags: 
+keywords: 
 - Libby
 - iPhone
 - ballet

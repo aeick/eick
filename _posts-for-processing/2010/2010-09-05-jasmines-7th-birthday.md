@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine\xE2\x80\x99s 7th birthday"
 date: 2010-09-05
 published: true
-tags: []
+keywords: []
 
 type: post
 categories: 

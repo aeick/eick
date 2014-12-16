@@ -3,7 +3,7 @@ layout: post
 title: "Random Pictures June 2012"
 date: 2012-06-16 15:08
 comments: false
-tags: 
+keywords: 
 - Libby
 - jasmine
 thumbsrc: http://media.eick.us/2012/2012-06-16-1/1024x1024/2012-05-06-Piano-Recital8.jpg

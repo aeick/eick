@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine in Daddy shoes"
 date: 2012-09-29 18:53
 comments: false
-tags: 
+keywords: 
 - Jasmine
 thumbsrc: http://media.eick.us/2012/2012-09-29-4/640x640/daddys-shoes-2005-01-17.jpg
 ---

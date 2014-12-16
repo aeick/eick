@@ -5,7 +5,7 @@ date: 2007-01-09
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -722,4 +722,4 @@ _**M. Andrew Eick** has architected, developed and deployed many large scale con
 
  
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [AJAX](http://technorati.com/tags/AJAX), [SVG](http://technorati.com/tags/SVG), [mobile](http://technorati.com/tags/mobile)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [AJAX](http://technorati.com/tags/AJAX), [SVG](http://technorati.com/tags/SVG), [mobile](http://technorati.com/tags/mobile)</div>

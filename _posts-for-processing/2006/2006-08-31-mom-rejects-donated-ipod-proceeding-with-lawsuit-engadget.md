@@ -5,7 +5,7 @@ date: 2006-08-31
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -33,5 +33,5 @@ Source: [Mom rejects donated iPod, proceeding with lawsuit - Engadget](http://ww
 
 
 
-tags: [ipod](http://technorati.com/tag/ipod), [lawsuit ](http://technorati.com/tag/lawsuit)
+keywords: [ipod](http://technorati.com/tag/ipod), [lawsuit ](http://technorati.com/tag/lawsuit)
 

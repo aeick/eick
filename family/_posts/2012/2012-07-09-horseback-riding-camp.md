@@ -3,7 +3,7 @@ layout: post
 title: "Horseback Riding Camp"
 date: 2012-07-09 20:22
 comments: false
-tags: 
+keywords: 
 - jasmine
 - Libby
 - horse

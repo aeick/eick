@@ -4,7 +4,7 @@ title: Jasmine Portrait
 date: 2013-11-01 11:28
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
 - portrait
 slug: jasmine-portrait

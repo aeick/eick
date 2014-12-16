@@ -5,7 +5,7 @@ date: 2006-09-12
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -27,5 +27,5 @@ There must be some name collision in the variables that was overwriting an expec
 
 
 
-tags: [DasBlog](http://technorati.com/tag/DasBlog), [javascript](http://technorati.com/tag/javascript), [flash](http://technorati.com/tag/flash)
+keywords: [DasBlog](http://technorati.com/tag/DasBlog), [javascript](http://technorati.com/tag/javascript), [flash](http://technorati.com/tag/flash)
 

@@ -5,14 +5,14 @@ date: 2009-08-03
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
 - jasmine
 - Libby
-- video
+tags: video
 status: publish
 ---
 Girls sing jingle bells<br /><br />Girls show offcostumes.  Jasmine wore that doggy costumes for months<br />

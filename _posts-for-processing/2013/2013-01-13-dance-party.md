@@ -5,7 +5,7 @@ date: 2013-01-13 14:14
 comments: false
 categories: 
 - dance
-- video
+tags: video
 - iPhone
 thumbsrc: http://media.eick.us/video/2012/10/dance-party/dance-party.jpg
 ---

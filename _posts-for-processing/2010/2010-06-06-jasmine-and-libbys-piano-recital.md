@@ -4,7 +4,7 @@ title: Jasmine and Libby's piano recital
 date: 2010-06-06
 published: true
 
-tags: 
+keywords: 
 - piano
 type: post
 categories: 

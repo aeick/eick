@@ -5,12 +5,12 @@ date: 2007-01-26
 published: true
 meta: {}
 
-tags:
+keywords:
 - family
 type: post
 keywords:
 - family
-- video
+tags: video
 status: publish
 ---
 

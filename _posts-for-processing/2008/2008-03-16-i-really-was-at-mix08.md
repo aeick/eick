@@ -5,7 +5,7 @@ date: 2008-03-16
 published: true
 meta: {}
 
-tags:
+keywords:
 - mix08
 - work
 type: post
@@ -38,4 +38,4 @@ Hmm, how many women can you count in the picture?
 
  
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [mix08](http://technorati.com/tags/mix08)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [mix08](http://technorati.com/tags/mix08)</div>

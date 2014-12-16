@@ -5,7 +5,7 @@ date: 2008-07-03
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 - kids drawing
 type: post

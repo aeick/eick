@@ -3,7 +3,7 @@ layout: post
 title: James Madison
 date: 2014-06-21 14:20
 author: Andy Eick
-tags: 
+keywords: 
 - virginia
 ---
 Agony visiting James Madison house.

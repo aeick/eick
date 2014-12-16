@@ -3,7 +3,7 @@ layout: post
 title: "Emerald Dragons November 3rd game"
 date: 2012-11-22 13:07
 comments: false
-tags: 
+keywords: 
 - jasmine
 - soccer
 - emerald-dragons

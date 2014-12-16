@@ -3,7 +3,7 @@ layout: post
 title: Soccer Game 1
 date: 2014-09-06 14:20
 author: Andy Eick
-tags: 
+keywords: 
 - jasmine
 - soccer
 featured_image: "http://media.eick.us/media/photographs/2014/2014-09-06/soccer-game-1-2014-09-06-09-58-23.jpg"

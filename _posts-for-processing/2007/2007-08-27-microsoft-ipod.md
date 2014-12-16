@@ -5,12 +5,12 @@ date: 2007-08-27
 published: true
 meta: {}
 
-tags:
+keywords:
 - fun
 type: post
 keywords:
 - fun
-- video
+tags: video
 status: publish
 ---
 

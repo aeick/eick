@@ -3,7 +3,7 @@ layout: post
 title: Libby is an indian for halloween
 date: 2010-10-24
 published: true
-tags: 
+keywords: 
 - halloween
 type: post
 categories: 

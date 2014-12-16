@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine taking pictures of Andy and Libby"
 date: 2012-10-21 13:45
 comments: false
-tags: 
+keywords: 
 - andy
 - Libby
 - studio

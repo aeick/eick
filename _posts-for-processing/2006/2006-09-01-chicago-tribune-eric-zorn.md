@@ -5,7 +5,7 @@ date: 2006-09-01
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -49,5 +49,5 @@ Source: [Chicago Tribune | Eric Zorn](http://blogs.chicagotribune.com/news_colum
 
 
 
-tags: [iPod](http://technorati.com/tag/iPod), [Lawsuit](http://technorati.com/tag/Lawsuit)
+keywords: [iPod](http://technorati.com/tag/iPod), [Lawsuit](http://technorati.com/tag/Lawsuit)
 

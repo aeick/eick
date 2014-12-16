@@ -6,7 +6,7 @@ comments: false
 categories: 
 - Libby
 - puppet
-- video
+tags: video
 ---
 Libby performs a one-women puppet show with the puppets that they got from Grandparents Eick.  She wanted Jasmine to help her but this was the third performance, and Jasmine was tired.  Of course, she wasn't to tired to attend the auditons for the next puppet show (it was held right after)
 

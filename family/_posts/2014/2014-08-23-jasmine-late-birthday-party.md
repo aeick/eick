@@ -3,7 +3,7 @@ layout: post
 title: Jasmine Late Birthday Party
 date: 2014-08-23 14:20
 author: Andy Eick
-tags: 
+keywords: 
 - jasmine
 - birthday
 ---

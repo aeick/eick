@@ -3,7 +3,7 @@ layout: post
 title: Mount Vernon by Candle light
 date: 2010-12-12
 published: true
-tags: []
+keywords: []
 
 type: post
 categories: 

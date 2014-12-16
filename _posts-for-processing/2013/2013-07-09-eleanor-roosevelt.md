@@ -6,7 +6,7 @@ comments: false
 categories: 
 - Libby
 - report
-- video
+tags: video
 ---
 Libby's report on Eleanor Roosevelt (3rd Grade, February 2013)
 

@@ -8,7 +8,7 @@ meta:
   _edit_last: "2"
   _wp_old_slug: ""
   _thumbnail_id: "135942670"
-tags: 
+keywords: 
 - birthday
 - Libby
 type: post

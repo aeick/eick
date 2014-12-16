@@ -3,7 +3,7 @@ layout: post
 title: Sweden 1965, John illustrates "The Lost Art of Penmanship"
 date: 2009-01-29
 published: true
-tags:
+keywords:
 - family
 type: post
 keywords:

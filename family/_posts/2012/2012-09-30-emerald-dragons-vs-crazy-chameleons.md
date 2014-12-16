@@ -3,7 +3,7 @@ layout: post
 title: "Emerald Dragons vs Crazy Chameleons"
 date: 2012-09-30 09:52
 comments: false
-tags: 
+keywords: 
 - jasmine
 - soccer
 - emerald-dragons

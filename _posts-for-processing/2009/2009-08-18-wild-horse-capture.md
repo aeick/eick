@@ -5,14 +5,14 @@ date: 2009-08-18
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
 - jasmine
 - Libby
-- video
+tags: video
 status: publish
 ---
 Libby tries to capture Jasmine the wild horse

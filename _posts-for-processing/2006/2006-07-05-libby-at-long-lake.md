@@ -3,7 +3,7 @@ layout: post
 title: Libby at Long Lake
 date: 2006-07-05
 published: true
-tags: 
+keywords: 
 - Libby Jasmine
 type: post
 categories:

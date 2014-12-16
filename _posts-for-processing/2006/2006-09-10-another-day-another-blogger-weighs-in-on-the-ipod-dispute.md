@@ -5,7 +5,7 @@ date: 2006-09-10
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -47,5 +47,5 @@ Source: [_link here_](http://stupidevilbastard.com/index/seb/comments/melanie_mc
 
 
 
-tags: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
+keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
 

@@ -5,7 +5,7 @@ date: 2006-08-27
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -50,5 +50,5 @@ Any PocketPC developers our there -- If you write a program that downloads my gC
 
 
 
-tags: [google calendar](http://technorati.com/tag/google+calendar), [gcal](http://technorati.com/tag/gcal), [ical](http://technorati.com/tag/ical), [PocketPC](http://technorati.com/tag/pocketpc)
+keywords: [google calendar](http://technorati.com/tag/google+calendar), [gcal](http://technorati.com/tag/gcal), [ical](http://technorati.com/tag/ical), [PocketPC](http://technorati.com/tag/pocketpc)
 

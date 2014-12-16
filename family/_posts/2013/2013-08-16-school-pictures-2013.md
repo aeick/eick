@@ -4,7 +4,7 @@ title: School Pictures, 2013
 date: 2013-08-16 17:26
 comments: false
 published: true
-tags:
+keywords:
 - Libby
 - jasmine
 - school-pictures

@@ -3,7 +3,7 @@ layout: post
 title: Libby and Jasmine with tree
 date: 2010-12-22
 published: true
-tags: 
+keywords: 
 - christmas tree
 type: post
 categories: 

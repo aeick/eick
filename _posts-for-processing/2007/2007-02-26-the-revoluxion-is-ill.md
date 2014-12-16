@@ -5,12 +5,12 @@ date: 2007-02-26
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
 - revoluxions
-- video
+tags: video
 - work
 status: publish
 ---

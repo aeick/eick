@@ -13,8 +13,8 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-tags:
-- video
+keywords:
+tags: video
 type: post
 keywords:
 - Exclude

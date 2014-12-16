@@ -5,14 +5,14 @@ date: 2009-07-20
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
 - jasmine
 - Libby
-- video
+tags: video
 status: publish
 ---
 News years eve, 2008

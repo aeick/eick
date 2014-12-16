@@ -4,7 +4,7 @@ title: "Libby's ballet recital"
 date: 2012-08-18 14:08
 comments: false
 categories: 
-- video
+tags: video
 - Libby
 - ballet
 ---

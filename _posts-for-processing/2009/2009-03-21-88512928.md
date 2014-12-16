@@ -5,7 +5,7 @@ date: 2009-03-21
 published: true
 meta:
   _edit_last: "2"
-tags:
+keywords:
 - fun
 type: post
 keywords:

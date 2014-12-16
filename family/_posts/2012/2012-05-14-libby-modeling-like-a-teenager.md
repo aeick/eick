@@ -3,7 +3,7 @@ layout: post
 title: "Libby modeling like a teenager"
 date: 2012-05-14 19:29
 comments: false
-tags: 
+keywords: 
 - Libby
 - fun
 - iPhone

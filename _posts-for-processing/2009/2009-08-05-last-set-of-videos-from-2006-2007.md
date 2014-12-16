@@ -5,14 +5,14 @@ date: 2009-08-05
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
 - jasmine
 - Libby
-- video
+tags: video
 status: publish
 ---
 Jasmine screams at something funny.  Well, more shrieks<br /><br />Jasmine jumps on bed<br /><br />Jasmine reads a book....<br /><br />

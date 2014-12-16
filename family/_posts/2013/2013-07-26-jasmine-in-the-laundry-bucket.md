@@ -4,7 +4,7 @@ title: Jasmine in the laundry bucket
 date: 2013-07-26 14:24
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
 - blankie
 slug: jasmine-in-the-laundry-bucket

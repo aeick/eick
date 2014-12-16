@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine in the Studio"
 date: 2013-02-03 15:23
 comments: false
-tags: 
+keywords: 
 - jasmine
 - studio
 ---

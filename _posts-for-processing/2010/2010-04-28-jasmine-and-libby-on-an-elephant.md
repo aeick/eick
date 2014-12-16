@@ -3,7 +3,7 @@ layout: post
 title: Jasmine and Libby on an elephant
 date: 2010-04-28
 published: true
-tags: []
+keywords: []
 
 type: post
 categories: 

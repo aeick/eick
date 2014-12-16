@@ -5,12 +5,12 @@ date: 2006-08-08
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - work
 type: post
 categories: 
 - family
-- video
+tags: video
 - work
 status: publish
 ---

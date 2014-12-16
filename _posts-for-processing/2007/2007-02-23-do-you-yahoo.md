@@ -5,7 +5,7 @@ date: 2007-02-23
 published: true
 meta:
   _edit_last: "1"
-tags:
+keywords:
 - family
 type: post
 keywords:

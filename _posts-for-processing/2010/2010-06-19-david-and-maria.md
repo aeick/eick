@@ -7,7 +7,7 @@ meta:
   aktt_notify_twitter: "no"
   _edit_last: "2"
   _thumbnail_id: "135942542"
-tags:
+keywords:
 - david
 - maria
 type: post

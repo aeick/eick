@@ -3,10 +3,10 @@ layout: post
 title: Libby's Chorus Christmas 2013
 date: 2014-02-15 10:11
 comments: false
-tags:
+keywords:
 - Libby
 - choir
-- video
+tags: video
 published: true
 share: true
 vimeo: 86743018

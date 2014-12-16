@@ -3,7 +3,7 @@ layout: post
 title: "Riding the carousel"
 date: 2012-05-23 17:48
 comments: false
-tags: 
+keywords: 
 - carousel
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-05-23/1024x1024/2012-05-19at16.06.29.jpg

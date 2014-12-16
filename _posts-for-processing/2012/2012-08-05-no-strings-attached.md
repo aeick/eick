@@ -5,7 +5,7 @@ date: 2012-08-05 18:09
 comments: false
 categories: 
 - Libby
-- video
+tags: video
 ---
 Libby's "No Strings Attached" play from summer camp....
 

@@ -12,13 +12,13 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-tags: []
+keywords: []
 
 type: post
 categories: 
 - family
 - Libby
-- video
+tags: video
 status: publish
 ---
 Libby says the bunny came in the door, then his the baskets, then up the stairs, ties a baloon around himself and flew out the window. Jasmine says that couldn't happen and he just walked out the front door.

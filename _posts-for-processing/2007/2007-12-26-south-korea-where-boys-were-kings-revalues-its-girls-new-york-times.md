@@ -5,7 +5,7 @@ date: 2007-12-26
 published: true
 meta: {}
 
-tags:
+keywords:
 - adoption
 - family
 type: post
@@ -43,4 +43,4 @@ In China in 2005, the ratio was 120 boys born for every 100 girls, according to 
 
 [South Korea, Where Boys Were Kings, Revalues Its Girls - New York Times](http://www.nytimes.com/2007/12/23/world/asia/23skorea.html?ex=1356152400&en=e04d0f137d0c46c0&ei=5124&partner=permalink&exprod=permalink)
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [adoption](http://technorati.com/tags/adoption), [korean](http://technorati.com/tags/korean), [orphan](http://technorati.com/tags/orphan)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [adoption](http://technorati.com/tags/adoption), [korean](http://technorati.com/tags/korean), [orphan](http://technorati.com/tags/orphan)</div>

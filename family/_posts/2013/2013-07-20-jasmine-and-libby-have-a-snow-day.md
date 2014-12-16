@@ -4,7 +4,7 @@ title: Jasmine and Libby have a snow day
 date: 2013-07-20 18:27
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
 - Libby
 - portrait

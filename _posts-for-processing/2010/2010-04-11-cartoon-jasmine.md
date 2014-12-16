@@ -8,7 +8,7 @@ meta:
   _edit_last: "3"
   aktt_tweeted: "1"
   _thumbnail_id: "135942285"
-tags: 
+keywords: 
 - iPhone
 - toonpaint
 type: post

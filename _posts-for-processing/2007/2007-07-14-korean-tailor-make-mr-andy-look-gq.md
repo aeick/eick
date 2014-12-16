@@ -5,7 +5,7 @@ date: 2007-07-14
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -51,4 +51,4 @@ What would  a [visit to Korea](/2007/06/30/Korea+Visit.aspx) ([sideshow](http:/
 
  
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [korean tailor](http://technorati.com/tags/korean%20tailor)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [korean tailor](http://technorati.com/tags/korean%20tailor)</div>

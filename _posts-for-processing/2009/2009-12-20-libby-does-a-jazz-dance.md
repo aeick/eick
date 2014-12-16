@@ -5,11 +5,11 @@ date: 2009-12-20
 published: true
 meta: 
   _edit_last: "2"
-tags: 
+keywords: 
 - dance
 - family
 - Libby
-- video
+tags: video
 type: post
 categories: 
 - family

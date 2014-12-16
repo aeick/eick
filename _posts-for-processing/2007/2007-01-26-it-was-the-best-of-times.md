@@ -5,7 +5,7 @@ date: 2007-01-26
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -44,4 +44,4 @@ __ 
 
  
 
- <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [WPF](http://technorati.com/tags/WPF), [XAML](http://technorati.com/tags/XAML), [WPF/E](http://technorati.com/tags/WPF/E)</div>
+ <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [WPF](http://technorati.com/tags/WPF), [XAML](http://technorati.com/tags/XAML), [WPF/E](http://technorati.com/tags/WPF/E)</div>

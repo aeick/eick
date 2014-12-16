@@ -3,7 +3,7 @@ layout: post
 title: Information Managers 2010 Executive Symposium
 date: 2010-12-06
 published: true
-tags: []
+keywords: []
 
 type: post
 keywords:

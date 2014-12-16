@@ -5,7 +5,7 @@ date: 2009-09-01
 published: true
 meta: {}
 
-tags:
+keywords:
 - family
 type: post
 keywords:

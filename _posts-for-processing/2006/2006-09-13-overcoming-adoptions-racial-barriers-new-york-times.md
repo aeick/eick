@@ -5,7 +5,7 @@ date: 2006-09-13
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -53,5 +53,5 @@ Source: [Overcoming Adoption’s Racial Barriers - New York Times](http://www.ny
 
 
 
-tags: [adoption](http://technorati.com/tag/adoption)
+keywords: [adoption](http://technorati.com/tag/adoption)
 

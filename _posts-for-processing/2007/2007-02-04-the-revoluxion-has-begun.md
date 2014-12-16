@@ -5,7 +5,7 @@ date: 2007-02-04
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -52,4 +52,4 @@ Join us in the the [revoluxions](http://www.revoluxions.com/)! 
 
  
 
- <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [revolUXions](http://technorati.com/tags/revolUXions), [ux](http://technorati.com/tags/ux), [wpf/e](http://technorati.com/tags/wpf/e), [wpf](http://technorati.com/tags/wpf), [xaml](http://technorati.com/tags/xaml)</div>
+ <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [revolUXions](http://technorati.com/tags/revolUXions), [ux](http://technorati.com/tags/ux), [wpf/e](http://technorati.com/tags/wpf/e), [wpf](http://technorati.com/tags/wpf), [xaml](http://technorati.com/tags/xaml)</div>

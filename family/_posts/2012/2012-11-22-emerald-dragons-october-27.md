@@ -3,7 +3,7 @@ layout: post
 title: "Emerald Dragons October 27"
 date: 2012-11-22 13:01
 comments: false
-tags: 
+keywords: 
 - jasmine
 - soccer
 - emerald-dragons

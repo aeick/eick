@@ -3,7 +3,7 @@ layout: post
 title: Jasmine and Libby 2010 Halloween
 date: 2010-10-24
 published: true
-tags: 
+keywords: 
 - halloween
 type: post
 categories: 

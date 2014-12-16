@@ -4,7 +4,7 @@ title: Dr Suess Song
 date: 2013-11-15 13:52
 comments: false
 categories:
-- video
+tags: video
 - Libby
 slug: dr-suess-song
 published: true

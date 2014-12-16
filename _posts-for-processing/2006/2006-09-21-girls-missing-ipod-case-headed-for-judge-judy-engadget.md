@@ -5,7 +5,7 @@ date: 2006-09-21
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -33,5 +33,5 @@ Source: [Girl's missing iPod case headed for Judge Judy? - Engadget](http://www.
 
 
 
-tags: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
+keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
 

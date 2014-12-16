@@ -5,7 +5,7 @@ date: 2010-05-26
 published: false
 meta:
   aktt_notify_twitter: "yes"
-tags: []
+keywords: []
 
 type: post
 keywords: []

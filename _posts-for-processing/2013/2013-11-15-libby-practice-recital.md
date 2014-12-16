@@ -6,7 +6,7 @@ comments: false
 categories:
 - Libby
 - piano
-- video
+tags: video
 slug: libby-practice-recital
 published: true
 ---

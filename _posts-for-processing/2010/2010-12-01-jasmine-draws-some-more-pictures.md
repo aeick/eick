@@ -3,7 +3,7 @@ layout: post
 title: Jasmine draws some more pictures
 date: 2010-12-01
 published: true
-tags: 
+keywords: 
 - kids drawing
 type: post
 categories: 

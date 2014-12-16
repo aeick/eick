@@ -5,13 +5,13 @@ date: 2009-07-18
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
 - Libby
-- video
+tags: video
 status: publish
 ---
 Libby has a show of her stuffed animals, and throws candy afterwards...

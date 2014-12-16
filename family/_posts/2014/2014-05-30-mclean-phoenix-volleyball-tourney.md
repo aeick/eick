@@ -3,7 +3,7 @@ layout: post
 title: McLean Phoenix Volleyball Tourney
 date: 2014-05-30 14:20
 author: Andy Eick
-tags: 
+keywords: 
 - jasmine
 - volleyball
 ---

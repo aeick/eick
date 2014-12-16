@@ -4,7 +4,7 @@ title: Jasmine's birthday
 date: 2013-10-25 13:07
 comments: false
 published: true
-tags: 
+keywords: 
 - birthday 
 slug: jasmines-birthday
 ---

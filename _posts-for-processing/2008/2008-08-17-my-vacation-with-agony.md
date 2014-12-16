@@ -5,7 +5,7 @@ date: 2008-08-17
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 - vacation
 type: post

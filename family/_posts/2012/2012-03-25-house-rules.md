@@ -3,7 +3,7 @@ layout: post
 title: "House Rules"
 date: 2012-03-25 13:53
 comments: false
-tags: 
+keywords: 
 - Jasmine
 - Kids drawing
 ---

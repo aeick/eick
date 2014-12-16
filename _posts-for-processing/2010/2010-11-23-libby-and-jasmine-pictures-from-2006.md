@@ -4,7 +4,7 @@ title: Libby and Jasmine pictures from 2006
 date: 2010-11-23
 published: true
 
-tags: []
+keywords: []
 
 type: post
 categories: 

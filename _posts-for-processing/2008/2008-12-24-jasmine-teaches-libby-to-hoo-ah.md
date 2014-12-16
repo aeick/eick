@@ -5,17 +5,17 @@ date: 2008-12-24
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 - jasmine
 - Libby
-- video
+tags: video
 type: post
 categories: 
 - family
 - jasmine
 - Libby
-- video
+tags: video
 status: publish
 ---
 

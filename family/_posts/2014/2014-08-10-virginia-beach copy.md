@@ -3,7 +3,7 @@ layout: post
 title: Virginia Beach
 date: 2014-08-10 14:20
 author: Andy Eick
-tags: 
+keywords: 
 - virginia
 ---
 Virginia Beach.  End of summer and back to school soon!

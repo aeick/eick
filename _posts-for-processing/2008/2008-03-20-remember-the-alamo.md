@@ -5,7 +5,7 @@ date: 2008-03-20
 published: true
 meta: {}
 
-tags:
+keywords:
 - family
 - photography
 type: post

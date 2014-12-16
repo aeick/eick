@@ -4,7 +4,7 @@ title: Jasmine balloon jumping
 date: 2013-10-25 14:05
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
 - balloon
 slug: jasmine-balloon-jumping

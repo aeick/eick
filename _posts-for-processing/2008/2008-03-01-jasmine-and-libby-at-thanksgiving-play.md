@@ -5,13 +5,13 @@ date: 2008-03-01
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
 - vacation
-- video
+tags: video
 status: publish
 ---
 

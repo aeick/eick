@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine and Libby"
 date: 2012-04-21 20:24
 comments: false
-tags: 
+keywords: 
 - jasmine
 - Libby
 - iPhone

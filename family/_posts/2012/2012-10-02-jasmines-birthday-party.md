@@ -3,7 +3,7 @@ layout: post
 title: "Jasmines Birthday Party"
 date: 2012-10-02 07:45
 comments: false
-tags: 
+keywords: 
 - Jasmine
 - Birthday
 thumbsrc: http://media.eick.us/2012/2012-08-19-2/640x640/2012-07-26-Jasmine-Birthday-67-2012-07-26at20-15-14.jpg

@@ -5,7 +5,7 @@ date: 2008-07-06
 published: true
 meta: {}
 
-tags:
+keywords:
 - korea
 - work
 type: post
