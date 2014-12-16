@@ -5,7 +5,7 @@ date: 2013-09-03 13:28
 comments: false
 published: true
 tags:
-- libby
+- Libby
 - kids-drawing
 slug: libbys-ballot
 ---

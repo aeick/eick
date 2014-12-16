@@ -5,7 +5,7 @@ date: 2013-08-16 17:26
 comments: false
 published: true
 tags:
-- libby
+- Libby
 - jasmine
 - school-pictures
 slug: school-pictures-2013

@@ -13,7 +13,7 @@ type: post
 categories: 
 - family
 - jasmine
-- libby
+- Libby
 - video
 status: publish
 ---

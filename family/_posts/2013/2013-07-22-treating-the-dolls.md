@@ -7,7 +7,7 @@ published: true
 tags:
 - playing
 - jasmine
-- libby
+- Libby
 - american girls
 slug: treating-the-dolls
 ---

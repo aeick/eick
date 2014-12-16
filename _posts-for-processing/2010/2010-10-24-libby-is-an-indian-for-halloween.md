@@ -9,7 +9,7 @@ type: post
 categories: 
 - family
 - halloween
-- libby
+- Libby
 status: publish
 ---
 

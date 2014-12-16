@@ -5,7 +5,7 @@ date: 2013-09-07 17:35
 comments: false
 published: true
 tags:
-- libby
+- Libby
 - jasmine
 slug: libby-and-jasmine
 ---

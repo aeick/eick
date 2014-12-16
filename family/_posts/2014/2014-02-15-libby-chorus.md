@@ -4,7 +4,7 @@ title: Libby's Chorus Christmas 2013
 date: 2014-02-15 10:11
 comments: false
 tags:
-- libby
+- Libby
 - choir
 - video
 published: true

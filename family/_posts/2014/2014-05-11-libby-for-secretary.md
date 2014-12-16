@@ -4,7 +4,7 @@ title: Libby for Secretary
 date: 2014-05-11
 comments: false
 tags:
-- libby
+- Libby
 - video
 published: true
 share: true

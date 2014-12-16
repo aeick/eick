@@ -4,7 +4,7 @@ title: "Libby Ballet practice"
 date: 2012-05-27 11:37
 comments: false
 tags: 
-- libby
+- Libby
 - iPhone
 - ballet
 thumbsrc: http://media.eick.us/2012/2012-05-27/1024x1024/libby-ballet_Snapseed.jpg

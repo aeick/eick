@@ -19,7 +19,7 @@ tags: []
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 Libby bought a china doll at Mount Vernon...

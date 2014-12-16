@@ -5,7 +5,7 @@ date: 2013-08-16 17:13
 comments: false
 published: true
 tags:
-- libby
+- Libby
 slug: libby-acting-surprised
 ---
 Libby acting surprised.

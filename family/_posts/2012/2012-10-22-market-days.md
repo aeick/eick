@@ -5,7 +5,7 @@ date: 2012-10-22 07:32
 comments: false
 tags: 
 - jasmine
-- libby
+- Libby
 - colonial
 thumbsrc: http://media.eick.us/2012/2012-10-21/640x640/ClaudeMooreColonialFarm2012-10-21at12-23-13-2012-10-21at12-23-13.jpg
 ---

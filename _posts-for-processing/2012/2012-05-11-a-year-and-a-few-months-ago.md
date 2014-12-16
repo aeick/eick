@@ -6,7 +6,7 @@ comments: false
 categories: 
 - family
 - jasmine
-- libby
+- Libby
 - video
 thumbsrc: http://media.eick.us/video/2011/2011-02-09-chinese-checkers/2011-02-09-chinese-checkers-960x540.jpg
 ---

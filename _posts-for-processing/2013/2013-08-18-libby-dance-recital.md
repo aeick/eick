@@ -4,7 +4,7 @@ title: "Libby Dance recital"
 date: 2013-08-18 15:19
 comments: false
 categories: 
-- libby
+- Libby
 - dance
 - video
 ---

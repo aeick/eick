@@ -10,11 +10,11 @@ meta:
   aktt_tweeted: "1"
   _thumbnail_id: "910058243"
 tags: 
-- libby
+- Libby
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 Libby in red

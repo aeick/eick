@@ -8,13 +8,13 @@ meta: {}
 tags: 
 - family
 - jasmine
-- libby
+- Libby
 - photography
 type: post
 categories: 
 - family
 - jasmine
-- libby
+- Libby
 - photography
 status: publish
 ---

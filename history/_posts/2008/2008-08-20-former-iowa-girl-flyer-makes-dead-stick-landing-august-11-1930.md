@@ -8,6 +8,7 @@ keywords:
 - archive
 - family
 - fun
+- cosgrove
 - historical
 status: publish
 featured_image: "http://media.eick.us/media/photographs/2013/2013-11-08/harriett-sackett-newspaper-2.jpg"

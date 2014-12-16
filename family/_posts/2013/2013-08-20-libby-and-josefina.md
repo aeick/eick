@@ -5,7 +5,7 @@ date: 2013-08-20 14:42
 comments: false
 published: true
 tags:
-- libby
+- Libby
 - doll
 - american-girl
 - josefina

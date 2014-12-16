@@ -5,7 +5,7 @@ date: 2012-08-18 14:08
 comments: false
 categories: 
 - video
-- libby
+- Libby
 - ballet
 ---
 Libby's ballet recital from June 2, 2012.

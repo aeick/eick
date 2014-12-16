@@ -10,7 +10,7 @@ tags:
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 Libby doing a dance at the store

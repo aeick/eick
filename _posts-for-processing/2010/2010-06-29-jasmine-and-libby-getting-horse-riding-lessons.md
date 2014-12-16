@@ -11,7 +11,7 @@ meta:
 tags: 
 - horse
 - jasmine
-- libby
+- Libby
 type: post
 categories: 
 - family

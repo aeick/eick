@@ -5,7 +5,7 @@ date: 2012-04-21 20:24
 comments: false
 tags: 
 - jasmine
-- libby
+- Libby
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-04-19/1024x1024/6945623586_c8085175a5_o.jpg
 ---

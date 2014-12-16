@@ -5,7 +5,7 @@ date: 2012-08-29 22:27
 comments: false
 tags: 
 - jasmine
-- libby
+- Libby
 ---
 Jasmine and Libby play at the end of summer.
 

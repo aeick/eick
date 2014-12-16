@@ -5,7 +5,7 @@ date: 2013-10-25 11:36
 comments: false
 published: true
 tags:
-- libby
+- Libby
 - dance
 slug: libby-dance-class
 ---

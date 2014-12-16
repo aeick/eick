@@ -4,7 +4,7 @@ title: Libby playing basketball III
 date: 2014-03-15
 comments: false
 tags:
-- libby
+- Libby
 - basketball
 published: true
 share: true

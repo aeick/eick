@@ -5,7 +5,7 @@ date: 2013-05-23 10:33
 comments: false
 categories:
 - jasmine
-- libby
+- Libby
 - pirates
 - dressup
 ---

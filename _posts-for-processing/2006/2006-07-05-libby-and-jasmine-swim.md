@@ -7,7 +7,7 @@ tags:
 - Libby Jasmine
 type: post
 categories:
-- libby
+- Libby
 - jasmine
 
 status: publish

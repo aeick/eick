@@ -3,14 +3,14 @@ layout: post
 title: Soccer Peeps Game 5
 date: 2013-11-04 13:52
 comments: false
+photo_layout: "three_up"
 published: true
 tags:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-game-5
+intro: "Soccer Peeps second to last game of the season."
 ---
-Soccer Peeps second to last game of the season.
-
 ![Soccer Peeps lose to The Warriors](http://media.eick.us/media/photographs/2013/2013-10-19/soccer-peeps-game-5-2013-10-19-at-11-37-31.jpg)
 
 ![Soccer Peeps lose to The Warriors](http://media.eick.us/media/photographs/2013/2013-10-19/soccer-peeps-game-5-2013-10-19-at-12-15-25.jpg)

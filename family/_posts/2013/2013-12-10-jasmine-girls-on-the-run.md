@@ -5,7 +5,7 @@ date: 2013-12-10 20:11
 comments: false
 tags:
 - jasmine
-- gotr
+- girls-on-the-run
 - 5k
 slug: jasmine-girls-on-the-run
 published: true

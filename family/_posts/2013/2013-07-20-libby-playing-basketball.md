@@ -5,7 +5,7 @@ date: 2013-07-20 15:12
 comments: false
 published: true
 tags:
-- libby
+- Libby
 - basketball
 slug: libby-playing-basketball
 ---

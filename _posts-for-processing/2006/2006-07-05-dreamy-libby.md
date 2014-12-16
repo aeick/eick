@@ -6,7 +6,7 @@ published: true
 meta: 
   _wp_old_slug: ""
 tags: 
-- libby
+- Libby
 type: post
 categories: []
 

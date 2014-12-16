@@ -10,7 +10,7 @@ categories:
 - christmas
 - family
 - jasmine
-- libby
+- Libby
 status: publish
 ---
 Pictures I took of Libby and Jasmine in front of the tree...

@@ -7,7 +7,7 @@ meta:
   _edit_last: "2"
 tags: 
 - fami
-- libby
+- Libby
 type: post
 categories: 
 - family

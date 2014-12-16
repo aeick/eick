@@ -5,7 +5,7 @@ date: 2013-11-04 14:44
 comments: false
 published: true
 tags:
-- libby
+- Libby
 - portrait
 slug: old-tymey-libby
 ---

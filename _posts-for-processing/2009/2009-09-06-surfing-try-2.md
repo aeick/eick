@@ -11,7 +11,7 @@ type: post
 categories: 
 - family
 - jasmine
-- libby
+- Libby
 - vacation
 - video
 status: publish

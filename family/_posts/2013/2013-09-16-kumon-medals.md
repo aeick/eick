@@ -5,7 +5,7 @@ date: 2013-09-16 16:44
 comments: false
 published: true
 tags:
-- libby
+- Libby
 - jasmine
 - kumon
 slug: kumon-medals

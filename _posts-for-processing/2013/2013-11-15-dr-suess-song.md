@@ -5,7 +5,7 @@ date: 2013-11-15 13:52
 comments: false
 categories:
 - video
-- libby
+- Libby
 slug: dr-suess-song
 published: true
 ---

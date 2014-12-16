@@ -6,7 +6,7 @@ comments: false
 published: true
 tags:
 - jasmine
-- libby
+- Libby
 - face painting
 slug: face-painting
 ---

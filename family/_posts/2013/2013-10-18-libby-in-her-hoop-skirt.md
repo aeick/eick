@@ -5,7 +5,7 @@ date: 2013-10-18 14:55
 comments: false
 published: true
 tags:
-- libby
+- Libby
 - hoop-skirt
 slug: libby-in-her-hoop-skirt
 ---

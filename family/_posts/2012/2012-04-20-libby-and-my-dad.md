@@ -4,7 +4,7 @@ title: "Libby and my dad"
 date: 2012-04-20 20:23
 comments: false
 tags: 
-- libby
+- Libby
 - harry
 
 thumbsrc: http://media.eick.us/2012/2012-04-08/1024x1024/Dad-holds-libby.jpg

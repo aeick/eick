@@ -10,7 +10,7 @@ tags:
 type: post
 categories: 
 - family
-- libby
+- Libby
 - photography
 - picture
 status: publish

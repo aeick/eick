@@ -6,7 +6,7 @@ comments: false
 published: true
 tags:
 - jasmine
-- libby
+- Libby
 - portrait
 slug: jasmine-and-libby-have-a-snow-day
 ---

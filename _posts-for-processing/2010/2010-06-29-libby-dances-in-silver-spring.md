@@ -15,7 +15,7 @@ tags:
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 Libby does a dance at the old house -- I think she was glad to be leaving Maryland...

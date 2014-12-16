@@ -10,7 +10,7 @@ categories:
 - family
 - halloween
 - jasmine
-- libby
+- Libby
 status: publish
 ---
 

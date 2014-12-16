@@ -6,7 +6,7 @@ comments: false
 published: true
 tags:
 - birthday
-- libby
+- Libby
 slug: nine-years-old
 ---
 Libby is 9 years old.

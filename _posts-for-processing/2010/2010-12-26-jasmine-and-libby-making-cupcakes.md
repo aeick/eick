@@ -21,7 +21,7 @@ categories:
 - christmas
 - family
 - jasmine
-- libby
+- Libby
 status: publish
 ---
 Baker Libby and Santa Jasmine make cupcakes
