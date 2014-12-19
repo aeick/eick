@@ -3,7 +3,7 @@ layout: post
 title: "Libby's dress"
 date: 2012-05-12 15:41
 comments: false
-keywords: 
+tags: 
 - Libby
 - dress
 - studio

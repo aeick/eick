@@ -3,7 +3,7 @@ layout: post
 title: "Monticello"
 date: 2012-09-03 10:21
 comments: false
-keywords: 
+tags: 
 - day trip
 thumbsrc: http://media.eick.us/2012/2012-09-03/640x640/2012-09-02at11.58.27.jpg
 ---

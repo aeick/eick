@@ -5,10 +5,10 @@ date: 2010-04-03
 published: true
 meta: {}
 
-keywords: []
+tags: []
 
 type: post
-keywords:
+tags:
 - fun
 status: publish
 ---

@@ -6,10 +6,10 @@ published: true
 meta:
   _edit_last: "1"
   _wp_old_slug: ""
-keywords: []
+tags: []
 
 type: post
-keywords:
+tags:
 - fun
 - tumble-photo
 status: publish

@@ -5,10 +5,10 @@ date: 2007-07-30
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - random
 - work
 status: publish
@@ -57,4 +57,4 @@ Oh, and I was reading the story about how Northwest stranded all the travelers o
 
 [![](http://media.eick.us/2011/05/949533749_9b7a5b1408.jpg)](http://farm2.static.flickr.com/1226/949533749_3dd3f7001a_o.gif)
 
- <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [Northwest Airlines](http://technorati.com/tags/Northwest%20Airlines)</div>
+ <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [Northwest Airlines](http://technorati.com/tags/Northwest%20Airlines)</div>

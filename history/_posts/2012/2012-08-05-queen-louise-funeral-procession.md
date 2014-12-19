@@ -3,7 +3,7 @@ layout: post
 title: "Queen Louise Funeral Procession"
 date: 2012-08-05 19:04
 comments: false
-keywords:
+tags:
 - archive
 featured_image: "http://media.eick.us/media/photographs/2012/2012-08-05/Queen-Louises-funeral-procession.jpg"
 ---

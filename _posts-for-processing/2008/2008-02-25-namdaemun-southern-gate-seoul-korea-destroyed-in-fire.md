@@ -5,12 +5,12 @@ date: 2008-02-25
 published: true
 meta: {}
 
-keywords:
+tags:
 - korea
 - random
 - work
 type: post
-keywords:
+tags:
 - asp.net
 - korea
 - random

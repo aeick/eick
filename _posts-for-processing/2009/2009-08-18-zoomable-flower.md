@@ -5,10 +5,10 @@ date: 2009-08-18
 published: true
 meta: {}
 
-keywords:
+tags:
 - family
 type: post
-keywords:
+tags:
 - family
 - fun
 - photography

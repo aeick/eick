@@ -3,7 +3,7 @@ layout: post
 title: "Libby drawing in NYC"
 date: 2012-04-07 19:53
 comments: false
-keywords: 
+tags: 
 - Libby
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-04-07/1024x1024/nyc-libby-drawing.jpg

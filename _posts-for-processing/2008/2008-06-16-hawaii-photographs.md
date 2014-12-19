@@ -5,10 +5,10 @@ date: 2008-06-16
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - asp.net
 - travel
 - work

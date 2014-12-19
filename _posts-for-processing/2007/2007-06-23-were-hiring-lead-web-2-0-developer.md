@@ -5,10 +5,10 @@ date: 2007-06-23
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - sss research
 - work
 status: publish
@@ -85,5 +85,5 @@ status: publish
 
  · Ability to meet stated customer initiated deadlines.   - Previous experience with tracking systems is preferable.
 
- This position description is intended to by dynamic and subject to change. Position requirements and essential functions may be altered from time to time based upon the needs of the organization and department. This position may be required to execute special projects or other related duties on occasion.  Technorati keywords: [SSS Research](http://technorati.com/tags/SSS%20Research), [job posting](http://technorati.com/tags/job%20posting)
+ This position description is intended to by dynamic and subject to change. Position requirements and essential functions may be altered from time to time based upon the needs of the organization and department. This position may be required to execute special projects or other related duties on occasion.  Technorati tags: [SSS Research](http://technorati.com/tags/SSS%20Research), [job posting](http://technorati.com/tags/job%20posting)
 

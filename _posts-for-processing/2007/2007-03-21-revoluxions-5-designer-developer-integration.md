@@ -5,10 +5,10 @@ date: 2007-03-21
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - revoluxions
 - ux
 tags: video
@@ -41,4 +41,4 @@ Running time: 12:04
 
  
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [revolUXions](http://technorati.com/tags/revolUXions), [ux](http://technorati.com/tags/ux), [wpf](http://technorati.com/tags/wpf), [xaml](http://technorati.com/tags/xaml), [blend](http://technorati.com/tags/blend)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [revolUXions](http://technorati.com/tags/revolUXions), [ux](http://technorati.com/tags/ux), [wpf](http://technorati.com/tags/wpf), [xaml](http://technorati.com/tags/xaml), [blend](http://technorati.com/tags/blend)</div>

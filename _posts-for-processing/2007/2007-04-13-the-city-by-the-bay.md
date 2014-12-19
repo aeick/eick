@@ -5,10 +5,10 @@ date: 2007-04-13
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - Speaking
 - work
 status: publish

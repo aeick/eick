@@ -5,11 +5,11 @@ date: 2008-07-06
 published: true
 meta: {}
 
-keywords:
+tags:
 - family
 - picture
 type: post
-keywords:
+tags:
 - family
 - picture
 status: publish

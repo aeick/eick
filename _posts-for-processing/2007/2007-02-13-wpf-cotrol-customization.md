@@ -5,10 +5,10 @@ date: 2007-02-13
 published: true
 meta:
   _edit_last: "1"
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - revoluxions
 - ux
 tags: video

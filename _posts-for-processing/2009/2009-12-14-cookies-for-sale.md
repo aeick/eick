@@ -5,10 +5,10 @@ date: 2009-12-14
 published: true
 meta:
   _edit_last: "2"
-keywords:
+tags:
 - family
 type: post
-keywords:
+tags:
 - family
 status: publish
 ---

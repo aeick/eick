@@ -3,7 +3,7 @@ layout: post
 title: "Playing Colonial outside"
 date: 2012-05-25 14:32
 comments: false
-keywords: 
+tags: 
 - Libby
 - jasmine
 - iPhone

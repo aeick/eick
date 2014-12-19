@@ -5,7 +5,7 @@ date: 2008-08-04
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - cottage
 - family
 - vacation

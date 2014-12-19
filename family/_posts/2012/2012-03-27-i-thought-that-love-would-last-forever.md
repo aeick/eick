@@ -3,7 +3,7 @@ layout: post
 title: "I thought that love would last forever"
 date: 2012-03-27 07:45
 comments: false
-keywords: 
+tags: 
 - obituary
 - carol
 - joe

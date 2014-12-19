@@ -5,7 +5,7 @@ date: 2007-03-03
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - carol
 type: post
 categories: 

@@ -5,10 +5,10 @@ date: 2006-08-24
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - family
 - work
 status: publish
@@ -27,5 +27,5 @@ Source: [digg - 14-year-old girl sues friend over missing iPod](http://digg.com/
 
 
 
-keywords: [ipod](http://technorati.com/tag/ipod), [lawsuit](http://technorati.com/tag/lawsuit)
+tags: [ipod](http://technorati.com/tag/ipod), [lawsuit](http://technorati.com/tag/lawsuit)
 

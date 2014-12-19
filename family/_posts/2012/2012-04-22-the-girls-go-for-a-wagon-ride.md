@@ -3,7 +3,7 @@ layout: post
 title: "The girls go for a wagon ride"
 date: 2012-04-22 19:40
 comments: false
-keywords: 
+tags: 
 - jasmine
 - Libby
 thumbsrc: http://media.eick.us/2012/2012-04-19-1/1024x1024/7091687825_5c348903da_o.jpg

@@ -5,12 +5,12 @@ date: 2008-04-27
 published: true
 meta: {}
 
-keywords:
+tags:
 - press release
 - thincsoft
 - work
 type: post
-keywords:
+tags:
 - press release
 - thincsoft
 - work

@@ -5,10 +5,10 @@ date: 2007-09-20
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - Programming
 - silverlight
 - work
@@ -51,4 +51,4 @@ When I setup the virtual directory, I had set the permissions to "Scripts and Ex
 
  
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [silverlight](http://technorati.com/tags/silverlight), [IIS](http://technorati.com/tags/IIS), [xp](http://technorati.com/tags/xp)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [silverlight](http://technorati.com/tags/silverlight), [IIS](http://technorati.com/tags/IIS), [xp](http://technorati.com/tags/xp)</div>

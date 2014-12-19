@@ -5,10 +5,10 @@ date: 2009-07-05
 published: true
 meta: {}
 
-keywords:
+tags:
 - family
 type: post
-keywords:
+tags:
 - family
 - photography
 status: publish

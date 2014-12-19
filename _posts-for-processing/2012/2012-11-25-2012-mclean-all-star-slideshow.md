@@ -3,7 +3,7 @@ layout: post
 title: "2012 McLean All Star Slideshow"
 date: 2012-11-25 16:45
 comments: false
-keywords:
+tags:
 - soccer
 tags: video
 ---

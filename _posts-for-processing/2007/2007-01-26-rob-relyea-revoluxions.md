@@ -5,10 +5,10 @@ date: 2007-01-26
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - revoluxions
 - work
 - wpf
@@ -47,4 +47,4 @@ Source: [Rob Relyea: revolUXions](http://rrelyea.spaces.live.com/blog/cns!167AD7
 
  
 
-<div class="wlWriterSmartContent">Technorati keywords: [WPF](http://technorati.com/tags/WPF), [XAML](http://technorati.com/tags/XAML), [WPF/E](http://technorati.com/tags/WPF/E)</div>
+<div class="wlWriterSmartContent">Technorati tags: [WPF](http://technorati.com/tags/WPF), [XAML](http://technorati.com/tags/XAML), [WPF/E](http://technorati.com/tags/WPF/E)</div>

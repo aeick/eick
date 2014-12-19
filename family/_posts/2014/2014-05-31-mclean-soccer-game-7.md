@@ -4,7 +4,7 @@ title: Soccer Game 7
 date: 2014-05-31 11:44
 comments: false
 published: true
-keywords:
+tags:
 - jasmine
 - soccer
 share: true

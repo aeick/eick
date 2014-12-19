@@ -5,10 +5,10 @@ date: 2006-09-06
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - family
 - work
 status: publish
@@ -45,7 +45,7 @@ Source: [Hon Hai completely drops suit against "iPod City" journos - Engadget](h
 
 
 
-keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
+tags: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
 
 
 
@@ -53,5 +53,5 @@ keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.co
 
 
 
-keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
+tags: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
 

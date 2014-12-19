@@ -14,7 +14,7 @@ meta:
   image: ""
   quote-author: Unknown
   link-url: http://
-keywords: []
+tags: []
 
 type: post
 categories: 

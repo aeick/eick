@@ -5,10 +5,10 @@ date: 2007-06-21
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - Products
 - work
 status: publish
@@ -73,4 +73,4 @@ Get your screen capture into the SnagIt Capture Preview, highlight the region yo
 
 Checkout [SnagIt](http://www.techsmith.com/snagit.asp), [read the reviews](http://www.techsmith.com/snagit/newsandreviews.asp), if you dismissed this as YASC (Yet Another Screen Capture) program, look again, it's a surprisingly useful product.  You will find yourself using more often than you thought.
 
-<div class="wlWriterSmartContent">Technorati keywords: [SnagIt](http://technorati.com/tags/SnagIt), [TechSmith](http://technorati.com/tags/TechSmith)</div>
+<div class="wlWriterSmartContent">Technorati tags: [SnagIt](http://technorati.com/tags/SnagIt), [TechSmith](http://technorati.com/tags/TechSmith)</div>

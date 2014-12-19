@@ -5,13 +5,13 @@ date: 2007-12-29
 published: true
 meta: {}
 
-keywords:
+tags:
 - press release
 - sss research
 - thincsoft
 - work
 type: post
-keywords:
+tags:
 - press release
 - sss research
 - work

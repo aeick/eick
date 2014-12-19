@@ -5,10 +5,10 @@ date: 2007-09-25
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - sss research
 - work
 status: publish

@@ -4,7 +4,7 @@ title: Emerald Dragon Tournement
 date: 2013-10-11 13:48
 comments: false
 published: true
-keywords:
+tags:
 - jasmine
 - soccer
 slug: emerald-dragon-tournement

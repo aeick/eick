@@ -5,10 +5,10 @@ date: 2010-05-26
 published: false
 meta:
   aktt_notify_twitter: "yes"
-keywords: []
+tags: []
 
 type: post
-keywords: []
+tags: []
 
 status: draft
 ---

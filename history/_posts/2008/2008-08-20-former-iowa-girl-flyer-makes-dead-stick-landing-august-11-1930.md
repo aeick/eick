@@ -4,7 +4,7 @@ title: "Former Iowa Girl Flyer Makes Dead Stick Landing -- August 11, 1930"
 date: 2008-08-20
 published: true
 type: post
-keywords:
+tags:
 - archive
 - family
 - fun

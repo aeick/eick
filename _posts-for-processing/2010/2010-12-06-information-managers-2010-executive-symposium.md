@@ -3,10 +3,10 @@ layout: post
 title: Information Managers 2010 Executive Symposium
 date: 2010-12-06
 published: true
-keywords: []
+tags: []
 
 type: post
-keywords:
+tags:
 - Exclude
 - Institute for Modern Intelligence
 - MissionFocus

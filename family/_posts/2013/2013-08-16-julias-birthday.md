@@ -4,7 +4,7 @@ title: Julia's birthday
 date: 2013-08-16 17:42
 comments: false
 published: true
-keywords:
+tags:
 - julia
 - birthday
 slug: julias-birthday

@@ -4,7 +4,7 @@ title: Grandma Soupy visits for Easter
 date: 2013-08-09 13:10
 comments: false
 published: true
-keywords:
+tags:
 - lena
 - easter
 - grandma

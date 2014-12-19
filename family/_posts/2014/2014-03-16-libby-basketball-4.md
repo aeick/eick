@@ -4,7 +4,7 @@ title: Libby playing basketball IV
 date: 2014-03-16
 comments: false
 photo_layout: "three_up"
-keywords:
+tags:
 - Libby
 - basketball
 published: true

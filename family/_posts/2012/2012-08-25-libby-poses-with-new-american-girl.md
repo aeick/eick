@@ -3,7 +3,7 @@ layout: post
 title: "Libby poses with new American Girl"
 date: 2012-08-25 14:14
 comments: false
-keywords: 
+tags: 
 - Libby
 - American girl doll
 - studio

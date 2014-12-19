@@ -3,7 +3,7 @@ layout: post
 title: "Pool Pictures"
 date: 2012-06-13 16:37
 comments: false
-keywords: 
+tags: 
 - jasmine
 - Libby
 - pool

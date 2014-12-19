@@ -3,7 +3,7 @@ layout: post
 title: "Visitors at the Pool"
 date: 2012-09-11 20:09
 comments: false
-keywords:
+tags:
 - pool
 thumbsrc: http://media.eick.us/2012/2012-08-19-2/640x640/IMG_7073-2012-07-28at17-20-33.jpg
 ---

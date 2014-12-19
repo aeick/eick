@@ -3,7 +3,7 @@ layout: post
 title: Jasmine Quote
 date: 2013-12-29 20:11
 comments: false
-keywords:
+tags:
 - jasmine
 - quote
 published: true

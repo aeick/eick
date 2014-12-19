@@ -3,7 +3,7 @@ layout: post
 title: Jasmine Girls on the Run
 date: 2013-12-10 20:11
 comments: false
-keywords:
+tags:
 - jasmine
 - girls-on-the-run
 - 5k

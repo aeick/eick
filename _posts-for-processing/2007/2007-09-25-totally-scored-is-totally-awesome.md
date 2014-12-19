@@ -5,10 +5,10 @@ date: 2007-09-25
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - random
 - tips
 - work
@@ -38,4 +38,4 @@ Totally Scored exists to make it easy to track your favorite sports or teams usi
 
  
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;float: none;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [TotallyScored](http://technorati.com/tags/TotallyScored), [RSS](http://technorati.com/tags/RSS), [sports](http://technorati.com/tags/sports), [scores](http://technorati.com/tags/scores)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;float: none;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [TotallyScored](http://technorati.com/tags/TotallyScored), [RSS](http://technorati.com/tags/RSS), [sports](http://technorati.com/tags/sports), [scores](http://technorati.com/tags/scores)</div>

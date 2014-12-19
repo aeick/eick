@@ -5,10 +5,10 @@ date: 2006-09-12
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - programming
 - work
 status: publish
@@ -27,5 +27,5 @@ There must be some name collision in the variables that was overwriting an expec
 
 
 
-keywords: [DasBlog](http://technorati.com/tag/DasBlog), [javascript](http://technorati.com/tag/javascript), [flash](http://technorati.com/tag/flash)
+tags: [DasBlog](http://technorati.com/tag/DasBlog), [javascript](http://technorati.com/tag/javascript), [flash](http://technorati.com/tag/flash)
 

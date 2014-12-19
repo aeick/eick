@@ -5,7 +5,7 @@ date: 2010-01-10
 published: true
 meta: 
   _edit_last: "2"
-keywords: 
+tags: 
 - family
 tags: video
 type: post

@@ -3,7 +3,7 @@ layout: post
 title: "Statue Park"
 date: 2012-02-15 14:04
 comments: false
-keywords:
+tags:
 - work
 - travel
 - london

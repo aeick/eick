@@ -5,12 +5,12 @@ date: 2008-01-14
 published: true
 meta: {}
 
-keywords:
+tags:
 - press release
 - thincsoft
 - work
 type: post
-keywords:
+tags:
 - press release
 - thincsoft
 - work
@@ -88,4 +88,4 @@ Core commercially-available products include:
 
  
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [ABC Stores](http://technorati.com/tags/ABC%20Stores), [thincSoft](http://technorati.com/tags/thincSoft), [Press Release](http://technorati.com/tags/Press%20Release)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [ABC Stores](http://technorati.com/tags/ABC%20Stores), [thincSoft](http://technorati.com/tags/thincSoft), [Press Release](http://technorati.com/tags/Press%20Release)</div>

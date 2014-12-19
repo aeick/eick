@@ -4,7 +4,7 @@ title: Grandma Soupy
 date: 2013-10-11 14:14
 comments: false
 published: true
-keywords:
+tags:
 - Libby
 - jasmine
 - grandma

@@ -3,7 +3,7 @@ layout: post
 title: "American Girl Doll schedule"
 date: 2012-10-16 20:39
 comments: false
-keywords: 
+tags: 
 - American Girl Dolls
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-10-15/640x640/2012-10-08at09.58.15.jpg

@@ -5,10 +5,10 @@ date: 2007-04-23
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - Programming
 - Rails
 - Ruby

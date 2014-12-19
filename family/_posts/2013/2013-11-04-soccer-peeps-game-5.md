@@ -5,7 +5,7 @@ date: 2013-11-04 13:52
 comments: false
 photo_layout: "three_up"
 published: true
-keywords:
+tags:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-game-5

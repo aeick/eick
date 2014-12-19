@@ -3,12 +3,12 @@ layout: post
 title: kkul tteok
 date: 2008-01-29
 published: true
-keywords:
+tags:
 - citation
 - family
 - korea
 type: post
-keywords:
+tags:
 - citation
 - travel
 status: publish

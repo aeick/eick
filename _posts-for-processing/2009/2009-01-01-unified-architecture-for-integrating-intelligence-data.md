@@ -4,10 +4,10 @@ title: Unified Architecture for Integrating Intelligence Data
 date: 2009-01-01 18:13
 published: true
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - work
 status: publish
 ---

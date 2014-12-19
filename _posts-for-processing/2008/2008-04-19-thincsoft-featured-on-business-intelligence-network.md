@@ -5,13 +5,13 @@ date: 2008-04-19
 published: true
 meta: {}
 
-keywords:
+tags:
 - podcast
 - press release
 - thincsoft
 - work
 type: post
-keywords:
+tags:
 - press release
 - thincsoft
 - work

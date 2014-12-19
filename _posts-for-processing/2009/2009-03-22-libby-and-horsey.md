@@ -5,7 +5,7 @@ date: 2009-03-22
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - fun
 type: post
 categories: 

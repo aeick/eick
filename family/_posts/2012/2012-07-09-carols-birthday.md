@@ -3,7 +3,7 @@ layout: post
 title: "Carols Birthday"
 date: 2012-07-09 17:01
 comments: false
-keywords: 
+tags: 
 - carol
 thumbsrc: http://media.eick.us/2012/2012-07-08/1024x1024/176379669_630b905782_o.jpg
 ---

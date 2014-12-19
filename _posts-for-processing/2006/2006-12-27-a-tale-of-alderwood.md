@@ -4,10 +4,10 @@ title: A Tale of Alderwood
 date: 2006-12-27
 published: true
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - publications
 - work
 status: publish

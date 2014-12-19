@@ -4,7 +4,7 @@ title: Soccer Peeps Game Two
 date: 2013-11-01 15:34
 comments: false
 published: true
-keywords:
+tags:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-game-two

@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine sez:"
 date: 2006-09-15
 published: true
-keywords: 
+tags: 
 - family
 type: post
 categories: 

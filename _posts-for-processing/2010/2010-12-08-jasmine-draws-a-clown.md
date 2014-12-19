@@ -14,7 +14,7 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-keywords: 
+tags: 
 - clown
 - kids drawing
 type: post

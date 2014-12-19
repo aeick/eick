@@ -3,7 +3,7 @@ layout: post
 title: A story by Jasmine
 date: 2010-04-28
 published: true
-keywords: []
+tags: []
 
 type: post
 categories: 

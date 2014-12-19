@@ -3,7 +3,7 @@ layout: post
 title: "Glen Echo Park"
 date: 2012-10-02 07:45
 comments: false
-keywords: 
+tags: 
 - Jasmine
 - Libby
 thumbsrc: http://media.eick.us/2012/2012-08-19-2/640x640/2012-07-27at11-46-57-2012-07-27at11-46-57.jpg

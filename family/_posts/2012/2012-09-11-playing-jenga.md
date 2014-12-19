@@ -3,7 +3,7 @@ layout: post
 title: "Playing Jenga"
 date: 2012-09-11 20:17
 comments: false
-keywords: 
+tags: 
 - Jasmine
 - Libby
 thumbsrc: http://media.eick.us/2012/2012-09-11/640x640/2012-09-10at20.39.21.jpg

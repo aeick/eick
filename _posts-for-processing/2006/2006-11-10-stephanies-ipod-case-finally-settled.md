@@ -5,10 +5,10 @@ date: 2006-11-10
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - family
 - work
 status: publish

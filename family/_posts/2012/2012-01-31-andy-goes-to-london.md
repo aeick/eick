@@ -3,10 +3,10 @@ layout: post
 title: "Andy goes to London"
 date: 2012-01-31 17:45
 comments: false
-keywords: 
+tags: 
 - work
 - speaking
-keywords:
+tags:
 - London
 ---
 I spent 5 days in London, however, my luggage spent 3 days in London.

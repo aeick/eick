@@ -3,7 +3,7 @@ layout: post
 title: "London Photos"
 date: 2012-02-14 10:12
 comments: false
-keywords:
+tags:
 - work
 - travel
 - London

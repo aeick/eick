@@ -5,7 +5,7 @@ date: 2008-02-25
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - family
 - skiing
 - winter

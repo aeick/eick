@@ -12,7 +12,7 @@ meta:
   image: http://eick.us/files/2010/11/iPhone-Capture7.jpg
   quote-author: Unknown
   link-url: http://
-keywords: 
+tags: 
 - kids drawing
 type: post
 categories: []

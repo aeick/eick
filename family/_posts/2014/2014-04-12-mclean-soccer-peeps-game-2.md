@@ -5,7 +5,7 @@ date: 2014-04-12 11:44
 comments: false
 published: true
 photo_layout: "three_up"
-keywords:
+tags:
 - jasmine
 - soccer-peeps
 - soccer

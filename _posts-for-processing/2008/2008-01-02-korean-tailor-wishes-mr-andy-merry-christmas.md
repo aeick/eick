@@ -5,13 +5,13 @@ date: 2008-01-02
 published: true
 meta: {}
 
-keywords:
+tags:
 - korea
 - random
 - tailor
 - work
 type: post
-keywords:
+tags:
 - korea
 - random
 - work
@@ -45,4 +45,4 @@ Mr. Bo's G.Q. custom tailoring.
 
 ![](http://media.eick.us/2011/05/519805308_5f5943788f.jpg)
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [korean tailor](http://technorati.com/tags/korean%20tailor)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [korean tailor](http://technorati.com/tags/korean%20tailor)</div>

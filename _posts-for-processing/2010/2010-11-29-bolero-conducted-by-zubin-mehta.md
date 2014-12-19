@@ -13,10 +13,10 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-keywords:
+tags:
 tags: video
 type: post
-keywords:
+tags:
 - Exclude
 - fun
 status: publish

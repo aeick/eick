@@ -5,13 +5,13 @@ date: 2007-12-26
 published: true
 meta: {}
 
-keywords:
+tags:
 - geospatial
 - press release
 - thincsoft
 - work
 type: post
-keywords:
+tags:
 - sss research
 - work
 status: publish
@@ -72,4 +72,4 @@ About thincSoft
 
 All products mentioned herein are trademarks of their respective companies
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [GeoSpatial](http://technorati.com/tags/GeoSpatial), [Visual Intelligence](http://technorati.com/tags/Visual%20Intelligence), [VI](http://technorati.com/tags/VI), [MS-SQL](http://technorati.com/tags/MS-SQL), [AJAX](http://technorati.com/tags/AJAX)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [GeoSpatial](http://technorati.com/tags/GeoSpatial), [Visual Intelligence](http://technorati.com/tags/Visual%20Intelligence), [VI](http://technorati.com/tags/VI), [MS-SQL](http://technorati.com/tags/MS-SQL), [AJAX](http://technorati.com/tags/AJAX)</div>

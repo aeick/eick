@@ -5,10 +5,10 @@ date: 2007-03-26
 published: true
 meta:
   _edit_last: "2"
-keywords:
+tags:
 - fun
 type: post
-keywords:
+tags:
 - fun
 - photo
 status: publish

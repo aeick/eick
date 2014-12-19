@@ -3,7 +3,7 @@ layout: post
 title: "hard-captcha"
 date: 2012-07-22 14:27
 comments: false
-keywords:
+tags:
 - fun
 - exclude
 thumbsrc: http://media.eick.us/2012/2012-07-22/320x320/ScreenShot2012-06-15at5.jpg

@@ -3,7 +3,7 @@ layout: post
 title: "London Day Last"
 date: 2012-02-15 14:05
 comments: false
-keywords:
+tags:
 - work
 - travel
 - london

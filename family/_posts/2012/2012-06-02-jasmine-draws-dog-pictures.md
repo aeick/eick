@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine draws dog pictures"
 date: 2012-06-02 13:47
 comments: false
-keywords: 
+tags: 
 - jasmine
 - kids drawing
 ---

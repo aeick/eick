@@ -3,7 +3,7 @@ layout: post
 title: "Ridgecrest California"
 date: 2012-03-25 14:49
 comments: false
-keywords:
+tags:
 - work
 - travel
 - iPhone

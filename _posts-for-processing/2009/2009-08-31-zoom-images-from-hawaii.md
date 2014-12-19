@@ -5,10 +5,10 @@ date: 2009-08-31
 published: true
 meta: {}
 
-keywords:
+tags:
 - family
 type: post
-keywords:
+tags:
 - family
 - photography
 - vacation

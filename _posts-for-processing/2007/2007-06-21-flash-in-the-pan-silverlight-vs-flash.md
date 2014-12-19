@@ -5,10 +5,10 @@ date: 2007-06-21
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - Programming
 - silverlight
 - work
@@ -62,4 +62,4 @@ Wether Silverlight will kill flash or not is irrelevant to me.  Silverlight 1.1
 
  
 
- <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [silverlight](http://technorati.com/tags/silverlight), [flash](http://technorati.com/tags/flash)</div>
+ <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [silverlight](http://technorati.com/tags/silverlight), [flash](http://technorati.com/tags/flash)</div>

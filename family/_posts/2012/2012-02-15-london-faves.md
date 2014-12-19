@@ -3,7 +3,7 @@ layout: post
 title: "London Faves"
 date: 2012-02-15 14:24
 comments: false
-keywords:
+tags:
 - work
 - London
 - travel

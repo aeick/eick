@@ -4,7 +4,7 @@ title: Jasmine sleeping in a bed full of stuffies
 date: 2013-07-26 15:36
 comments: false
 published: true
-keywords:
+tags:
 - iPhone
 - jasmine
 slug: jasmine-sleeping-in-a-bed-full-of-stuffies

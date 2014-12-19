@@ -5,10 +5,10 @@ date: 2007-06-10
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - Programming
 - silverlight
 - work
@@ -52,4 +52,4 @@ My hope is with XAML, that we use XAML as purely the language for describing a u
 
  
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [Silverlight](http://technorati.com/tags/Silverlight), [wpf/e](http://technorati.com/tags/wpf/e), [xaml](http://technorati.com/tags/xaml), [wpf](http://technorati.com/tags/wpf)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [Silverlight](http://technorati.com/tags/Silverlight), [wpf/e](http://technorati.com/tags/wpf/e), [xaml](http://technorati.com/tags/xaml), [wpf](http://technorati.com/tags/wpf)</div>

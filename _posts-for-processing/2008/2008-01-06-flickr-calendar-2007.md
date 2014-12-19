@@ -5,13 +5,13 @@ date: 2008-01-06
 published: true
 meta: {}
 
-keywords:
+tags:
 - citation
 - family
 - photography
 tags: video
 type: post
-keywords:
+tags:
 - citation
 - family
 - photography

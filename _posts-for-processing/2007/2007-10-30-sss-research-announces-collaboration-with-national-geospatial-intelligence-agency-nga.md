@@ -5,13 +5,13 @@ date: 2007-10-30
 published: true
 meta: {}
 
-keywords:
+tags:
 - press release
 - sss research
 - thincsoft
 - work
 type: post
-keywords:
+tags:
 - sss research
 - work
 status: publish
@@ -72,4 +72,4 @@ Core commercially-available products include:
 
 - **GeoTrack** - an asset visualization solution - interacts with RFID (Radio Frequency Identification), GPS, or other data and provides a visualization and business rules solution for managing critical assets or personnel, location intelligence and situational awareness.
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [location intelligence](http://technorati.com/tags/location%20intelligence), [geoint](http://technorati.com/tags/geoint), [SSS Research](http://technorati.com/tags/SSS%20Research)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [location intelligence](http://technorati.com/tags/location%20intelligence), [geoint](http://technorati.com/tags/geoint), [SSS Research](http://technorati.com/tags/SSS%20Research)</div>

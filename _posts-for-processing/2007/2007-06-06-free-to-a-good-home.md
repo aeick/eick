@@ -5,10 +5,10 @@ date: 2007-06-06
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - random
 - work
 status: publish
@@ -25,4 +25,4 @@ It works fine (I bought it a few months ago).  The reason I am getting rid of
 
  
 
- <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;float: none;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [free](http://technorati.com/tags/free), [linksys iPhone](http://technorati.com/tags/linksys%20iPhone)</div>
+ <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;float: none;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [free](http://technorati.com/tags/free), [linksys iPhone](http://technorati.com/tags/linksys%20iPhone)</div>

@@ -5,10 +5,10 @@ date: 2006-09-21
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - family
 - work
 status: publish
@@ -43,5 +43,5 @@ Source: [Daily Herald](http://www.dailyherald.com/search/printstory.asp?id=22989
 
 
 
-keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
+tags: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
 

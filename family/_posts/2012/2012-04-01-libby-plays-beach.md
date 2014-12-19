@@ -3,7 +3,7 @@ layout: post
 title: "Libby plays beach"
 date: 2012-04-01 17:11
 comments: false
-keywords: 
+tags: 
 - Libby
 - fun
 thumbsrc: http://media.eick.us/2012/2012-03-31/320x320/Random-iPad.jpg

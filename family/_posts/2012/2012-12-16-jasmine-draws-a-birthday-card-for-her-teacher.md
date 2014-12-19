@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine draws a birthday card for her teacher"
 date: 2012-12-16 12:39
 comments: false
-keywords: 
+tags: 
 - kids drawing
 - Jasmine
 ---

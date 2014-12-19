@@ -3,7 +3,7 @@ layout: post
 title: "2011 Emerald Dragons"
 date: 2012-03-24 18:03
 comments: false
-keywords: 
+tags: 
 - jasmine
 - soccer
 - emerald-dragons

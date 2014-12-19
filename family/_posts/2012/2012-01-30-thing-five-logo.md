@@ -3,7 +3,7 @@ layout: post
 title: "thing five logo"
 date: 2012-01-30 10:12
 comments: false
-keywords:
+tags:
 - work
 ---
 We did a logo for the project we are working on for work -- Most project logos are quasi military and pretty boring [boring](http://culturalknowledge.org/Data/Sites/1/site_graphics/dcgs-a_logo.png), but not ours.  Everyone remembers it.

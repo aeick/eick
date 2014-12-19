@@ -5,10 +5,10 @@ date: 2007-06-11
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - Programming
 - tips
 - work
@@ -74,4 +74,4 @@ ps, on my REST proxy, I had to 'hard code' the default port id (I gave the URL o
 
 [![](http://media.eick.us/2011/05/541828521_f3d169d631.jpg)](http://farm2.static.flickr.com/1132/541828521_d480956bb2_o.png)
 
- <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [asp.net](http://technorati.com/tags/asp.net), [cassini](http://technorati.com/tags/cassini), [visualstudio 2005](http://technorati.com/tags/visualstudio%202005), [vs2005](http://technorati.com/tags/vs2005)</div>
+ <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [asp.net](http://technorati.com/tags/asp.net), [cassini](http://technorati.com/tags/cassini), [visualstudio 2005](http://technorati.com/tags/visualstudio%202005), [vs2005](http://technorati.com/tags/vs2005)</div>

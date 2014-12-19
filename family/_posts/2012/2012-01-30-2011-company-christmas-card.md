@@ -3,7 +3,7 @@ layout: post
 title: "2011 Company Christmas Card"
 date: 2012-01-30 10:10
 comments: false
-keywords:
+tags:
 - work
 - christmas
 ---

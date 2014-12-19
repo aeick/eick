@@ -4,7 +4,7 @@ title: School Pictures
 date: 2014-05-04 11:44
 comments: false
 published: true
-keywords:
+tags:
 - school-pictures
 share: true
 ---

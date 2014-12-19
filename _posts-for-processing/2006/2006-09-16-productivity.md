@@ -5,10 +5,10 @@ date: 2006-09-16
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - work
 status: publish
 ---

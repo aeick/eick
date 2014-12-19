@@ -4,7 +4,7 @@ title: Andy plays baseball, 1978
 date: 2008-11-01
 published: true
 type: post
-keywords:
+tags:
 - family
 - andy
 status: publish

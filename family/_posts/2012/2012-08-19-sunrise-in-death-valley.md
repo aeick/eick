@@ -3,7 +3,7 @@ layout: post
 title: "Sunrise in Death Valley"
 date: 2012-08-19 14:56
 comments: false
-keywords:
+tags:
 - iPhone
 ---
 Sunrise in the desert.
