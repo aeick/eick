@@ -6,10 +6,10 @@ published: true
 meta: 
   _edit_last: "3"
   _thumbnail_id: "135942258"
-tags: 
+keywords: 
 - family
 - jasmine
-- libby
+- Libby
 type: post
 categories: 
 - family

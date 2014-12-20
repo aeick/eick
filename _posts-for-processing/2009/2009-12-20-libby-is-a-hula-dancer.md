@@ -5,14 +5,14 @@ date: 2009-12-20
 published: true
 meta: 
   _edit_last: "2"
-tags: 
+keywords: 
 - dance
 - family
-- libby
+- Libby
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 <div class="posterous_bookmarklet_entry">     <div class="posterous_quote_citation">via [youtube.com](http://www.youtube.com/watch?v=CL1E7uU8CzY)</div> 

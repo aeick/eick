@@ -4,13 +4,13 @@ title: Jasmine and Libby's piano recital
 date: 2010-06-06
 published: true
 
-tags: 
+keywords: 
 - piano
 type: post
 categories: 
 - family
 - jasmine
-- libby
+- Libby
 status: publish
 ---
 Jasmine and Libby play the last piano recital of the year.   The sound is horrible, but I still haven't learned to adjust my video  camera yet!

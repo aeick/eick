@@ -3,8 +3,8 @@ layout: post
 title: Libby playing basketball
 date: 2014-03-09
 comments: false
-tags:
-- libby
+keywords:
+- Libby
 - basketball
 published: true
 share: true

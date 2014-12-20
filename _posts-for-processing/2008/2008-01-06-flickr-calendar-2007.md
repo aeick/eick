@@ -5,17 +5,17 @@ date: 2008-01-06
 published: true
 meta: {}
 
-tags:
+keywords:
 - citation
 - family
 - photography
-- video
+tags: video
 type: post
 keywords:
 - citation
 - family
 - photography
-- video
+tags: video
 status: publish
 ---
 

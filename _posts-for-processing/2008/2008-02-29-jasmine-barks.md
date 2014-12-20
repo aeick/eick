@@ -12,12 +12,12 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
-- video
+tags: video
 status: publish
 ---
 Jasmine loves her pongo custom.  She was Pongo for halloween a few years ago, but still adores the custom, and puts it on every few weeks to crawl around the house.

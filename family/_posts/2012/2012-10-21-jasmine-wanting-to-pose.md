@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine wanting to pose"
 date: 2012-10-21 13:44
 comments: false
-tags: 
+keywords: 
 - jasmine
 - studio
 thumbsrc: http://media.eick.us/2012/2012-10-20/640x640/Studio2012-10-19at19-37-00-2012-10-19at19-37-00.jpg

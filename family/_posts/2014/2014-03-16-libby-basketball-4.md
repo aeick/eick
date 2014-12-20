@@ -3,9 +3,9 @@ layout: post
 title: Libby playing basketball IV
 date: 2014-03-16
 comments: false
-# photo_layout: "three_up"
-tags:
-- libby
+photo_layout: "three_up"
+keywords:
+- Libby
 - basketball
 published: true
 share: true

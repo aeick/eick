@@ -4,8 +4,8 @@ title: Hair Extensions
 date: 2013-07-21 18:50
 comments: false
 published: true
-tags:
-- libby
+keywords:
+- Libby
 - jasmine
 - hair extensions
 slug: hair-extensions

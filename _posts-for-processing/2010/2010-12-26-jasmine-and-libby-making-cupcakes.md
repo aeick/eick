@@ -14,14 +14,14 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-tags: []
+keywords: []
 
 type: post
 categories: 
 - christmas
 - family
 - jasmine
-- libby
+- Libby
 status: publish
 ---
 Baker Libby and Santa Jasmine make cupcakes

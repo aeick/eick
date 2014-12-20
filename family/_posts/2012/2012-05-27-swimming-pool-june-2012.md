@@ -3,9 +3,9 @@ layout: post
 title: "Swimming Pool June 2012"
 date: 2012-05-27 20:25
 comments: false
-tags: 
+keywords: 
 - jasmine
-- libby
+- Libby
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-05-27-1/1024x1024/2012-05-27at18.45.03.jpg
 ---

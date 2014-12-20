@@ -3,7 +3,7 @@ layout: post
 title: "Libby and Candy"
 date: 2013-05-22 16:59
 comments: false
-tags: 
+keywords: 
 - Libby
 - valentine
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Empire Challenge 2014
 date: 2014-07-26 14:20
 author: Andy Eick
-tags: 
+keywords: 
 - work
 ---
 Empire Challenge 2014, Death Valley, California

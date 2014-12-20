@@ -3,9 +3,9 @@ layout: post
 title: "Pool Pictures"
 date: 2012-06-13 16:37
 comments: false
-tags: 
+keywords: 
 - jasmine
-- libby
+- Libby
 - pool
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-06-12/1024x1024/2012-06-10at18.54.51.jpg

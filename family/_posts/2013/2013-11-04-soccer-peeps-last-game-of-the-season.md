@@ -4,7 +4,7 @@ title: Soccer Peeps last game of the season
 date: 2013-11-04 15:05
 comments: false
 published: true
-tags:
+keywords:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-last-game-of-the-season

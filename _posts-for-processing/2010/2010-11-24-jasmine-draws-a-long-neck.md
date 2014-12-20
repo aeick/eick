@@ -7,7 +7,7 @@ meta:
   aktt_notify_twitter: "no"
   _edit_last: "1"
   image: http://eick.us/files/2010/11/iPhone-Capture1.jpg
-tags: 
+keywords: 
 - kids drawing
 type: post
 categories: []

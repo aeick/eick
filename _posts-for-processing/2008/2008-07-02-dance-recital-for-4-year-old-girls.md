@@ -5,15 +5,15 @@ date: 2008-07-02
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - dance recital
 - family
 - show
-- video
+tags: video
 type: post
 categories: 
 - family
-- video
+tags: video
 status: publish
 ---
 

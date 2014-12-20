@@ -3,9 +3,9 @@ layout: post
 title: Libby for Secretary
 date: 2014-05-11
 comments: false
-tags:
-- libby
-- video
+keywords:
+- Libby
+tags: video
 published: true
 share: true
 vimeo: 94867775

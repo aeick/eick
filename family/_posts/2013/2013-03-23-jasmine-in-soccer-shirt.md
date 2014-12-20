@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine in soccer shirt"
 date: 2013-03-23 17:20
 comments: false
-tags: 
+keywords: 
 - jasmine
 - studio
 ---

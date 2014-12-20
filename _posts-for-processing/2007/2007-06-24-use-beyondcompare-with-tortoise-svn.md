@@ -5,7 +5,7 @@ date: 2007-06-24
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -13,7 +13,7 @@ keywords:
 - work
 status: publish
 ---
-<div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;float: none;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [BeyondCompare](http://technorati.com/tags/BeyondCompare), [SVN](http://technorati.com/tags/SVN), [Tortoise SVN](http://technorati.com/tags/Tortoise%20SVN)</div>
+<div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;float: none;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [BeyondCompare](http://technorati.com/tags/BeyondCompare), [SVN](http://technorati.com/tags/SVN), [Tortoise SVN](http://technorati.com/tags/Tortoise%20SVN)</div>
 
 Being a professional programmer, text is very important to me.  My professional work-products are all text based files (with extensions of .cs, .java, .aspx, etc)  Having a good set of tools to work with text in your toolbox is important.
 

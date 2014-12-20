@@ -5,7 +5,7 @@ date: 2010-09-15
 published: true
 meta: {}
 
-tags: []
+keywords: []
 
 type: post
 categories: 

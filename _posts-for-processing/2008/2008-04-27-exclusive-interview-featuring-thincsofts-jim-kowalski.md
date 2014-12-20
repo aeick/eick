@@ -5,7 +5,7 @@ date: 2008-04-27
 published: true
 meta: {}
 
-tags:
+keywords:
 - press release
 - thincsoft
 - work

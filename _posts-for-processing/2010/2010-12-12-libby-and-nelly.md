@@ -14,12 +14,12 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-tags: []
+keywords: []
 
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 Libby bought a china doll at Mount Vernon...

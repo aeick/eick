@@ -4,7 +4,7 @@ title: Julia photobombs Jasmine and Libby
 date: 2013-08-09 12:48
 comments: false
 published: true
-tags:
+keywords:
 - julia
 - photobomb
 slug: julia-photobombs-jasmine-and-libby

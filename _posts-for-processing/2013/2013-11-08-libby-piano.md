@@ -5,8 +5,8 @@ date: 2013-11-08 13:52
 comments: false
 categories:
 - piano
-- libby
-- video
+- Libby
+tags: video
 slug: libby-piano
 published: true
 ---

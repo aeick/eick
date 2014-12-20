@@ -4,7 +4,7 @@ title: The first 90
 date: 2008-01-26
 published: true
 
-tags:
+keywords:
 - fun
 type: post
 keywords:

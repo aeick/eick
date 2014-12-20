@@ -5,7 +5,7 @@ date: 2006-08-22
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -57,5 +57,5 @@ Source: [iPod case tossed out of court on technicality](http://www.suntimes.com/
 
 
 
-tags: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
+keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
 

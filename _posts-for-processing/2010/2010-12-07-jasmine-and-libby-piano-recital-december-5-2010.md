@@ -13,16 +13,16 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-tags: 
+keywords: 
 - piano
 - recital
-- video
+tags: video
 type: post
 categories: 
 - family
 - jasmine
-- libby
-- video
+- Libby
+tags: video
 status: publish
 ---
 Jasmine plays "Whistle While you Work", and "The Wishing Star".  Libby plays "A Waltz for Judy" and "Boom, Boom!".The duet is "Bouncin' Boogie"

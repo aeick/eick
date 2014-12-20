@@ -3,7 +3,7 @@ layout: post
 title: "Phone Photos"
 date: 2012-03-25 13:54
 comments: false
-tags: 
+keywords: 
 - Libby
 - Jasmine
 - iPhone

@@ -3,7 +3,7 @@ layout: post
 title: Talkin' trash at Northwest (Let them eat cake?)
 date: 2006-08-18
 published: true
-tags:
+keywords:
 - work
 type: post
 keywords:

@@ -8,7 +8,7 @@ meta:
   _edit_last: "2"
   aktt_tweeted: "1"
   _thumbnail_id: "135942506"
-tags: []
+keywords: []
 
 type: post
 categories: 

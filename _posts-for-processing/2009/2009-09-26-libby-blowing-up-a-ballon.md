@@ -6,7 +6,7 @@ published: true
 meta: 
   aktt_notify_twitter: "no"
   _edit_last: "1"
-tags: 
+keywords: 
 - family
 type: post
 categories: 

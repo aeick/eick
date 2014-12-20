@@ -4,8 +4,8 @@ title: Libby Ballet
 date: 2013-10-08 17:07
 comments: false
 published: true
-tags:
-- libby
+keywords:
+- Libby
 - dance
 slug: libby-ballet
 ---

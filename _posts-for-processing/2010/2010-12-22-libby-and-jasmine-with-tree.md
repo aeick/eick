@@ -3,14 +3,14 @@ layout: post
 title: Libby and Jasmine with tree
 date: 2010-12-22
 published: true
-tags: 
+keywords: 
 - christmas tree
 type: post
 categories: 
 - christmas
 - family
 - jasmine
-- libby
+- Libby
 status: publish
 ---
 Pictures I took of Libby and Jasmine in front of the tree...

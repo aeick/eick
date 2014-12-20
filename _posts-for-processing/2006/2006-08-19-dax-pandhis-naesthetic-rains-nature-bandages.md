@@ -5,7 +5,7 @@ date: 2006-08-19
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -43,5 +43,5 @@ Bonus bug shot from Dax...
 
 
 
-tags: [hometown](http://technorati.com/tag/hometown), [Gujarat](http://technorati.com/tag/Gujarat), [India](http://technorati.com/tag/India)
+keywords: [hometown](http://technorati.com/tag/hometown), [Gujarat](http://technorati.com/tag/Gujarat), [India](http://technorati.com/tag/India)
 

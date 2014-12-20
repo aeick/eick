@@ -4,8 +4,8 @@ title: Libby in her Ballet Uniform
 date: 2013-09-20 13:06
 comments: false
 published: true
-tags: 
-- libby
+keywords: 
+- Libby
 - dance
 - protrait
 - ballet 

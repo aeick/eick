@@ -5,7 +5,7 @@ date: 2012-01-04 16:15
 comments: false
 categories: 
 - jasmine
-tags:
+keywords:
 - sunglasses
 - iPhone
 ---

@@ -4,9 +4,9 @@ title: Libby Practice Recital
 date: 2013-11-15 13:52
 comments: false
 categories:
-- libby
+- Libby
 - piano
-- video
+tags: video
 slug: libby-practice-recital
 published: true
 ---

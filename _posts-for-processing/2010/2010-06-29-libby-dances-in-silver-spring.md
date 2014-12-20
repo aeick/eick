@@ -9,13 +9,13 @@ meta:
   _edit_last: "2"
   _wp_old_slug: ""
   _thumbnail_id: "135942577"
-tags: 
+keywords: 
 - dance
 - family
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 Libby does a dance at the old house -- I think she was glad to be leaving Maryland...

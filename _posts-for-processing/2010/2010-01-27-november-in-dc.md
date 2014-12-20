@@ -5,7 +5,7 @@ date: 2010-01-27
 published: true
 meta: 
   _edit_last: "2"
-tags: 
+keywords: 
 - family
 type: post
 categories: 

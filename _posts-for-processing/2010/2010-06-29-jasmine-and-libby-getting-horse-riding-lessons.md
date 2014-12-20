@@ -8,10 +8,10 @@ meta:
   _edit_last: "2"
   _wp_old_slug: ""
   _thumbnail_id: "135942561"
-tags: 
+keywords: 
 - horse
 - jasmine
-- libby
+- Libby
 type: post
 categories: 
 - family

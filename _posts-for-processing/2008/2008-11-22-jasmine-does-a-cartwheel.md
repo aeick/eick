@@ -5,12 +5,12 @@ date: 2008-11-22
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
-- video
+tags: video
 status: publish
 ---
 <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;float: none;padding-bottom: 0px;margin: 0px;padding-top: 0px"></div>

@@ -4,8 +4,8 @@ title: Libby Grandma Soupy Report
 date: 2013-11-08 13:52
 comments: false
 categories:
-- video
-- libby
+tags: video
+- Libby
 slug: libby-grandma-soupy-report
 published: true
 ---

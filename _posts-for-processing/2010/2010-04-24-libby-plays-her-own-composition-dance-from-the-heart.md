@@ -14,13 +14,13 @@ meta:
   image: ""
   quote-author: Unknown
   link-url: http://
-tags: []
+keywords: []
 
 type: post
 categories: 
 - family
-- libby
-- video
+- Libby
+tags: video
 status: publish
 ---
 Libby plays her own composition, "Dance from the heart"

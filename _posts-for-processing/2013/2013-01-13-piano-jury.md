@@ -4,7 +4,7 @@ title: "Piano Jury"
 date: 2013-01-13 14:20
 comments: false
 categories: 
-- video
+tags: video
 - iPhone
 - piano
 thumbsrc: http://media.eick.us/video/2012/10/piano-jury/2012-12-17-Piano-Jury.jpg

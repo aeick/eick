@@ -6,7 +6,7 @@ comments: false
 publish: false
 categories:
 - jasmine
-- video
+tags: video
 slug: report-on-joe-castelvetere
 published: true
 ---

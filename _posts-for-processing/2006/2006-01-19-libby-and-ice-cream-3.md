@@ -5,7 +5,7 @@ date: 2006-01-19
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - work
 type: post
 categories: 

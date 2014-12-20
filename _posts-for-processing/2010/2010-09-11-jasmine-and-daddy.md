@@ -6,7 +6,7 @@ published: true
 meta: 
   _edit_last: "1"
   _thumbnail_id: "910058041"
-tags: []
+keywords: []
 
 type: post
 categories: 

@@ -4,8 +4,8 @@ title: Libby and Josefina
 date: 2013-08-20 14:42
 comments: false
 published: true
-tags:
-- libby
+keywords:
+- Libby
 - doll
 - american-girl
 - josefina

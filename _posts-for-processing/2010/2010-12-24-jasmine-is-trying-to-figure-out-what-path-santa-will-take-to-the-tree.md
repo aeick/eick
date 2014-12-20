@@ -8,7 +8,7 @@ meta:
   quote-url: ""
   quote-copy: Jasmine is trying to figure out what path Santa will take to the tree.
   quote-author: ""
-tags: []
+keywords: []
 
 type: post
 categories: []

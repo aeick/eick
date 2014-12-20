@@ -5,15 +5,15 @@ date: 2008-03-14
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - christmas
 - family
-- video
+tags: video
 type: post
 categories: 
 - christmas
 - family
-- video
+tags: video
 status: publish
 ---
 

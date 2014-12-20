@@ -5,7 +5,7 @@ date: 2008-03-16
 published: true
 meta: {}
 
-tags:
+keywords:
 - press releas
 - thincsoft
 - work

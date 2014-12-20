@@ -3,8 +3,8 @@ layout: post
 title: Libby in her Jazz uniform
 date: 2013-09-20 13:10
 comments: false
-tags: 
-- libby
+keywords: 
+- Libby
 - dance
 - protrait
 - jazz 

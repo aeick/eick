@@ -3,13 +3,13 @@ layout: post
 title: Jasmine and Libby on an elephant
 date: 2010-04-28
 published: true
-tags: []
+keywords: []
 
 type: post
 categories: 
 - family
 - jasmine
-- libby
+- Libby
 status: publish
 ---
 Jasmine and Libby at the park 

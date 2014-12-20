@@ -5,7 +5,7 @@ date: 2008-05-31
 published: true
 meta: {}
 
-tags:
+keywords:
 - citation
 - family
 type: post

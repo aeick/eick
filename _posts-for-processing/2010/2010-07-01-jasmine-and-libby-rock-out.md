@@ -9,15 +9,15 @@ meta:
   _edit_last: "2"
   _wp_old_slug: ""
   _thumbnail_id: "135942580"
-tags: 
+keywords: 
 - dance
 - jasmine
-- libby
+- Libby
 type: post
 categories: 
 - family
 - jasmine
-- libby
+- Libby
 status: publish
 ---
 Jasmine started to dance, and then Libby had to join, and then they had to make a show -- thank goodness my iPhone has video....

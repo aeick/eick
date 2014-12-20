@@ -7,7 +7,7 @@ published: true
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 After trick or treating they came back and took some pictures....

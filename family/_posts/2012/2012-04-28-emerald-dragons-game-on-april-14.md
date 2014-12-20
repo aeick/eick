@@ -3,7 +3,7 @@ layout: post
 title: "Emerald Dragons game on April 14"
 date: 2012-04-28 21:15
 comments: false
-tags: 
+keywords: 
 - jasmine
 - soccer
 - emerald-dragons

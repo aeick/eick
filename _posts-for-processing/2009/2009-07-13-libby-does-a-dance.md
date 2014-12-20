@@ -5,12 +5,12 @@ date: 2009-07-13
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 Libby doing a dance at the store

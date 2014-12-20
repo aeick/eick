@@ -8,13 +8,13 @@ meta:
   _edit_last: "2"
   _wp_old_slug: ""
   _thumbnail_id: "135942670"
-tags: 
+keywords: 
 - birthday
-- libby
+- Libby
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 Libby's birthday was over a month ago, but I'm just now getting around to posting the pictures -- Sorry Mom and Dad!

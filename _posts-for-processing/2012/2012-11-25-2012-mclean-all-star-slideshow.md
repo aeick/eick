@@ -5,7 +5,7 @@ date: 2012-11-25 16:45
 comments: false
 keywords:
 - soccer
-- video
+tags: video
 ---
 2012 McLean All Star slideshow.
 

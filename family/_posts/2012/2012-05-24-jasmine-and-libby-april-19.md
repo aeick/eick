@@ -3,9 +3,9 @@ layout: post
 title: "Jasmine and Libby April 19"
 date: 2012-05-24 17:59
 comments: false
-tags: 
+keywords: 
 - jasmine
-- libby
+- Libby
 - iPhone
 ---
 A few iPhone pictures of Jasmine and Libby from last month.

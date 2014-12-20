@@ -3,9 +3,9 @@ layout: post
 title: "Julia visiting"
 date: 2012-07-14 08:10
 comments: false
-tags: 
+keywords: 
 - jasmine
-- libby
+- Libby
 - julia
 thumbsrc: http://media.eick.us/2012/2012-07-14/1024x1024/2012-07-13-Julia-Studio-.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Jasmine Art Show
 date: 2014-03-16
 comments: false
-tags:
+keywords:
 - jasmine
 - art-show
 published: true

@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine draws the sun"
 date: 2012-04-24 20:22
 comments: false
-tags: 
+keywords: 
 - jasmine
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-04-08/1024x1024/IMG_0005.JPG

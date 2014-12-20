@@ -5,13 +5,13 @@ date: 2007-02-13
 published: true
 meta:
   _edit_last: "1"
-tags:
+keywords:
 - work
 type: post
 keywords:
 - revoluxions
 - ux
-- video
+tags: video
 - work
 - wpf
 - xaml

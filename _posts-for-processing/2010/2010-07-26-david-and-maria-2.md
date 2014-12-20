@@ -3,7 +3,7 @@ layout: post
 title: David and Maria
 date: 2010-07-26
 published: true
-tags: 
+keywords: 
 - family
 type: post
 categories: 

@@ -3,7 +3,7 @@ layout: post
 title: "Spaceshuttle Discovery"
 date: 2012-06-19 21:35
 comments: false
-tags: 
+keywords: 
 - iPhone
 thumbscrc: http://media.eick.us/2012/2012-06-19/1024x1024/shuttle-discovery.JPG
 ---

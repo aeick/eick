@@ -5,9 +5,9 @@ date: 2010-01-09
 published: true
 meta: 
   _edit_last: "2"
-tags: 
+keywords: 
 - family
-- video
+tags: video
 type: post
 categories: 
 - family

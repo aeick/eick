@@ -4,7 +4,7 @@ title: "Lion King in 3 acts"
 date: 2012-02-10 17:58
 comments: false
 categories: 
-- video
+tags: video
 ---
 <script type="text/javascript" src="http://cdn.sublimevideo.net/js/gpbp4gog.js"></script>
 

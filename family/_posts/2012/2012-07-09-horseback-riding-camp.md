@@ -3,9 +3,9 @@ layout: post
 title: "Horseback Riding Camp"
 date: 2012-07-09 20:22
 comments: false
-tags: 
+keywords: 
 - jasmine
-- libby
+- Libby
 - horse
 ---
 Jasmine and Libby at horseback riding camp.

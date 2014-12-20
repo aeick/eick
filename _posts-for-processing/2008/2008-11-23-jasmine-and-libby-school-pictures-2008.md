@@ -5,7 +5,7 @@ date: 2008-11-23
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 - school pictures
 type: post

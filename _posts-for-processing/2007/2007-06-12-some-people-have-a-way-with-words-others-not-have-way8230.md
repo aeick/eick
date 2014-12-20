@@ -5,7 +5,7 @@ date: 2007-06-12
 published: true
 meta: {}
 
-tags:
+keywords:
 - fun
 type: post
 keywords:

@@ -4,7 +4,7 @@ title: Emerald Dragons defeat the Green Lighting Puppies
 date: 2013-09-05 17:35
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
 - soccer
 - emerald-dragons

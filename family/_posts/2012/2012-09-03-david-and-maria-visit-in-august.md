@@ -3,10 +3,10 @@ layout: post
 title: "David and Maria Visit in August"
 date: 2012-09-03 09:47
 comments: false
-tags: 
+keywords: 
 - david
 - maria
-- libby
+- Libby
 - jasmine
 thumbsrc: http://media.eick.us/2012/2012-08-19-1/640x640/06-22-david-and-maria-visit-2012-06-22at21-40-26.jpg
 ---

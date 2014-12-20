@@ -4,7 +4,7 @@ title: McLean All Star Soccer Tournament
 date: 2013-12-08 11:44
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
 - soccer
 - all-stars

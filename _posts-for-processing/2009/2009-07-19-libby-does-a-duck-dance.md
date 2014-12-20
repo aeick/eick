@@ -5,13 +5,13 @@ date: 2009-07-19
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
-- libby
-- video
+- Libby
+tags: video
 status: publish
 ---
 Libby does a squeaky duck dance at our house in Michigan.

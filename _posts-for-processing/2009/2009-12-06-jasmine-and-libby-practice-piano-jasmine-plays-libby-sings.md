@@ -5,14 +5,14 @@ date: 2009-12-06
 published: true
 meta: 
   _edit_last: "2"
-tags: 
+keywords: 
 - family
-- video
+tags: video
 type: post
 categories: 
 - family
 - jasmine
-- libby
+- Libby
 status: publish
 ---
 

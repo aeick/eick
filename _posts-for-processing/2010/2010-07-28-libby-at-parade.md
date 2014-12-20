@@ -3,13 +3,13 @@ layout: post
 title: Libby at parade
 date: 2010-07-28
 published: true
-tags: 
+keywords: 
 - family
-- libby
+- Libby
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 Leftover pictures from my iPhone......

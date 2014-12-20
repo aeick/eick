@@ -3,7 +3,7 @@ layout: post
 title: "Rusty and the Girls"
 date: 2012-03-30 17:32
 comments: false
-tags: 
+keywords: 
 - Jasmine
 - Rusty
 thumbsrc: http://media.eick.us/2012/2012-03-28/1024x1024/Random-iPhone-7.jpg

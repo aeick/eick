@@ -3,8 +3,8 @@ layout: post
 title: Libby Birthday Weekend
 date: 2014-06-13 14:20
 author: Andy Eick
-tags: 
-- libby
+keywords: 
+- Libby
 - birthday
 ---
 Libby Birthday Weekend

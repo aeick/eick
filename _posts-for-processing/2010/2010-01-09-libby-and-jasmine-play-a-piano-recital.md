@@ -6,15 +6,15 @@ published: true
 meta: 
   aktt_notify_twitter: "no"
   _edit_last: "1"
-tags: 
+keywords: 
 - family
-- video
+tags: video
 type: post
 categories: 
 - family
 - jasmine
-- libby
-- video
+- Libby
+tags: video
 status: publish
 ---
 <div class="posterous_autopost">Libby and Jasmine play a piano recital</div>

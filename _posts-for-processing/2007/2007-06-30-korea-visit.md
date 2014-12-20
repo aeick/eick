@@ -5,7 +5,7 @@ date: 2007-06-30
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -80,4 +80,4 @@ Our chariot in the background:
 
  
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [Korea](http://technorati.com/tags/Korea)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [Korea](http://technorati.com/tags/Korea)</div>

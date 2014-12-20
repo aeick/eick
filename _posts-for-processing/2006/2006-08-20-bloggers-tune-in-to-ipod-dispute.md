@@ -5,7 +5,7 @@ date: 2006-08-20
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -53,5 +53,5 @@ Source: [Bloggers tune in to iPod dispute](http://www.suburbanchicagonews.com/su
 
 
 
-tags: [ipod](http://technorati.com/tag/ipod), [lawsuit](http://technorati.com/tag/lawsuit)
+keywords: [ipod](http://technorati.com/tag/ipod), [lawsuit](http://technorati.com/tag/lawsuit)
 

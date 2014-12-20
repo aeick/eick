@@ -5,7 +5,7 @@ date: 2007-01-28
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
@@ -80,4 +80,4 @@ Returning every year to China to support and train and grow the Granny Program h
 
  
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [china](http://technorati.com/tags/china), [orphanage](http://technorati.com/tags/orphanage), [xi&#039;an](http://technorati.com/tags/xi'an)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [china](http://technorati.com/tags/china), [orphanage](http://technorati.com/tags/orphanage), [xi&#039;an](http://technorati.com/tags/xi'an)</div>

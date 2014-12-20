@@ -3,7 +3,7 @@ layout: post
 title: "Libby draws a creature"
 date: 2012-09-29 18:50
 comments: false
-tags: 
+keywords: 
 - kids drawing
 - Libby
 ---

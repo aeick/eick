@@ -3,7 +3,7 @@ layout: post
 title: Soccer Game 4
 date: 2014-09-27 14:20
 author: Andy Eick
-tags: 
+keywords: 
 - jasmine
 - soccer
 featured_image: "http://media.eick.us/media/photographs/2014/2014-09-27/soccer-game-4-2014-09-27-10-05-53.jpg"

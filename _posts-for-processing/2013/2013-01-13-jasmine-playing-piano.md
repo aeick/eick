@@ -6,7 +6,7 @@ comments: false
 categories:
 - piano
 - jasmine
-- video
+tags: video
 thumbsrc: http://media.eick.us/video/2012/10/jasmine-playing-piano/Jasmine-playing-piano-1280x720.jpg
 ---
 Jasmine practices piano.

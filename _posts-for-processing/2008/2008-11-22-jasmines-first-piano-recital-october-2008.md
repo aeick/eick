@@ -5,14 +5,14 @@ date: 2008-11-22
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 - jasmine
-- video
+tags: video
 type: post
 categories: 
 - family
-- video
+tags: video
 status: publish
 ---
 

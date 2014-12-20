@@ -3,7 +3,7 @@ layout: post
 title: Piano recital pictures
 date: 2010-12-15
 published: true
-tags: []
+keywords: []
 
 type: post
 categories: 

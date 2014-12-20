@@ -5,7 +5,7 @@ date: 2006-06-27
 published: true
 meta: 
   _wp_old_slug: ""
-tags: 
+keywords: 
 - jasmine
 type: post
 categories: []

@@ -3,8 +3,8 @@ layout: post
 title: "Libby Ballet"
 date: 2012-06-29 19:31
 comments: false
-tags: 
-- libby
+keywords: 
+- Libby
 - ballet
 thumbsrc: http://media.eick.us/2012/2012-06-29/1024x1024/IMG_0039.JPG
 ---

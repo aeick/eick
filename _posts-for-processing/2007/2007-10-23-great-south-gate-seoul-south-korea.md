@@ -5,7 +5,7 @@ date: 2007-10-23
 published: true
 meta: {}
 
-tags:
+keywords:
 - work
 type: post
 keywords:
@@ -45,4 +45,4 @@ Detail from the Southern Gate's roof.
 
 Went for traditional sushi one of the nights and it was not only good, the plates were so pretty!  I almost hated to eat the fish, well, almost...
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [Namdaemun](http://technorati.com/tags/Namdaemun), [South Korea](http://technorati.com/tags/South%20Korea), [Seoul](http://technorati.com/tags/Seoul), [ì­ë¡ë¬¸](http://technorati.com/tags/%ec%88%ad%eb%a1%80%eb%ac%b8)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [Namdaemun](http://technorati.com/tags/Namdaemun), [South Korea](http://technorati.com/tags/South%20Korea), [Seoul](http://technorati.com/tags/Seoul), [ì­ë¡ë¬¸](http://technorati.com/tags/%ec%88%ad%eb%a1%80%eb%ac%b8)</div>

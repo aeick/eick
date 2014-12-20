@@ -3,12 +3,12 @@ layout: post
 title: Libby with stuffed dog
 date: 2010-12-02
 published: true
-tags: 
-- libby
+keywords: 
+- Libby
 type: post
 categories: 
 - family
-- libby
+- Libby
 status: publish
 ---
 

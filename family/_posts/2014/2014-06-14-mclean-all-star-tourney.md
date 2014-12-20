@@ -4,7 +4,7 @@ title: McLean All Star Tourney
 date: 2014-06-14 11:44
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
 - soccer
 share: true

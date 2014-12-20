@@ -3,7 +3,7 @@ layout: post
 title: "A Tale of Two Cities"
 date: 2012-03-21 13:56
 comments: false
-tags: 
+keywords: 
 - Traverse City
 ---
 A Tale of Two Cities

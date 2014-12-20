@@ -6,7 +6,7 @@ published: true
 meta:
   _edit_last: "1"
   _wp_old_slug: ""
-tags: []
+keywords: []
 
 type: post
 keywords:

@@ -5,8 +5,8 @@ date: 2012-02-25 19:11
 comments: false
 categories: 
 - family
-- video
-tags:
+tags: video
+keywords:
 - piano
 
 ---

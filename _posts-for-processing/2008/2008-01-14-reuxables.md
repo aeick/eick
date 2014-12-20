@@ -5,7 +5,7 @@ date: 2008-01-14
 published: true
 meta: {}
 
-tags:
+keywords:
 - silverlight
 - ux
 - work
@@ -46,4 +46,4 @@ status: publish
 
 Dax also made some screencasts demonstrating how easy it is to drop reuxables into either [VS2008](http://go.nukeation.com/?ec=reuxvs2008video) or [Expressions Blend](http://go.nukeation.com/?ec=reuxblendvideo)....
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [WPF](http://technorati.com/tags/WPF), [XAML](http://technorati.com/tags/XAML), [silverlight](http://technorati.com/tags/silverlight), [reuxables](http://technorati.com/tags/reuxables)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [WPF](http://technorati.com/tags/WPF), [XAML](http://technorati.com/tags/XAML), [silverlight](http://technorati.com/tags/silverlight), [reuxables](http://technorati.com/tags/reuxables)</div>

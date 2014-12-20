@@ -3,7 +3,7 @@ layout: post
 title: Strings Concert
 date: 2014-06-11 14:20
 author: Andy Eick
-tags: 
+keywords: 
 - school
 ---
 Strings Concert 

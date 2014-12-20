@@ -3,7 +3,7 @@ layout: post
 title: Family portrait, old-skol
 date: 2007-03-26
 published: true
-tags:
+keywords:
 - family
 type: post
 keywords:

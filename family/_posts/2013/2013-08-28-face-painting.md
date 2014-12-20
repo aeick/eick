@@ -4,9 +4,9 @@ title: Face painting
 date: 2013-08-28 16:50
 comments: false
 published: true
-tags:
+keywords:
 - jasmine
-- libby
+- Libby
 - face painting
 slug: face-painting
 ---

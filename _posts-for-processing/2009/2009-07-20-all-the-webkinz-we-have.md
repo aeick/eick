@@ -5,14 +5,14 @@ date: 2009-07-20
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 type: post
 categories: 
 - family
 - jasmine
-- libby
-- video
+- Libby
+tags: video
 status: publish
 ---
 Jasmine and Libby count and name all the webkinz they have

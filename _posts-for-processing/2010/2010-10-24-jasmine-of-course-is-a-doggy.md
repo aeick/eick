@@ -3,7 +3,7 @@ layout: post
 title: Jasmine (of course) is a doggy
 date: 2010-10-24
 published: true
-tags: 
+keywords: 
 - halloween
 type: post
 categories: 

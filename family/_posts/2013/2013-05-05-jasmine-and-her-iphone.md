@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine and her iPhone"
 date: 2013-05-05 14:52
 comments: false
-tags: 
+keywords: 
 - Jasmine
 ---
 Jasmine plays with her iPhone.

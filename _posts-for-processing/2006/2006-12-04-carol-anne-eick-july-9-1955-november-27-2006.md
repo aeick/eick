@@ -3,7 +3,7 @@ layout: post
 title: Carol Anne Eick, July 9, 1955 - November 27, 2006
 date: 2006-12-04
 published: true
-tags: 
+keywords: 
 - family
 - carol
 type: post

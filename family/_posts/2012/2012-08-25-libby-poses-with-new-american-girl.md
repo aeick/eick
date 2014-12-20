@@ -3,8 +3,8 @@ layout: post
 title: "Libby poses with new American Girl"
 date: 2012-08-25 14:14
 comments: false
-tags: 
-- libby
+keywords: 
+- Libby
 - American girl doll
 - studio
 thumbsrc: http://media.eick.us/2012/2012-08-19-1/640x640/libby-birthday-party--2012-06-03at09-44-40.jpg

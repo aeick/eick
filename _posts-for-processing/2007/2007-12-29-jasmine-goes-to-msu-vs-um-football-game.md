@@ -5,7 +5,7 @@ date: 2007-12-29
 published: true
 meta: {}
 
-tags: 
+keywords: 
 - family
 - football game
 - jasmine
@@ -66,4 +66,4 @@ After the game, she wanted "A sandwich, chippies, and soda"  Usually she takes 
 
 Usually, she sits in the stands, [draws pictures](http://blog-family.andyeick.com/CategoryView,category,Jasmine%2BPictures.aspx) for everyone around us, watches the marching band, and then wants to leave -- she'll last maybe a quarter and halftime.  When we left (start of the third quarter) we were ahead and driving, so I can only assume we won the game.
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [spartan football](http://technorati.com/tags/spartan%20football), [east lansing](http://technorati.com/tags/east%20lansing)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [spartan football](http://technorati.com/tags/spartan%20football), [east lansing](http://technorati.com/tags/east%20lansing)</div>

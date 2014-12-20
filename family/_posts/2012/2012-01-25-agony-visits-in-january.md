@@ -3,7 +3,7 @@ layout: post
 title: "Agony visits in January"
 date: 2012-01-25 17:32
 comments: false
-tags: 
+keywords: 
 - agony
 ---
 ![Agony in DC](http://media.eick.us/media/photographs/2012/2012-01-25/agony-january-visit--1.jpg)
