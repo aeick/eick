@@ -5,7 +5,7 @@ date: 2006-10-28
 published: true
 meta: {}
 
-keywords:
+tags:
 - family
 type: post
 categories:

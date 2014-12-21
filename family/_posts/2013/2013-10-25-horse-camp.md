@@ -4,7 +4,7 @@ title: Horse Camp
 date: 2013-10-25 11:28
 comments: false
 published: true
-keywords:
+tags:
 - horse
 slug: horse-camp
 ---

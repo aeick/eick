@@ -3,7 +3,7 @@ layout: post
 title: Disney Photopass
 date: 2014-07-06 14:20
 author: Andy Eick
-keywords: 
+tags: 
 - disney
 - vacation
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Best sushi in DC"
 date: 2012-05-04 17:26
 comments: false
-keywords:
+tags:
 - fun
 - sushi
 - iPhone

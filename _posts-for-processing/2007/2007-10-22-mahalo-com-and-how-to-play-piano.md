@@ -12,10 +12,10 @@ meta:
   image: ""
   link-url: http://
   quote-author: Unknown
-keywords:
+tags:
 - family
 type: post
-keywords:
+tags:
 - citation
 - family
 status: publish

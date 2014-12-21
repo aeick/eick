@@ -5,11 +5,11 @@ date: 2009-01-27
 published: true
 meta: {}
 
-keywords:
+tags:
 - family
 - photography
 type: post
-keywords:
+tags:
 - family
 - photography
 status: publish

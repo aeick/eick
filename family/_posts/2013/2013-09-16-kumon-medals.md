@@ -4,7 +4,7 @@ title: Kumon Medals
 date: 2013-09-16 16:44
 comments: false
 published: true
-keywords:
+tags:
 - Libby
 - jasmine
 - kumon

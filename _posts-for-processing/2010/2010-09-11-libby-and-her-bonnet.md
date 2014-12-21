@@ -7,7 +7,7 @@ meta:
   _edit_last: "1"
   _wp_old_slug: ""
   _thumbnail_id: "910058045"
-keywords: []
+tags: []
 
 type: post
 categories: 

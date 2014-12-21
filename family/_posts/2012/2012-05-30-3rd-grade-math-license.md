@@ -3,7 +3,7 @@ layout: post
 title: "3rd grade math license"
 date: 2012-05-30 20:45
 comments: false
-keywords: 
+tags: 
 - jasmine
 thumbsrc: http://media.eick.us/2012/2012-05-30/1024x1024/jasmine-math-license.JPG
 

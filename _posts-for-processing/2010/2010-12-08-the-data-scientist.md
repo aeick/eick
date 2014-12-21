@@ -3,10 +3,10 @@ layout: post
 title: The Data Scientist
 date: 2010-12-08 16:24
 published: true
-keywords:
+tags:
 - press release
 type: post
-keywords:
+tags:
 - Exclude
 - Institute for Modern Intelligence
 - MissionFocus

@@ -4,7 +4,7 @@ title: Soccer Peeps Game 3
 date: 2013-11-01 15:48
 comments: false
 published: true
-keywords:
+tags:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-game-3

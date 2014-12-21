@@ -5,10 +5,10 @@ date: 2007-06-10
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - random
 - work
 status: publish
@@ -49,4 +49,4 @@ I hope the "print at Fedex/kinkos" works, if only to validate my idea 10 years a
 
  
 
- <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [adobe acrobat](http://technorati.com/tags/adobe%20acrobat), [fedex](http://technorati.com/tags/fedex), [kinkos](http://technorati.com/tags/kinkos)</div>
+ <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [adobe acrobat](http://technorati.com/tags/adobe%20acrobat), [fedex](http://technorati.com/tags/fedex), [kinkos](http://technorati.com/tags/kinkos)</div>

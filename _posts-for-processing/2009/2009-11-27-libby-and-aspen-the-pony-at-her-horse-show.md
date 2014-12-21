@@ -5,7 +5,7 @@ date: 2009-11-27
 published: true
 meta: 
   _edit_last: "2"
-keywords: 
+tags: 
 - horse
 - Libby
 type: post

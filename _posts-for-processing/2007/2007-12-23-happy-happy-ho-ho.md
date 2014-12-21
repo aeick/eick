@@ -5,12 +5,12 @@ date: 2007-12-23
 published: true
 meta: {}
 
-keywords:
+tags:
 - christmas
 - random
 - work
 type: post
-keywords:
+tags:
 - random
 - work
 status: publish
@@ -27,4 +27,4 @@ status: publish
 
 Thanks to my buddy Ed (who is a little to the right of the [John Birch Society](http://www.jbs.org/)...)
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [christmas](http://technorati.com/tags/christmas)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [christmas](http://technorati.com/tags/christmas)</div>

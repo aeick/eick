@@ -8,10 +8,10 @@ meta:
   _edit_last: "3"
   aktt_tweeted: "1"
   _thumbnail_id: "135942403"
-keywords: []
+tags: []
 
 type: post
-keywords:
+tags:
 - family
 status: publish
 ---

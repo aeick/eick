@@ -5,7 +5,7 @@ date: 2007-12-30
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - family
 - fun
 type: post

@@ -4,7 +4,7 @@ title: John Eick Sr
 date: 2009-09-27
 published: true
 type: post
-keywords:
+tags:
 - archive
 - family
 - slides

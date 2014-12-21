@@ -3,7 +3,7 @@ layout: post
 title: "National Mall Santa"
 date: 2013-01-27 15:38
 comments: false
-keywords:
+tags:
 - Santa
 ---
 Seeing Santa on National Mall.

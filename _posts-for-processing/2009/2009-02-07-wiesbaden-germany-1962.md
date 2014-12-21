@@ -4,7 +4,7 @@ title: Wiesbaden, Germany, 1962
 date: 2009-02-07
 published: true
 type: post
-keywords:
+tags:
 - archive
 - family
 status: publish

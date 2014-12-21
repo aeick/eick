@@ -4,7 +4,7 @@ title: Memorial Day Weekend
 date: 2014-05-26 11:44
 comments: false
 published: true
-keywords:
+tags:
 - virginia
 share: true
 ---

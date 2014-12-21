@@ -4,7 +4,7 @@ title: Dad and his Mom in 1921
 date: 2009-09-27
 published: true
 type: post
-keywords:
+tags:
 - archive
 - family
 - slides

@@ -5,10 +5,10 @@ date: 2007-05-04
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - silverlight
 - work
 - wpf

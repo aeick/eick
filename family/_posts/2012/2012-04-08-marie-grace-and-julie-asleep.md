@@ -3,7 +3,7 @@ layout: post
 title: "Marie Grace and Julie asleep"
 date: 2012-04-08 17:40
 comments: false
-keywords: 
+tags: 
 - NYC
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-04-08-1/320x320/2012-04-08at07.16.29.jpg

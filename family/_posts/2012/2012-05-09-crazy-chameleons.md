@@ -3,7 +3,7 @@ layout: post
 title: "Crazy Chameleons"
 date: 2012-05-09 20:05
 comments: false
-keywords: 
+tags: 
 - jasmine
 - soccer
 - emerald-dragons

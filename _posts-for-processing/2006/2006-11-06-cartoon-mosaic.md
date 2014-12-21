@@ -5,10 +5,10 @@ date: 2006-11-06
 published: true
 meta: {}
 
-keywords:
+tags:
 - family
 type: post
-keywords:
+tags:
 - family
 - fun
 status: publish

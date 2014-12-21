@@ -5,7 +5,7 @@ date: 2008-01-01
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - family
 - flower
 - photograph
@@ -27,4 +27,4 @@ While processing the wedding pictures, I found this old photograph of flowers fr
 
  
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [flower photograph](http://technorati.com/tags/flower%20photograph)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [flower photograph](http://technorati.com/tags/flower%20photograph)</div>

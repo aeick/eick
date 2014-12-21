@@ -7,10 +7,10 @@ meta:
   aktt_notify_twitter: "no"
   _edit_last: "2"
   _thumbnail_id: "135942479"
-keywords:
+tags:
 - fun
 type: post
-keywords:
+tags:
 - fun
 status: publish
 ---

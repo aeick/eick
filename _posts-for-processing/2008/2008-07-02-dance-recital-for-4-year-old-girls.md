@@ -5,7 +5,7 @@ date: 2008-07-02
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - dance recital
 - family
 - show

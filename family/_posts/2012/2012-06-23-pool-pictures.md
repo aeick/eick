@@ -3,7 +3,7 @@ layout: post
 title: "Pool Pictures"
 date: 2012-06-23 15:31
 comments: false
-keywords: 
+tags: 
 - pool
 thumsrc: http://media.eick.us/2012/2012-06-23/1024x1024/2012-06-17at19.48.53.jpg 
 ---

@@ -5,10 +5,10 @@ date: 2007-06-21
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - Programming
 - random
 - work

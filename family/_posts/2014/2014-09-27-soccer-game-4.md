@@ -3,14 +3,12 @@ layout: post
 title: Soccer Game 4
 date: 2014-09-27 14:20
 author: Andy Eick
-keywords: 
+tags: 
 - jasmine
 - soccer
 featured_image: "http://media.eick.us/media/photographs/2014/2014-09-27/soccer-game-4-2014-09-27-10-05-53.jpg"
-
+intro: "Fourth soccer game of the season, a win, two to 1."
 ---
-Fourth soccer game of the season, a win, two to 1.
-
 ![Soccer Game 4](http://media.eick.us/media/photographs/2014/2014-09-27/soccer-game-4-2014-09-27-10-05-53.jpg)
 ![Soccer Game 4](http://media.eick.us/media/photographs/2014/2014-09-27/soccer-game-4-2014-09-27-10-06-29.jpg)
 ![Soccer Game 4](http://media.eick.us/media/photographs/2014/2014-09-27/soccer-game-4-2014-09-27-10-08-26.jpg)

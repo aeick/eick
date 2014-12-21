@@ -3,7 +3,7 @@ layout: post
 title: "Village Church in 1965"
 date: 2012-05-11 17:44
 comments: false
-keywords:
+tags:
 - fun
 - slides
 featured_image: "http://media.eick.us/media/photographs/2012/2012-05-11/sunday-service-ends-at-tiny-village-church.jpg"

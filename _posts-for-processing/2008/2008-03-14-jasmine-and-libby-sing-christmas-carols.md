@@ -5,7 +5,7 @@ date: 2008-03-14
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - christmas
 - family
 tags: video

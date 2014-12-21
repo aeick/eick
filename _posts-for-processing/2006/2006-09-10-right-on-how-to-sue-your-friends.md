@@ -5,10 +5,10 @@ date: 2006-09-10
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - family
 - work
 status: publish
@@ -27,5 +27,5 @@ Source: [Right On! - » How to sue your friends…](http://www.rightonblog.net/?
 
 
 
-keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
+tags: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
 

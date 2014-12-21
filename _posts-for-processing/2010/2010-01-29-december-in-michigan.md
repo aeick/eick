@@ -5,7 +5,7 @@ date: 2010-01-29
 published: true
 meta: 
   _edit_last: "2"
-keywords: 
+tags: 
 - family
 - photography
 type: post

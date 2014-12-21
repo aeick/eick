@@ -5,10 +5,10 @@ date: 2006-08-24
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - family
 - work
 status: publish
@@ -43,5 +43,5 @@ Source: [Techdirt: How Litigious Are We? Kid Sues Friend Over Lost iPod](http://
 
 
 
-keywords: [ipod](http://technorati.com/tag/ipod), [lawsuit](http://technorati.com/tag/lawsuit)
+tags: [ipod](http://technorati.com/tag/ipod), [lawsuit](http://technorati.com/tag/lawsuit)
 

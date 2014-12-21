@@ -4,7 +4,7 @@ title: Emerald Dragon's beat the Green Dynamite
 date: 2013-08-20 12:21
 comments: false
 published: true
-keywords:
+tags:
 - emerald-dragons
 - jasmine
 - soccer

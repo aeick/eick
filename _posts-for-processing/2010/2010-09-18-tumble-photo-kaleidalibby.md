@@ -6,10 +6,10 @@ published: true
 meta:
   aktt_notify_twitter: "no"
   _edit_last: "1"
-keywords: []
+tags: []
 
 type: post
-keywords:
+tags:
 - fun
 - tumble-photo
 status: publish

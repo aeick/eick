@@ -5,10 +5,10 @@ date: 2006-08-22
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - family
 - work
 status: publish
@@ -51,5 +51,5 @@ Source: [ABC7Chicago.com: Middle schooler sued over lost iPod](http://abclocal.g
 
 
 
-keywords: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
+tags: [iPod](http://technorati.com/tag/iPod), [lawsuit](http://technorati.com/tag/lawsuit)
 

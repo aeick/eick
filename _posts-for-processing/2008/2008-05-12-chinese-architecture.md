@@ -5,13 +5,13 @@ date: 2008-05-12
 published: true
 meta: {}
 
-keywords:
+tags:
 - adoption
 - china
 - family
 - photography
 type: post
-keywords:
+tags:
 - adoption
 - china
 - family

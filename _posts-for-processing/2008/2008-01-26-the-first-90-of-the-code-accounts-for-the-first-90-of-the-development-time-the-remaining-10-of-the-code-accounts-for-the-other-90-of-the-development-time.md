@@ -4,10 +4,10 @@ title: The first 90
 date: 2008-01-26
 published: true
 
-keywords:
+tags:
 - fun
 type: post
-keywords:
+tags:
 - fun
 - quote
 status: publish

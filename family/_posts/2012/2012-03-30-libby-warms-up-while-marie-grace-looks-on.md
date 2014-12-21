@@ -3,7 +3,7 @@ layout: post
 title: "Libby warms up while Marie Grace looks on"
 date: 2012-03-30 17:16
 comments: false
-keywords: 
+tags: 
 - Libby
 - doll
 - piano

@@ -3,7 +3,7 @@ layout: post
 title: "iPhone photos from Mohave"
 date: 2012-08-19 13:47
 comments: false
-keywords:
+tags:
 - iPhone
 ---
 I've spent the last three weeks out in the Mohave desert for work -- a few snapshots from my iPhone.

@@ -3,7 +3,7 @@ layout: post
 title: Flower by Jasmine
 date: 2010-11-24
 published: true
-keywords: 
+tags: 
 - kids drawing
 type: post
 categories: 

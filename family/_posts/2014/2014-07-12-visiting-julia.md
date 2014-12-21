@@ -3,7 +3,7 @@ layout: post
 title: Visiting Julia
 date: 2014-07-12 14:20
 author: Andy Eick
-keywords: 
+tags: 
 - virginia
 ---
 Visiting Julia and Robert

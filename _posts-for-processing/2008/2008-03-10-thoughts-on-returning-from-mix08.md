@@ -5,13 +5,13 @@ date: 2008-03-10
 published: true
 meta: {}
 
-keywords:
+tags:
 - mix08
 - silverlight
 - travel
 - work
 type: post
-keywords:
+tags:
 - thincsoft
 - travel
 - work
@@ -93,4 +93,4 @@ I only took 1 picture in Vegas, how dumb was that??
 
  
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [MIX08](http://technorati.com/tags/MIX08)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [MIX08](http://technorati.com/tags/MIX08)</div>

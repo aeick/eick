@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine draws Rusty"
 date: 2012-07-13 18:32
 comments: false
-keywords: 
+tags: 
 - kids-drawing
 - jasmine
 - rusty

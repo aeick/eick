@@ -5,10 +5,10 @@ date: 2010-12-19
 published: true
 meta:
   aktt_notify_twitter: "no"
-keywords: []
+tags: []
 
 type: post
-keywords:
+tags:
 - fun
 status: publish
 ---

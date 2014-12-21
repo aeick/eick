@@ -3,7 +3,7 @@ layout: post
 title: "Trona Pinnacles"
 date: 2012-08-19 14:57
 comments: false
-keywords:
+tags:
 - iPhone
 ---
 Trona Pinnacles

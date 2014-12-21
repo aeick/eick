@@ -5,10 +5,10 @@ date: 2007-06-04
 published: true
 meta: {}
 
-keywords:
+tags:
 - family
 type: post
-keywords:
+tags:
 - citation
 - family
 status: publish

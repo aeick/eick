@@ -5,7 +5,7 @@ date: 2008-04-18
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - family
 - picture
 - vacation

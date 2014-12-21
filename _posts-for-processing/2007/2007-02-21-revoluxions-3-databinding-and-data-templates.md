@@ -5,10 +5,10 @@ date: 2007-02-21
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - ux
 - work
 - wpf

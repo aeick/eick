@@ -4,7 +4,7 @@ title: SSS Research to Present at the 2007 Location Intelligence Conference
 date: 2007-03-12
 published: true
 type: post
-keywords:
+tags:
 - speaking
 - work
 status: publish

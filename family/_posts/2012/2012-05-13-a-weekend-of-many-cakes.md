@@ -3,7 +3,7 @@ layout: post
 title: "a weekend of many cakes"
 date: 2012-05-13 17:41
 comments: false
-keywords: 
+tags: 
 - Jasmine
 - Libby
 thumbsrc: http://media.eick.us/2012/2012-05-06-2/1024x1024/libby-communion-3.jpg

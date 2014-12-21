@@ -3,7 +3,7 @@ layout: post
 title: Jasmine's Fashion Show
 date: 2014-08-10 14:20
 author: Andy Eick
-keywords: 
+tags: 
 - jasmine
 ---
 Jasmine went to fashion camp this summer to learn how to make clothes. 

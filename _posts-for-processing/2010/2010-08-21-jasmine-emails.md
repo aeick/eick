@@ -5,7 +5,7 @@ date: 2010-08-21
 published: true
 meta: 
   _wp_old_slug: ""
-keywords: []
+tags: []
 
 type: post
 categories: 

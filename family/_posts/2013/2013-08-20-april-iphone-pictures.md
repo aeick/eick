@@ -4,7 +4,7 @@ title: April iPhone pictures
 date: 2013-08-20 12:10
 comments: false
 published: true
-keywords:
+tags:
 - iPhone
 slug: april-iphone-pictures
 ---

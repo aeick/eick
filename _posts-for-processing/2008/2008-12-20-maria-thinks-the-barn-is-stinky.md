@@ -5,11 +5,11 @@ date: 2008-12-20
 published: true
 meta: {}
 
-keywords:
+tags:
 - family
 - vacation
 type: post
-keywords:
+tags:
 - family
 - vacation
 status: publish

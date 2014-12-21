@@ -3,7 +3,7 @@ layout: post
 title: "Cherry Blossoms in DC"
 date: 2012-03-30 17:17
 comments: false
-keywords:
+tags:
 - fun
 ---
 Cherry blossoms from our front yard.

@@ -5,10 +5,10 @@ date: 2007-02-23
 published: true
 meta:
   _edit_last: "1"
-keywords:
+tags:
 - family
 type: post
-keywords:
+tags:
 - citation
 - family
 - photography

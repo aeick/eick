@@ -3,7 +3,7 @@ layout: post
 title: "snapshots from NYC"
 date: 2012-04-07 19:58
 comments: false
-keywords: 
+tags: 
 - Libby
 - Jasmine
 - NYC

@@ -5,12 +5,12 @@ date: 2008-03-14
 published: true
 meta: {}
 
-keywords:
+tags:
 - press release
 - thincsoft
 - work
 type: post
-keywords:
+tags:
 - press release
 - thincsoft
 - work
@@ -74,4 +74,4 @@ Core commercially-available products include:
 
  
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [Autodesk](http://technorati.com/tags/Autodesk), [thincSoft](http://technorati.com/tags/thincSoft), [thincVIew](http://technorati.com/tags/thincVIew), [thincTrax](http://technorati.com/tags/thincTrax)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [Autodesk](http://technorati.com/tags/Autodesk), [thincSoft](http://technorati.com/tags/thincSoft), [thincVIew](http://technorati.com/tags/thincVIew), [thincTrax](http://technorati.com/tags/thincTrax)</div>

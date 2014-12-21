@@ -3,7 +3,7 @@ layout: post
 title: "Girls on the Run 2012"
 date: 2012-12-11 14:43
 comments: false
-keywords: 
+tags: 
 - girls-on-the-run
 thumbsrc: http://media.eick.us/2012/2012-11-22/640x640/Girls-on-the-run-2.JPG
 ---

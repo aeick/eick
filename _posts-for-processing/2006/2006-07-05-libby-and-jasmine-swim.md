@@ -3,7 +3,7 @@ layout: post
 title: Libby and Jasmine swim
 date: 2006-07-05
 published: true
-keywords: 
+tags: 
 - Libby Jasmine
 type: post
 categories:

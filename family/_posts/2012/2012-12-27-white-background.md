@@ -3,7 +3,7 @@ layout: post
 title: "White Background"
 date: 2012-12-27 18:42
 comments: false
-keywords: 
+tags: 
 - Jasmine
 - Libby
 thumbsrc: http://media.eick.us/2012/2012-12-08-1/640x640/WhiteBackground2012-12-08at20-09-11.jpg

@@ -5,7 +5,7 @@ date: 2006-06-24
 published: true
 meta: 
   _wp_old_slug: ""
-keywords: []
+tags: []
 
 type: post
 categories: []

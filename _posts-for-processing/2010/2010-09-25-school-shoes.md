@@ -8,10 +8,10 @@ meta:
   _edit_last: "1"
   _wp_old_slug: ""
   _thumbnail_id: "910058099"
-keywords: []
+tags: []
 
 type: post
-keywords:
+tags:
 - fun
 - tumble-photo
 status: publish

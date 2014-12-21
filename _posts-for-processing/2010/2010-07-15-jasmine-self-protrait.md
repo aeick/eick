@@ -8,7 +8,7 @@ meta:
   _edit_last: "2"
   _wp_old_slug: ""
   _thumbnail_id: "135942638"
-keywords: 
+tags: 
 - jasmine
 type: post
 categories: 

@@ -3,7 +3,7 @@ layout: post
 title: "iPhone vegas pictures from March 2012"
 date: 2012-09-29 19:05
 comments: false
-keywords:
+tags:
 - vegas
 - iPhone
 - exclude

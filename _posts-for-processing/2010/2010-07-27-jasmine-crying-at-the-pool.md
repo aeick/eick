@@ -3,7 +3,7 @@ layout: post
 title: Jasmine crying at the pool
 date: 2010-07-27
 published: true
-keywords: 
+tags: 
 - swimming
 - underwater
 type: post

@@ -9,7 +9,7 @@ meta:
   _edit_last: "2"
   _wp_old_slug: ""
   _thumbnail_id: "135942580"
-keywords: 
+tags: 
 - dance
 - jasmine
 - Libby

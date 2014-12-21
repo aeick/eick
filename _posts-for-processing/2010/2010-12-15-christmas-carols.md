@@ -3,7 +3,7 @@ layout: post
 title: Christmas Carols
 date: 2010-12-15
 published: true
-keywords: []
+tags: []
 
 type: post
 categories: 

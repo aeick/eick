@@ -3,7 +3,7 @@ layout: post
 title: "Jasmine reading a book"
 date: 2012-01-25 17:28
 comments: false
-keywords: 
+tags: 
 - Jasmine
 ---
 Jasmine reading a book.

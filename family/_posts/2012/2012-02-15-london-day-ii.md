@@ -3,7 +3,7 @@ layout: post
 title: "London Day II"
 date: 2012-02-15 14:00
 comments: false
-keywords:
+tags:
 - work
 - travel
 - London

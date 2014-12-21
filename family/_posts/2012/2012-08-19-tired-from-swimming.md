@@ -3,7 +3,7 @@ layout: post
 title: "Tired from swimming"
 date: 2012-08-19 14:59
 comments: false
-keywords: 
+tags: 
 - iPhone
 ---
 Jasmine and Libby tired from a long day of swimming.

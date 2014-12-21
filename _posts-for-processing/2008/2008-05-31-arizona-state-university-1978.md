@@ -5,11 +5,11 @@ date: 2008-05-31
 published: true
 meta: {}
 
-keywords:
+tags:
 - citation
 - family
 type: post
-keywords:
+tags:
 - citation
 - family
 status: publish

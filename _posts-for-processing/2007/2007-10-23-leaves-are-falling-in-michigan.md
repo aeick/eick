@@ -5,7 +5,7 @@ date: 2007-10-23
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - family
 type: post
 categories: 
@@ -48,4 +48,4 @@ Jasmine throws leaves
 
 Libby jumps in the pile...
 
-  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [leaves](http://technorati.com/tags/leaves)</div>
+  <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [leaves](http://technorati.com/tags/leaves)</div>

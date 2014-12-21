@@ -5,10 +5,10 @@ date: 2007-10-28
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - silverlight
 - sss research
 - work

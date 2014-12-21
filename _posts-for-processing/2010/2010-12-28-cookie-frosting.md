@@ -4,10 +4,10 @@ title: Cookie frosting
 date: 2010-12-28
 published: true
 
-keywords: []
+tags: []
 
 type: post
-keywords:
+tags:
 - fun
 status: publish
 ---

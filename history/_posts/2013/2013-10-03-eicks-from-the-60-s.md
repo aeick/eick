@@ -4,7 +4,7 @@ title: "Eick's from the 60's"
 date: 2013-10-03 14:43
 comments: false
 published: true
-keywords:
+tags:
 - slides
 slug: eicks-from-the-60-s
 featured_image: "http://media.eick.us/media/photographs/2006/2006-12-17/2006-12-17-at-16-42-12.jpg"

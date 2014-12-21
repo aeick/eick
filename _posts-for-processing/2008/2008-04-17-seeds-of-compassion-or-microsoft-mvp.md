@@ -5,11 +5,11 @@ date: 2008-04-17
 published: true
 meta: {}
 
-keywords:
+tags:
 - random
 - work
 type: post
-keywords:
+tags:
 - random
 - work
 status: publish

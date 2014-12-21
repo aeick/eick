@@ -5,10 +5,10 @@ date: 2007-10-28
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - korea
 - travel
 - work
@@ -30,4 +30,4 @@ He did another outstanding job, once you have a fit jacket, I couldn't imagine b
 
 [![](http://media.eick.us/2011/05/519805308_5f5943788f_m.jpg)](http://farm1.static.flickr.com/190/519805308_b343a091ce_o.jpg)
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [korean tailor](http://technorati.com/tags/korean%20tailor), [tailor](http://technorati.com/tags/tailor), [korea](http://technorati.com/tags/korea)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [korean tailor](http://technorati.com/tags/korean%20tailor), [tailor](http://technorati.com/tags/tailor), [korea](http://technorati.com/tags/korea)</div>

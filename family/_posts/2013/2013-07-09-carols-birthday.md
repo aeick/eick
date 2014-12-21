@@ -3,7 +3,7 @@ layout: post
 title: "Carols Birthday"
 date: 2013-07-09 10:22
 comments: false
-keywords: 
+tags: 
 - carol
 ---
 [Carol's][1] birthday would have been today, I think she would have been 58?  It's a different world without her for sure.

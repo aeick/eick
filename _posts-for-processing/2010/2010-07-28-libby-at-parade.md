@@ -3,7 +3,7 @@ layout: post
 title: Libby at parade
 date: 2010-07-28
 published: true
-keywords: 
+tags: 
 - family
 - Libby
 type: post

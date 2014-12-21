@@ -4,7 +4,7 @@ title: Soccer Peeps game 3
 date: 2014-04-26 11:44
 comments: false
 published: true
-keywords:
+tags:
 - jasmine
 - soccer
 share: true

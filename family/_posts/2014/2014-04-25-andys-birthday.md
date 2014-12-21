@@ -4,7 +4,7 @@ title: Andy's Birthday
 date: 2014-04-25 11:44
 comments: false
 published: true
-keywords:
+tags:
 - andy
 - birthday
 share: true

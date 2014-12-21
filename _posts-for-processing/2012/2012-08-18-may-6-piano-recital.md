@@ -3,7 +3,7 @@ layout: post
 title: "May 6 Piano Recital"
 date: 2012-08-18 14:05
 comments: false
-keywords:
+tags:
 tags: video
 - piano
 ---

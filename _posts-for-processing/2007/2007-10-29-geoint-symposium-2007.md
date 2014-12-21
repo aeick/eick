@@ -5,10 +5,10 @@ date: 2007-10-29
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - travel
 - work
 status: publish
@@ -49,4 +49,4 @@ Below are 2 portraits I snapped of Alex and Mike the last day.  Since I didn't 
 
 [![](http://media.eick.us/2011/05/1762903154_825ed94862_m.jpg)](http://farm3.static.flickr.com/2234/1762903154_825ed94862.jpg) [![](http://media.eick.us/2011/05/1762884640_7dd66a7aae_m.jpg)](http://farm3.static.flickr.com/2079/1762884640_7dd66a7aae_b.jpg)
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [Geoint](http://technorati.com/tags/Geoint), [location intelligence](http://technorati.com/tags/location%20intelligence), [SSS Research](http://technorati.com/tags/SSS%20Research)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [Geoint](http://technorati.com/tags/Geoint), [location intelligence](http://technorati.com/tags/location%20intelligence), [SSS Research](http://technorati.com/tags/SSS%20Research)</div>

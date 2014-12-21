@@ -3,7 +3,7 @@ layout: post
 title: "More Pictures"
 date: 2012-12-27 18:46
 comments: false
-keywords: 
+tags: 
 - Jasmine
 - Libby
 - studio

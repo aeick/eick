@@ -3,7 +3,7 @@ layout: post
 title: "Snow in Virginia"
 date: 2012-01-29 17:37
 comments: false
-keywords: 
+tags: 
 - jasmine
 - snow
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "December shows in DC"
 date: 2013-01-27 15:31
 comments: false
-keywords:
+tags:
 - Christmas
 ---
 Christmas time in DC.

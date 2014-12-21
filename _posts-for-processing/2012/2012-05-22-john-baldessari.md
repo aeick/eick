@@ -3,7 +3,7 @@ layout: post
 title: "John Baldessari"
 date: 2012-05-22 19:22
 comments: false
-keywords:
+tags:
 tags: video
 - exclude
 ---

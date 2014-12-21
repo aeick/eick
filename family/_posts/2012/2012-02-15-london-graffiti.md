@@ -3,7 +3,7 @@ layout: post
 title: "London Graffiti"
 date: 2012-02-15 14:03
 comments: false
-keywords:
+tags:
 - work
 - travel
 - London

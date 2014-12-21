@@ -5,11 +5,11 @@ date: 2009-01-22
 published: true
 meta: {}
 
-keywords:
+tags:
 - random
 - work
 type: post
-keywords:
+tags:
 - random
 - work
 status: publish

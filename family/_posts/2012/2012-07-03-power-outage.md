@@ -3,7 +3,7 @@ layout: post
 title: "Power Outage"
 date: 2012-07-03 07:17
 comments: false
-keywords: 
+tags: 
 - jasmine
 - Libby
 thumbsrc: http://media.eick.us/2012/2012-07-03-1/1024x1024/2012-07-03at07.15.06.jpg

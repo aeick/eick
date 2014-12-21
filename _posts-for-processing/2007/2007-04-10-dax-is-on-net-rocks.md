@@ -5,10 +5,10 @@ date: 2007-04-10
 published: true
 meta: {}
 
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - revoluxions
 - ux
 - work
@@ -35,4 +35,4 @@ status: publish
 
  
 
- <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati keywords: [.net rocks](http://technorati.com/tags/.net%20rocks), [revolUXions](http://technorati.com/tags/revolUXions), [wpf](http://technorati.com/tags/wpf), [wpf/e](http://technorati.com/tags/wpf/e), [xaml](http://technorati.com/tags/xaml)</div>
+ <div class="wlWriterSmartContent" style="padding-right: 0px;padding-left: 0px;padding-bottom: 0px;margin: 0px;padding-top: 0px">Technorati tags: [.net rocks](http://technorati.com/tags/.net%20rocks), [revolUXions](http://technorati.com/tags/revolUXions), [wpf](http://technorati.com/tags/wpf), [wpf/e](http://technorati.com/tags/wpf/e), [xaml](http://technorati.com/tags/xaml)</div>

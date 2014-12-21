@@ -5,10 +5,10 @@ date: 2007-11-10
 published: true
 meta: {}
 
-keywords:
+tags:
 - fun
 type: post
-keywords:
+tags:
 - fun
 tags: video
 status: publish

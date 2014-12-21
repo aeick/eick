@@ -8,7 +8,7 @@ meta:
   quote-url: ""
   quote-copy: "\"You better not pout, you better not cry..\""
   quote-author: ""
-keywords: []
+tags: []
 
 type: post
 categories: []

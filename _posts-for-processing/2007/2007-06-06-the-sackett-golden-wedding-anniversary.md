@@ -4,7 +4,7 @@ title: The Sackett golden wedding anniversary
 date: 2007-06-06
 published: true
 type: post
-keywords:
+tags:
 - family
 - fun
 status: publish

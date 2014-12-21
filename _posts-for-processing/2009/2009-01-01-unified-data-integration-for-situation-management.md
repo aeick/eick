@@ -3,10 +3,10 @@ layout: post
 title: Unified Data Integration for Situation Management
 date: 2009-01-01 18:15
 published: true
-keywords:
+tags:
 - work
 type: post
-keywords:
+tags:
 - work
 status: publish
 ---

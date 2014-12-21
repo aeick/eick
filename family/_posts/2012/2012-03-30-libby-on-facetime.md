@@ -3,7 +3,7 @@ layout: post
 title: "Libby on facetime"
 date: 2012-03-30 17:11
 comments: false
-keywords: 
+tags: 
 - Libby
 ---
 Libby video chatting on facetime...

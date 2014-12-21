@@ -3,7 +3,7 @@ layout: post
 title: "Libby on pumpkins"
 date: 2012-10-16 20:39
 comments: false
-keywords: 
+tags: 
 - Libby
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-10-15/640x640/2012-10-05at19.00.07.jpg

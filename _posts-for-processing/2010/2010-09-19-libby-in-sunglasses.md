@@ -7,7 +7,7 @@ meta:
   aktt_notify_twitter: "no"
   _edit_last: "1"
   _thumbnail_id: "910058081"
-keywords: []
+tags: []
 
 type: post
 categories: 

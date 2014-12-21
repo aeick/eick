@@ -3,10 +3,10 @@ layout: post
 title: There are only two industries that refer to their customers as users
 date: 2008-01-26
 published: true
-keywords:
+tags:
 - fun
 type: post
-keywords:
+tags:
 - fun
 - quote
 status: publish

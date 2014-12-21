@@ -5,7 +5,7 @@ date: 2007-06-10
 published: true
 meta: {}
 
-keywords: 
+tags: 
 - work
 type: post
 categories: 
@@ -28,4 +28,4 @@ Of companies that provide adoption assistance, it found that $4,700 is offered o
 
  
 
-<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati keywords: [adoption](http://technorati.com/tags/adoption)</div>
+<div class="wlWriterSmartContent" style="margin: 0px;padding: 0px">Technorati tags: [adoption](http://technorati.com/tags/adoption)</div>

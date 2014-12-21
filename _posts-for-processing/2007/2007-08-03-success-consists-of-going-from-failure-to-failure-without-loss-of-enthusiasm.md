@@ -5,10 +5,10 @@ date: 2007-08-03
 published: true
 meta: {}
 
-keywords:
+tags:
 - fun
 type: post
-keywords:
+tags:
 - fun
 - quote
 status: publish
