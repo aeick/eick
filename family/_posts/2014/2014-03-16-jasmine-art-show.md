@@ -8,6 +8,7 @@ tags:
 - art-show
 published: true
 share: true
+featured_image: "http://media.eick.us/media/photographs/2014/2014-03-08/2014-03-08-jasmine-art-show-2014-03-08-at-12-54-34.jpg"
 ---
 Jasmine had a collage in the McLean art show.
 

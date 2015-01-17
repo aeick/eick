@@ -7,6 +7,7 @@ tags:
 - vegas
 - iPhone
 - exclude
+featured_image: "http://media.eick.us/media/photographs/2012/2012-09-29-5/2012-03-04at15.28.07.jpg"
 ---
 iPhone pictures from Vegas taken March 2012.
 

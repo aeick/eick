@@ -9,6 +9,7 @@ tags:
 - soccer
 - emerald-dragons
 slug: emerald-dragons-defeat-the-green-lighting-puppies
+featured_image: "http://media.eick.us/media/photographs/2013/2013-05-18/2013-05-18-emerald-dragons-2013-05-18-at-16-02-42.jpg"
 ---
 Emerald Dragons defeat the Green Lighting Puppies.
 

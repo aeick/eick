@@ -6,6 +6,7 @@ comments: false
 tags: 
 - Julia
 thumbsrc: http://media.eick.us/2012/2012-08-19-2/640x640/2012-07-13-Julia-Studio--2012-07-13at21-40-04.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-08-19-2/2012-07-13-Julia-Studio--2012-07-13at21-40-04.jpg"
 ---
 Julia visited DC a few months ago and took a few pictures with Jasmine and Libby.
 

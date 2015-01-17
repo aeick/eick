@@ -7,6 +7,7 @@ tags:
 - disney
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-07-07/1024x1024/2012-07-06at08.44.00.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-07-07/2012-07-06at08.44.00.jpg"
 ---
 List(s) for Disney Rides
 ## Negotiated Disney List for last day at Magic Kingdom

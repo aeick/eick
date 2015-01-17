@@ -6,6 +6,7 @@ comments: false
 tags:
 - work
 - london
+featured_image: "http://media.eick.us/media/photographs/2012/2012-02-12/London-50.jpg"
 ---
 Who knew that you could just walk up to Parliament and get a tour?  I wonder if we can go and tour the Capitol?
 

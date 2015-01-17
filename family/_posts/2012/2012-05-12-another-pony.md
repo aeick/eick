@@ -7,6 +7,7 @@ tags:
 - jasmine
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-05-12/1024x1024/IMG_0003.JPG
+featured_image: "http://media.eick.us/media/photographs/2012/2012-05-12/IMG_0003.JPG"
 ---
 Jasmine draws a pony
 

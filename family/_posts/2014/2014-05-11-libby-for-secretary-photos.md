@@ -7,6 +7,7 @@ tags:
 - Libby
 published: true
 share: true
+featured_image: "http://media.eick.us/media/photographs/2014/2014-05-02/libby-for-secretary-2014-05-02-18-29-15.jpg"
 ---
 Libby running for Secretary in Elemantary school for 5th grade, May 11, 2014.
 

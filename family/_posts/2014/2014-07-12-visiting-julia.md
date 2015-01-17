@@ -5,6 +5,7 @@ date: 2014-07-12 14:20
 author: Andy Eick
 tags: 
 - virginia
+featured_image: "http://media.eick.us/media/photographs/2014/2014-07-12/visiting-julia-2014-07-12-15-07-10.jpg"
 ---
 Visiting Julia and Robert
 

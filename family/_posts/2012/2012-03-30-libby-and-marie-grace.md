@@ -6,6 +6,7 @@ comments: false
 tags: 
 - Libby
 - doll
+featured_image: "http://media.eick.us/media/photographs/2012/2012-03-28/Random-iPhone-1.jpg"
 ---
 
 

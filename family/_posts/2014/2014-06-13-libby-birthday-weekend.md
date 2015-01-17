@@ -6,6 +6,7 @@ author: Andy Eick
 tags: 
 - Libby
 - birthday
+featured_image: "http://media.eick.us/media/photographs/2014/2014-06-01/libby-birthday-2014-06-01-19-01-36.jpg"
 ---
 Libby Birthday Weekend
 

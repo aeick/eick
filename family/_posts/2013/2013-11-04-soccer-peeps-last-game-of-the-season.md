@@ -8,6 +8,7 @@ tags:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-last-game-of-the-season
+featured_image: "http://media.eick.us/media/photographs/2013/2013-11-02/soccer-peeps-game-6-2013-11-02-at-12-25-36.jpg"
 ---
 Soccer Peeps lose the last game of the season.  Next weekend the Tournament!
 

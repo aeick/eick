@@ -7,6 +7,7 @@ tags:
 - carousel
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-05-23/1024x1024/2012-05-19at16.06.29.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-05-23/2012-05-19at16.06.29.jpg"
 ---
 Riding the carousel
 

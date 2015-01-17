@@ -6,6 +6,7 @@ comments: false
 tags: 
 - Libby
 thumbsrc:  http://media.eick.us/2012/2012-08-19-1/640x640/libby-before-recital16-2012-06-02at13-35-17.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-08-19-1/libby-before-recital28-2012-06-02at13-38-34.jpg"
 ---
 Libby before her recital.
 

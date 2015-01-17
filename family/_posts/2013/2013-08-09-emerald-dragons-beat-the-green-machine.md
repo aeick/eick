@@ -9,6 +9,7 @@ tags:
 - soccer
 - emerald-dragons
 slug: emerald-dragons-beat-the-green-machine
+featured_image: "http://media.eick.us/media/photographs/2013/2013-04-06/ed-v-green-machine-2013-04-06-at-12-41-03.jpg"
 ---
 Jasmine Soccer team (The Emearld Dragons) beat the Green Machine 3 to 0 in April.
 

@@ -6,6 +6,7 @@ comments: false
 tags: 
 - Libby
 - Kids drawing
+featured_image: "http://media.eick.us/media/photographs/2012/2012-03-25/Libby-draws-family.jpg"
 ---
 Libby draws her family.
 

@@ -9,6 +9,7 @@ tags:
 - soccer
 - emerald-dragons
 slug: emerald-dragons-beat-the-mean-green-fighting-machine
+featured_image: "http://media.eick.us/media/photographs/2013/2013-04-20/emerald-dragons-2013-04-20-at-13-07-39.jpg"
 ---
 Emerald Dragons: 1, Mean Green Fighting Machine: 0
 

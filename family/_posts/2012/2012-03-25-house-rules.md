@@ -6,6 +6,7 @@ comments: false
 tags: 
 - Jasmine
 - Kids drawing
+featured_image: "http://media.eick.us/media/photographs/2012/2012-03-25/Random-3.jpg"
 ---
 Jasmine made house rules now that they cleaned the basement.
 

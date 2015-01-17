@@ -10,6 +10,7 @@ tags:
 - snapshot
 - iPhone
 thumbsrc: http://media.eick.us/2012/2012-04-07-1/1024x1024/2012-04-07at13.44.29.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-04-07-1/2012-04-07at13.44.29.jpg"
 ---
 Libby and Jasmine snapshot
 

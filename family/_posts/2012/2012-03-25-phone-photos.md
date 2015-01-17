@@ -7,6 +7,7 @@ tags:
 - Libby
 - Jasmine
 - iPhone
+featured_image: "http://media.eick.us/media/photographs/2012/2012-03-25/Random-2.jpg"
 ---
 Jasmine
 

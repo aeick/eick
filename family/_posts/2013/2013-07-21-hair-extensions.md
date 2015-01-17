@@ -9,6 +9,7 @@ tags:
 - jasmine
 - hair extensions
 slug: hair-extensions
+featured_image: "http://media.eick.us/media/photographs/2013/2013-03-09/Hair-Extensions-2013-03-09-at-14-45-54.jpg"
 ---
 Libby and Jasmine got hair extensions.  Libby pink, and Jasmine (of course) blue.
 

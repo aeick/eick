@@ -10,6 +10,7 @@ tags:
 - soccer-peeps
 slug: soccer-peeps-game-5
 intro: "Soccer Peeps second to last game of the season."
+featured_image: "http://media.eick.us/media/photographs/2013/2013-10-19/soccer-peeps-game-5-2013-10-19-at-11-37-31.jpg"
 ---
 ![Soccer Peeps lose to The Warriors](http://media.eick.us/media/photographs/2013/2013-10-19/soccer-peeps-game-5-2013-10-19-at-11-37-31.jpg)
 

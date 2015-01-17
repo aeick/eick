@@ -8,6 +8,7 @@ tags:
 - Libby
 - dance
 slug: libby-ballet
+featured_image: "http://media.eick.us/media/photographs/2013/2013-06-01/libby-ballet-recital-2013-06-01-at-10-55-22.jpg"
 ---
 Libby dance recital.
 

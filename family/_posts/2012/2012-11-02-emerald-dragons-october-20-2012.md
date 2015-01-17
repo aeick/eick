@@ -8,6 +8,7 @@ tags:
 - soccer
 - emerald-dragons
 thumbsrc: http://media.eick.us/2012/2012-11-01/640x640/Emerald-Dragons2012-10-20at13-51-03.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-11-01/Emerald-Dragons2012-10-20at14-41-45.jpg"
 ---
 Jasmine plays soccer October 20, 2012.
 

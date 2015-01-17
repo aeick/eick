@@ -8,6 +8,7 @@ tags:
 - Libby
 - portrait
 slug: libby-portrait
+featured_image: "http://media.eick.us/media/photographs/2013/2013-08-26/2013-08-26-vinyl-white-backdrop-portraits-2013-08-26-at-16-21-07.jpg"
 ---
 Libby
 

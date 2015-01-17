@@ -8,6 +8,7 @@ tags:
 - Libby
 - balloons
 slug: libby-with-balloons
+featured_image: "http://media.eick.us/media/photographs/2013/2013-07-28/libby-balloon-2013-07-28-at-12-35-35.jpg"
 ---
 Libby with balloons.
 

@@ -8,6 +8,7 @@ tags:
 - emerald-dragons
 - soccer
 thumbsrc: http://media.eick.us/2012/2012-09-16/640x640/EmeraldDragonsvsGreenDynamit-1.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-09-16/EmeraldDragonsvsGreenDynamit-1.jpg"
 ---
 Emerald Dragons vs Green Dynamite on September 16, 2012.
 

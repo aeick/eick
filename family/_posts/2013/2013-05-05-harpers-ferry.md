@@ -6,6 +6,7 @@ comments: false
 tags: 
 - Libby
 - Jasmine
+featured_image: "http://media.eick.us/media/photographs/2013/2013-01-21/Harpers-Ferry-2013-01-21-at-13-32-17.jpg"
 ---
 Libby and Jasmine go to [Harpers Ferry](http://en.wikipedia.org/wiki/Harpers_Ferry).
 

@@ -7,6 +7,7 @@ tags:
 - jasmine
 - studio
 thumbsrc: http://media.eick.us/2012/2012-10-20/640x640/Studio2012-10-19at19-41-55-2012-10-19at19-41-55.jpg 
+featured_image: "http://media.eick.us/media/photographs/2012/2012-10-20/Studio2012-10-19at19-44-45-2012-10-19at19-44-45.jpg"
 ---
 Jasmine jumping.
 

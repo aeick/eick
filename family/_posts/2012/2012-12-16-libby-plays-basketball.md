@@ -7,6 +7,7 @@ tags:
 - Libby
 - basketball
 thumbsrc: http://media.eick.us/2012/2012-12-16/640x640/Libbyplayingbasketball2012-12-15at13-38-32.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-12-16/Libbyplayingbasketball2012-12-15at13-38-32.jpg"
 ---
 Libby play's basketball.  (Guess the picture that she scored a goal in!)
 

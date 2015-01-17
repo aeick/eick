@@ -7,6 +7,7 @@ tags:
 - Libby
 - birthday
 thumbsrc: http://media.eick.us/2012/2012-08-19-1/640x640/libby-birthday--2012-06-04at18-41-04.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-08-19-1/libby-birthday--2012-06-04at18-41-04.jpg"
 ---
 Libby's 8th birthday party (the 'home party' not the 'friend party').
 

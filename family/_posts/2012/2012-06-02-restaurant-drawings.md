@@ -5,6 +5,7 @@ date: 2012-06-02 13:37
 comments: false
 tags: 
 - kids drawings
+featured_image: "http://media.eick.us/media/photographs/2012/2012-06-02-1/IMG_0005.JPG"
 ---
 Jasmine and Libby drawing at some restaurant.
 

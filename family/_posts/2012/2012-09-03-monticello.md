@@ -6,6 +6,7 @@ comments: false
 tags: 
 - day trip
 thumbsrc: http://media.eick.us/2012/2012-09-03/640x640/2012-09-02at11.58.27.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-09-03-2/2012-09-02at11-28-26-2012-09-02at11-28-26.jpg"
 ---
 [Monticello](http://www.monticello.org), Thomas Jefferson's Home.  He didn't put "President of the United States" on his tombstone, and the [ice cream](http://www.moothru.com) was good, but not as good as [Moomers](http://www.moomers.com).
 

@@ -7,6 +7,7 @@ tags:
 - jasmine
 - Libby
 - iPhone
+featured_image: "http://media.eick.us/media/photographs/2012/2012-04-19-1/6945624064_018d52e6e6_o.jpg"
 ---
 A few iPhone pictures of Jasmine and Libby from last month.
 
