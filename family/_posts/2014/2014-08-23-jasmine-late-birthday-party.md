@@ -7,7 +7,7 @@ tags:
 - jasmine
 - birthday
 ---
-Jasmine played laser tag for her birthday parth
+Jasmine played laser tag for her birthday party
 
 ![Jasmine's birthday party](http://media.eick.us/media/photographs/2014/2014-08-22/jasmines-birthday-party-2014-08-22-11-05-11.jpg)
 
