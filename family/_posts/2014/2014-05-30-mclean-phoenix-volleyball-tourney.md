@@ -6,10 +6,10 @@ author: Andy Eick
 tags: 
 - jasmine
 - volleyball
-featured_image: "http://media.eick.us/media/photographs/2014/2014-05-31/jasmine-vball-tourney-2014-05-31-16-18-55.jpg"
+featured_image: "http://media.eick.us/media/photographs/2014/2014-05-31/jasmine-vball-tourney-2014-05-31-17-00-49.jpg"
+intro: "Team Phoenix Champions!"
+photo_layout: "three_up"
 ---
-Team Phoenix volleyball wins the championship.
-
 ![Team Phoenix volleyball wins the championship](http://media.eick.us/media/photographs/2014/2014-05-31/jasmine-vball-tourney-2014-05-31-16-18-55.jpg)
 
 ![Team Phoenix volleyball wins the championship](http://media.eick.us/media/photographs/2014/2014-05-31/jasmine-vball-tourney-2014-05-31-16-19-41.jpg)
