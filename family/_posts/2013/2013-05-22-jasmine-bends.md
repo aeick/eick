@@ -6,6 +6,7 @@ comments: false
 tags:
 - Jasmine
 - Gymnastics
+featured_image: "http://media.eick.us/media/photographs/2013/2013-02-08/Jasmine-Bends-2013-02-08-at-17-05-00.jpg"
 ---
 Jasmine does her gymnastics.
 

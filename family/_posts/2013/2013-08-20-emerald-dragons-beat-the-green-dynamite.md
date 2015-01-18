@@ -9,6 +9,7 @@ tags:
 - jasmine
 - soccer
 slug: emerald-dragons-beat-the-green-dynamite
+featured_image: "http://media.eick.us/media/photographs/2013/2013-04-13/emerald-dragons-2013-04-13-at-12-39-07.jpg"
 ---
 Emerald Dragons: 2, Green Dynamite: 0
 

@@ -9,6 +9,7 @@ tags:
 - soccer
 - emerald-dragons
 slug: emerald-dragons-vs-the-green-meanies
+featured_image: "http://media.eick.us/media/photographs/2013/2013-05-11/emerald-dragons-vs-green-meanies-2013-05-11-at-13-05-01.jpg"
 ---
 The Emerald Dragons beat the Grean Meanies.
 

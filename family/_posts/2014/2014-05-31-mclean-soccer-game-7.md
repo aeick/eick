@@ -8,6 +8,7 @@ tags:
 - jasmine
 - soccer
 share: true
+featured_image: "http://media.eick.us/media/photographs/2014/2014-05-31/jasmine-soccer-2014-05-31-09-13-33.jpg"
 ---
 A Win two to nil
 

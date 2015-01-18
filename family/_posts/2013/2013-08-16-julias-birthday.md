@@ -8,6 +8,7 @@ tags:
 - julia
 - birthday
 slug: julias-birthday
+featured_image: "http://media.eick.us/media/photographs/2013/2013-04-07/julia-birthday-2013-04-07-at-18-21-49.jpg"
 ---
 While Julia was here the girls made a birthday cake.  Libby never misses an oppurtunity to blow out birthday candles.
 

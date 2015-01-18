@@ -7,6 +7,7 @@ tags:
 - Jasmine
 - Rusty
 thumbsrc: http://media.eick.us/2012/2012-03-28/1024x1024/Random-iPhone-7.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-03-28/Random-iPhone-7.jpg"
 ---
 Rusty, Jasmine, Libby, and Marie Grace
 

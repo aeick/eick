@@ -8,6 +8,7 @@ tags:
 - soccer
 - emerald-dragons
 thumbsrc: http://media.eick.us/2012/2012-09-29/640x640/Crazy-Chameleons-2012-09-29at16-08-56-2012-09-29at16-08-56.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-09-29/Crazy-Chameleons-2012-09-29at15-58-15-2012-09-29at15-58-15.jpg"
 ---
 Emerald Dragons play the Crazy Chameleons September 29, 2012.
 

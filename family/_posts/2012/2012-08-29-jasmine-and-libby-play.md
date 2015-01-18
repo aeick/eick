@@ -6,6 +6,7 @@ comments: false
 tags: 
 - jasmine
 - Libby
+featured_image: "http://media.eick.us/media/photographs/2012/2012-08-29/2012-08-28at16.18.35.jpg"
 ---
 Jasmine and Libby play at the end of summer.
 

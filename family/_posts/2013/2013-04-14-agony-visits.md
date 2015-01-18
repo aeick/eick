@@ -6,6 +6,7 @@ comments: false
 tags:
 - agony
 - studio
+featured_image: "http://media.eick.us/media/photographs/2013/2013-01-17/Agony-2013-01-17-at-20-32-30.jpg"
 ---
 Agony visits DC in January.
 

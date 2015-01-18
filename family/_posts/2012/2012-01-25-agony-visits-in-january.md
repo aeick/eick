@@ -5,6 +5,7 @@ date: 2012-01-25 17:32
 comments: false
 tags: 
 - agony
+featured_image: "http://media.eick.us/media/photographs/2012/2012-01-25/agony-january-visit--1.jpg"
 ---
 ![Agony in DC](http://media.eick.us/media/photographs/2012/2012-01-25/agony-january-visit--1.jpg)
 

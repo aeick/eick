@@ -8,6 +8,7 @@ tags:
 - jasmine
 - balloon
 slug: jasmine-balloon-jumping
+featured_image: "(http://media.eick.us/media/photographs/2013/2013-07-28/jasmine-balloon-2013-07-28-at-13-58-25.jpg"
 ---
 Jasmine balloon jumping.
 

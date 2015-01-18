@@ -7,6 +7,7 @@ tags:
 - Jasmine
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-03-31/1024x1024/Jasmine-Drawing.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-03-31/Jasmine-Drawing.jpg"
 ---
 Jasmine draws on the iPad.
 

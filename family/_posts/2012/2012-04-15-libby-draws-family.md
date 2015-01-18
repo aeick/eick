@@ -8,6 +8,7 @@ tags:
 - kids drawing
 - family
 thumbsrc: http://media.eick.us/2012/2012-04-08/1024x1024/IMG_0009.JPG
+featured_image: "http://media.eick.us/media/photographs/2012/2012-04-08/IMG_0009.JPG"
 ---
 Libby drawing her family.
 

@@ -8,6 +8,7 @@ tags:
 - jasmine
 - soccer
 share: true
+featured_image: "http://media.eick.us/media/photographs/2014/2014-05-03/soccer-game-4-2014-05-03-07-48-12.jpg"
 ---
 No Goals Scored
 

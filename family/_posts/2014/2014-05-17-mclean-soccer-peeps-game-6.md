@@ -8,6 +8,7 @@ tags:
 - jasmine
 - soccer
 share: true
+featured_image: "http://media.eick.us/media/photographs/2014/2014-05-17/soccer-2014-05-17-15-11-51.jpg"
 ---
 Green Minions beat the Chargers
 

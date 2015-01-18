@@ -8,6 +8,7 @@ tags:
 - birthday
 - Libby
 slug: nine-years-old
+featured_image: "http://media.eick.us/media/photographs/2013/2013-06-04/libby-9th-birthday-2013-06-04-at-20-15-26.jpg"
 ---
 Libby is 9 years old.
 

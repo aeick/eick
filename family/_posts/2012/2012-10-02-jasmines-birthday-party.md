@@ -7,6 +7,7 @@ tags:
 - Jasmine
 - Birthday
 thumbsrc: http://media.eick.us/2012/2012-08-19-2/640x640/2012-07-26-Jasmine-Birthday-67-2012-07-26at20-15-14.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-08-19-2/2012-07-26-Jasmine-Birthday-103-2012-07-26at20-16-29.jpg"
 ---
 Jasmine's 9th birthday (pool) party.
 

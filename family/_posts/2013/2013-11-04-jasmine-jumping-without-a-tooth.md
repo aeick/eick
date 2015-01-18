@@ -7,6 +7,7 @@ published: true
 tags:
 - jasmine
 slug: jasmine-jumping-without-a-tooth
+featured_image: "http://media.eick.us/media/photographs/2013/2013-10-30/jasmine-jumping-2013-10-30-at-19-57-05.jpg"
 ---
 Jasmine jumping without a tooth.
 

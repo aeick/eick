@@ -7,6 +7,7 @@ tags:
 - jasmine
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-06-24/1024x1024/jasmine-rainbow.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-06-24/jasmine-rainbow.jpg"
 ---
 Jasmine writes a poem in for school
 

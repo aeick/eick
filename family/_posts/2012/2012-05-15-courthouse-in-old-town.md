@@ -7,6 +7,7 @@ tags:
 - Libby
 - communion
 thumbsrc: http://media.eick.us/2012/2012-05-06-2/original/libby-communion-7.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-05-06-2/libby-communion-9.jpg"
 ---
 Mary and Pete in the courtyard of the Courthouse in Old Town.  Picture by Jasmine.
 

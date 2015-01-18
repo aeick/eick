@@ -7,6 +7,7 @@ published: true
 tags:
 - cake
 slug: cookie-cake
+featured_image: "http://media.eick.us/media/photographs/2013/2013-06-09/libby-birthday-pool-party-2013-06-09-at-18-58-20.jpg"
 ---
 Because Libby is having problems with cake, she got a cookie cake for her birthday party at the pool.
 

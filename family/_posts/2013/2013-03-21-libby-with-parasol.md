@@ -6,6 +6,7 @@ comments: false
 tags: 
 - Libby
 - parasol
+featured_image: "http://media.eick.us/media/photographs/2013/2013-01-15/lazy-saturday-2013-01-15-at-20-03-37.jpg"
 ---
 Libby posing with her parasol.
 

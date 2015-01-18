@@ -8,6 +8,7 @@ tags:
 - harry
 
 thumbsrc: http://media.eick.us/2012/2012-04-08/1024x1024/Dad-holds-libby.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-04-08/Dad-holds-libby.jpg"
 ---
 Picture of the first time my dad held Libby (which wasn't the first time he met Libby, but a few trips after)
 

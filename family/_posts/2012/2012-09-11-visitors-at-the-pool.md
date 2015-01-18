@@ -6,6 +6,7 @@ comments: false
 tags:
 - pool
 thumbsrc: http://media.eick.us/2012/2012-08-19-2/640x640/IMG_7073-2012-07-28at17-20-33.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-08-19-2/IMG_7078-2012-07-28at17-21-12.jpg"
 ---
 Visitors to the pool.
 
