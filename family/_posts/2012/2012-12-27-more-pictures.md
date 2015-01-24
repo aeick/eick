@@ -8,6 +8,7 @@ tags:
 - Libby
 - studio
 thumbsrc: http://media.eick.us/2012/2012-12-21/640x640/Studio2012-12-16at17-36-05.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-12-21/Studio2012-12-16at17-39-13.jpg"
 ---
 Jasmine and Libby take more pictures.
 

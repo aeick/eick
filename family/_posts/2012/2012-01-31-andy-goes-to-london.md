@@ -8,6 +8,7 @@ tags:
 - speaking
 tags:
 - London
+featured_image: "http://media.eick.us/media/photographs/2012/2012-01-25/IMG_3323-.jpg"
 ---
 I spent 5 days in London, however, my luggage spent 3 days in London.
 

@@ -7,6 +7,7 @@ published: true
 tags:
 - school-pictures
 share: true
+featured_image: "http://media.eick.us/media/photographs/2014/2014-05-04/school-pictures-2014-05-04-11-00-32.jpg"
 ---
 School Pictures, 2014
 

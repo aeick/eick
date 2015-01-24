@@ -7,6 +7,7 @@ tags:
 - jasmine
 - soccer
 - emerald-dragons
+featured_image: "http://media.eick.us/media/photographs/2012/2012-03-24/2012_03_10-jasmine-soccer.jpg"
 ---
 Jasmine's team soccer pictures are finally here!
  

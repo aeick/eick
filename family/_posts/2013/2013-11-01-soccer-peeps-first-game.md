@@ -8,6 +8,7 @@ tags:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-first-game
+featured_image: "http://media.eick.us/media/photographs/2013/2013-09-14/soccer-peeps-first-game-2013-09-14-at-12-28-54.jpg"
 ---
 ![Soccer Peeps first game](http://media.eick.us/media/photographs/2013/2013-09-14/soccer-peeps-first-game-2013-09-14-at-12-28-54.jpg)
 

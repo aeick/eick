@@ -8,6 +8,7 @@ tags:
 - soccer
 - soccer-peeps
 slug: soccer-peeps-game-3
+featured_image: "http://media.eick.us/media/photographs/2013/2013-09-28/soccer-peeps-game-3-2013-09-28-at-10-51-12.jpg"
 ---
 ![Soccer Peeps tie the Green Goggles](http://media.eick.us/media/photographs/2013/2013-09-28/soccer-peeps-game-3-2013-09-28-at-10-51-12.jpg)
 

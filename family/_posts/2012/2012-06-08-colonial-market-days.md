@@ -6,6 +6,7 @@ comments: false
 tags: 
 - colonial
 thumbsrc: http://media.eick.us/2012/2012-06-08/1024x1024/05-20-market-day-11.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-06-08/05-20-market-day-155.jpg"
 ---
 Jasmine and Libby at Market Days fair.
 

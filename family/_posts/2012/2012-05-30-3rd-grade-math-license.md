@@ -6,7 +6,7 @@ comments: false
 tags: 
 - jasmine
 thumbsrc: http://media.eick.us/2012/2012-05-30/1024x1024/jasmine-math-license.JPG
-
+featured_image: "http://media.eick.us/media/photographs/2012/2012-05-30/jasmine-math-license.JPG"
 ---
 Jasmine gets a third grade math license.  
 

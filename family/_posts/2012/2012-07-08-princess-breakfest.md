@@ -7,6 +7,7 @@ tags:
 - disney
 - cinderella
 thumbsrc: 
+featured_image: "http://media.eick.us/media/photographs/2012/2012-07-08-1/2012-07-03-cinderalla-castle.JPG"
 ---
 Libby and Jasmine having the Princess Breakfast.
 

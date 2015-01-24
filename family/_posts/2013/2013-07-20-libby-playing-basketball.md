@@ -8,6 +8,7 @@ tags:
 - Libby
 - basketball
 slug: libby-playing-basketball
+featured_image: "http://media.eick.us/media/photographs/2013/2013-02-23/Libby-Basketball-game-2013-02-23-at-16-12-17.jpg"
 ---
 Libby played in the basketball league in February -- she really liked it, although she got pretty tired running up and down the court.  Jasmine never wants a substitute, whereas Libby raises her hand ever time!
 

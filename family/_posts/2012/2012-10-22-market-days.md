@@ -8,6 +8,7 @@ tags:
 - Libby
 - colonial
 thumbsrc: http://media.eick.us/2012/2012-10-21/640x640/ClaudeMooreColonialFarm2012-10-21at12-23-13-2012-10-21at12-23-13.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-10-21/ClaudeMooreColonialFarm2012-10-21at11-05-09-2012-10-21at11-05-09.jpg"
 ---
 Jasmine and Libby take a friend to Market Days at Claude Moore Colonial Farms.
 

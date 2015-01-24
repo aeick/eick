@@ -8,6 +8,7 @@ tags:
 - jasmine
 - soccer
 share: true
+featured_image: "http://media.eick.us/media/photographs/2014/2014-06-14/all-star-tournament-2014-06-14-11-46-44.jpg"
 ---
 McLean All Star Tournement
 

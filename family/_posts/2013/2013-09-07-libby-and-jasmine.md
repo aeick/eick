@@ -8,6 +8,7 @@ tags:
 - Libby
 - jasmine
 slug: libby-and-jasmine
+featured_image: "http://media.eick.us/media/photographs/2013/2013-05-18/2013-05-18-libby-ballet-2013-05-18-at-11-16-56.jpg"
 ---
 Libby and Jasmine mug for the camera.
 

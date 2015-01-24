@@ -6,6 +6,7 @@ comments: false
 tags: 
 - disney
 - iphone
+featured_image: "http://media.eick.us/media/photographs/2012/2012-07-05/2012-07-04at14.43.10.jpg"
 ---
 Libby's favorite ride (it's a small world).
 

@@ -8,6 +8,7 @@ tags:
 - jasmine
 - harry
 - iPhone
+featured_image: "http://media.eick.us/media/photographs/2012/2012-08-19/2012-08-05at12.45.11.jpg"
 ---
 Dad, Libby, Jasmine, and Marie Grace getting Popcorn in Traverse City.
 

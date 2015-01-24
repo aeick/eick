@@ -8,6 +8,7 @@ tags:
 - travel
 - iPhone
 - Ridgecrest
+featured_image: "http://media.eick.us/media/photographs/2012/2012-03-25/Ridgecrest-2.jpg"
 ---
 A few iPhone pictures from my travels over the last month from California
 

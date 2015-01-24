@@ -7,6 +7,7 @@ tags:
 - Libby
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-05-23/1024x1024/2012-05-20at17.02.55.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-05-23/2012-05-20at17.02.55.jpg"
 ---
 Libby draws her whole family (only the ones who live in her house)
 

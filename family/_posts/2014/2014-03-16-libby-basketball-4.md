@@ -9,6 +9,7 @@ tags:
 - basketball
 published: true
 share: true
+featured_image: "http://media.eick.us/media/photographs/2014/2014-03-02/2014-03-02-libby-basketball-tournament-game-iii-2014-03-02-at-14-18-59.jpg"
 intro: "Libby playing basketball."
 ---
 ![Libby's last basketball game](http://media.eick.us/media/photographs/2014/2014-03-02/2014-03-02-libby-basketball-tournament-game-iii-2014-03-02-at-14-18-59.jpg)

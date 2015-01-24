@@ -5,6 +5,7 @@ date: 2014-06-11 14:20
 author: Andy Eick
 tags: 
 - school
+featured_image: "http://media.eick.us/media/photographs/2014/2014-06-11/libby-birthday-2014-06-11-19-17-45.jpg"
 ---
 Strings Concert 
 

@@ -8,6 +8,7 @@ tags:
 - jasmine
 - snapshots
 thumbsrc: http://media.eick.us/2012/2012-03-31/1024x1024/2012-03-31at18.12.39.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-03-31/2012-03-31at18.12.39.jpg"
 ---
 Snapshots of Jasmine and Libby from the last couple days
 

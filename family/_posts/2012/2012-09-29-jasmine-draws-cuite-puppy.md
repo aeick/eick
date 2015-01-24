@@ -6,6 +6,7 @@ comments: false
 tags:
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-09-29-1/640x640/cuite-puppy.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-09-29-1/cuite-puppy.jpg"
 ---
 Jasmine draws Cuite Puppy
 

@@ -7,6 +7,7 @@ published: true
 tags:
 - piano
 slug: jasmine-and-libbys-piano-recital
+featured_image: "http://media.eick.us/media/photographs/2013/2013-04-07/piano-recital-2013-04-07-at-10-48-21.jpg"
 ---
 Julia was playing a recital out here when the girls had the last piano recital of the year.
 

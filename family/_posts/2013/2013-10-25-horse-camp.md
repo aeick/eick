@@ -7,6 +7,7 @@ published: true
 tags:
 - horse
 slug: horse-camp
+featured_image: "http://media.eick.us/media/photographs/2013/2013-06-28/horse-camp-2013-06-28-at-18-51-23-1.jpg"
 ---
 Pictures from Horse Camp.
 

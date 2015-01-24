@@ -7,6 +7,7 @@ tags:
 - jasmine
 - soccer
 - emerald-dragons
+featured_image: "http://media.eick.us/media/photographs/2012/2012-11-01-1/EmeraldDragons2012-10-27at17-20-56.jpg"
 ---
 Emerald Dragons play on October 27, 2012.
 

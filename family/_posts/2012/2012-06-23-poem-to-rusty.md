@@ -8,6 +8,7 @@ tags:
 - dog
 - kids drawing
 thumbsrc: http://media.eick.us/2012/2012-06-23/1024x1024/2012-06-17at16.57.45.jpg
+featured_image: "http://media.eick.us/media/photographs/2012/2012-06-23/2012-06-17at16.57.45.jpg"
 ---
 Jasmine writes a poem for Rusty (Mom and Dad's dog).
 

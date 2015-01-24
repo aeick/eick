@@ -7,6 +7,7 @@ published: true
 tags:
 - virginia
 share: true
+featured_image: "http://media.eick.us/media/photographs/2014/2014-05-24/memorial-day-weekend-2014-05-24-14-23-01.jpg"
 ---
 Memorial Day Weekend
 

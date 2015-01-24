@@ -7,5 +7,6 @@ published: true
 tags:
 - disney
 slug: libby-and-jasmine-and-rafiki
+featured_image: "http://media.eick.us/media/photographs/2013/2013-07-03/photo-1.jpg"
 ---
 ![Rafiki](http://media.eick.us/media/photographs/2013/2013-07-03/photo-1.jpg)

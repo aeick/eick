@@ -6,6 +6,7 @@ comments: false
 tags:
 - work
 - christmas
+featured_image: "http://media.eick.us/media/photographs/2012/2012-01-15/2011-holiday-card-.jpg"
 ---
 The 2011 holiday card we sent out from [Mission Focus](http://missionfocus.com) and [IMI](http://imintel.org), our two companies.
 

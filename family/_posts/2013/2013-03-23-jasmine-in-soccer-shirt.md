@@ -6,6 +6,7 @@ comments: false
 tags: 
 - jasmine
 - studio
+featured_image: "http://media.eick.us/media/photographs/2013/2013-01-15/lazy-saturday-2013-01-15-at-20-05-35.jpg"
 ---
 Jasmine poses in her soccer shirt.
 
