@@ -8,7 +8,7 @@ tags:
 - Libby
 - dance
 share: true
-featured_image: "http://media.eick.us/media/photographs/2014/2014-05-30/libby-dance-recital-2014-05-30-18-40-37.jpg"
+featured_image: "http://media.eick.us/media/photographs/2014/2014-05-30/libby-dance-recital-2014-05-30-18-42-12.jpg"
 ---
 Libby Dance Recital
 
