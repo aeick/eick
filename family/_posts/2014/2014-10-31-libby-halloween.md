@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Libby Carnival
+title: Libby Halloween
 date: 2014-10-31 14:25
 author: Andy Eick
 tags: 

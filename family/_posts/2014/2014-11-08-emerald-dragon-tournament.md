@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Libby Carnival
+title: Emerald Dragon Tournament
 date: 2014-11-08 14:25
 author: Andy Eick
 tags: 
