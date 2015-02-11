@@ -10,9 +10,9 @@ featured_image: "http://media.eick.us/media/photographs/2014/2014-11-08/emerald-
 photo_layout: "three_up"
 intro: "Emerald Dragons Tournament"
 ---
-![Emerald Dragons Tournament](http://media.eick.us/media/photographs/2014/2014-11-08/emerald-dragons-tournament-2014-11-08-10-00-11.jpg)
+[![Emerald Dragons Tournament](http://media.eick.us/media/photographs/2014/2014-11-08/emerald-dragons-tournament-2014-11-08-10-00-11.jpg)](http://media.eick.us/media/photographs/2014/2014-11-08/emerald-dragons-tournament-2014-11-08-10-00-11.jpg)
 
-![Emerald Dragons Tournament](http://media.eick.us/media/photographs/2014/2014-11-08/emerald-dragons-tournament-2014-11-08-10-01-11.jpg)
+[![Emerald Dragons Tournament](http://media.eick.us/media/photographs/2014/2014-11-08/emerald-dragons-tournament-2014-11-08-10-01-11.jpg)](http://media.eick.us/media/photographs/2014/2014-11-08/emerald-dragons-tournament-2014-11-08-10-01-11.jpg)
 
 ![Emerald Dragons Tournament](http://media.eick.us/media/photographs/2014/2014-11-08/emerald-dragons-tournament-2014-11-08-10-01-36.jpg)
 
