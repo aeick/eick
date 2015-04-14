@@ -7,7 +7,7 @@ tags:
 - jasmine
 - soccer
 featured_image: "http://media.eick.us/media/photographs/2014/2014-11-16/mclean-all-star-day-two-2014-11-16-16-20-59.jpg"
-photo_layout: "three_up"
+photo_layout: "two_up"
 intro: "McLean All Star Tournament Day 2"
 ---
 ![McLean All Star Tournament Day 2](http://media.eick.us/media/photographs/2014/2014-11-16/mclean-all-star-day-two-2014-11-16-15-23-35.jpg)
