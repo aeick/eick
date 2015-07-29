@@ -10,7 +10,7 @@ tags:
 intro: "This is just an outline."
 published: true
 ---
-Libby wrote me a script for when Trick or Treaters come by, just in case.
+Libby wrote me a script for when Trick or Treaters come by, just in case I forget what to say.
 
 ***
 
